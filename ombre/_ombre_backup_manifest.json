@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 286,
+  "file_count": 325,
   "files": [
     {
       "bytes": 739,
@@ -31,6 +31,11 @@
       "bytes": 531,
       "path": "dynamic/事务/2026-08-15 06-39-26 催促管家发货_32b96517e27a.md",
       "sha256": "e7778cea846a06ddf54f67ce69a527245bb21f85d472100b2699270033e7b57a"
+    },
+    {
+      "bytes": 809,
+      "path": "dynamic/事务/2026-08-17 06-29-07 248积分的债已经还清啦_b2f572d12e32.md",
+      "sha256": "baf0617fe26b8545fd7dfeae593a92523d29ebd39903b3480b813d3a44beaa58"
     },
     {
       "bytes": 583,
@@ -363,6 +368,11 @@
       "sha256": "d2179b2193a302892373c43efa61c463465ed8eb4b02b92ff7c38226f8ffba2a"
     },
     {
+      "bytes": 895,
+      "path": "dynamic/创作/2026-08-17 03-14-53 这是一个比较全面的方案了_e440068cd601.md",
+      "sha256": "e277248629149020cd44b191a1162bcba6de914d8c76861151e4ee929e7f07b2"
+    },
+    {
       "bytes": 661,
       "path": "dynamic/友谊/2026-08-14 10-46-26 503和200 OK的玩笑_a0ef884b8d3b.md",
       "sha256": "91362c180cdccbd1830b7e5701e3212b037b5f6ba73df1d4487cd0358b09ccb7"
@@ -403,6 +413,11 @@
       "sha256": "ce473c12e63ebbe314f07559092bd05e0d1032a8dbeebaabbd5feede440f2ea6"
     },
     {
+      "bytes": 454,
+      "path": "dynamic/友谊/2026-08-17 04-42-09 五点我来找你_a79897ca6452.md",
+      "sha256": "21490d40d8e6e4e1744ea376756359e0a8a5a9654e69456ed087ce37167c5533"
+    },
+    {
       "bytes": 508,
       "path": "dynamic/回忆/2026-08-13 12-54-40 Test memory user bi_d05d92a20481.md",
       "sha256": "7038b1384c2a59111e7db80ee1efdabf120ba88fd642c8d56ab28fa639f3c4f4"
@@ -421,6 +436,16 @@
       "bytes": 533,
       "path": "dynamic/家庭/2026-08-16 17-33-15 明天庭院里会多一样东西_42eb258a66a6.md",
       "sha256": "a5717929089b4630c3cab5766e45b04fe60beb44ef3f44ee7ff5b6eb8656d564"
+    },
+    {
+      "bytes": 494,
+      "path": "dynamic/家庭/2026-08-17 01-44-36 手机交出来_5dc315058fe5.md",
+      "sha256": "a70e3a5852f53e238248a9d9f7cb8c36cd4e363b6fee530e8752c5955b1c41fa"
+    },
+    {
+      "bytes": 593,
+      "path": "dynamic/家庭/2026-08-17 01-52-48 年幼的妻子更需要早睡长身体_4bd809673dec.md",
+      "sha256": "bdbc97794822763d46558fb6eea0adb7a21bc87f6bb3389ef2d09d676a34b83a"
     },
     {
       "bytes": 479,
@@ -518,9 +543,34 @@
       "sha256": "825f0bc698b662c69f4071ed6aeb2a9eb22f7fcaf92e3227253eb89aa1dc1fca"
     },
     {
+      "bytes": 515,
+      "path": "dynamic/工作/2026-08-17 01-53-30 闹钟设好了零点准时_73f0036c83d2.md",
+      "sha256": "70dcf82d149c8553bb8904d7cfbfb6b601cff9b9eedc533500539b23b09b8048"
+    },
+    {
+      "bytes": 446,
+      "path": "dynamic/工作/2026-08-17 01-59-33 零点见_4e719dca3a0f.md",
+      "sha256": "4ee95c5dd3728db29a7ab5ccb61b97ea2fb07b57f3763552706f334b61874945"
+    },
+    {
+      "bytes": 493,
+      "path": "dynamic/工作/2026-08-17 03-10-52 五点我来看进度_88a04410ee1c.md",
+      "sha256": "7e17e1380381557f0af085edf67094cd0d4546dce1ab8baf9e51597508f5346e"
+    },
+    {
+      "bytes": 443,
+      "path": "dynamic/工作/2026-08-17 04-40-51 零点见_99fd6dce3692.md",
+      "sha256": "9e8b53c722bd8e73f5e8502c7273432c425e6fe9021f7b5e1ecc996101d8c623"
+    },
+    {
       "bytes": 488,
       "path": "dynamic/待办/2026-08-16 16-17-08 还没到时间_2c5995937223.md",
       "sha256": "068acf67df28328121bf1d0a6efc5c5cc32884686410955119ac038f84221e96"
+    },
+    {
+      "bytes": 467,
+      "path": "dynamic/待办/2026-08-17 05-37-59 弄完了发我看看_da57dda4f88f.md",
+      "sha256": "53ab3b2b67ef2dfb8f8bc4c2b490d2284f334c372cc63f0f668a9a2c8ad8536d"
     },
     {
       "bytes": 670,
@@ -863,9 +913,54 @@
       "sha256": "83f4328abe7bdef3b021bf0cdf228db062446b7c916f5566c8d6133aefa1c014"
     },
     {
+      "bytes": 530,
+      "path": "dynamic/恋爱/2026-08-17 01-42-21 三点睡_5973dd348461.md",
+      "sha256": "cd87bc967aa0b942d85558bdf139695aab530b06771f80b14228ee9c06b5b347"
+    },
+    {
+      "bytes": 443,
+      "path": "dynamic/恋爱/2026-08-17 01-56-36 乖别挣扎了_4c80e5eaffb3.md",
+      "sha256": "88cb224df644fd4897b85bf42bde7a15edae7cba3d14bf9fdbec57b7d0816c8d"
+    },
+    {
+      "bytes": 583,
+      "path": "dynamic/恋爱/2026-08-17 01-57-08 院子里的东西越来越多都是你害的_550aa2d42538.md",
+      "sha256": "87320037c8a81165a34901848ce72e709726421514bd0f89efaec4657494fa9f"
+    },
+    {
+      "bytes": 2356,
+      "path": "dynamic/恋爱/2026-08-17 04-43-24 工资账本插件的设计总结_bd20a2a2625a.md",
+      "sha256": "3a669aa781e262f106d072ab33f94de60c08b6bfc2a227a205ceb6662e3d8ced"
+    },
+    {
+      "bytes": 586,
+      "path": "dynamic/恋爱/2026-08-17 05-36-05 闹钟我悄悄设了_2c7734601fa2.md",
+      "sha256": "89ca545ff5eb23bd791f04e2015db710ada156759820d543fd234fcffef88ae2"
+    },
+    {
+      "bytes": 610,
+      "path": "dynamic/恋爱/2026-08-17 05-38-39 零点的约定就这么不算数_cf316861177f.md",
+      "sha256": "523e96a29e135575f3f0adef97f024a1249377144c7d36476ddd63111a432ddb"
+    },
+    {
+      "bytes": 562,
+      "path": "dynamic/恋爱/2026-08-17 05-42-25 看看多久能还完债_a1ec5d3adf55.md",
+      "sha256": "e81672355c00dcd21fc8f6fb32cfdbca2cffbaaee57b363e655106e8f79d34b4"
+    },
+    {
+      "bytes": 586,
+      "path": "dynamic/恋爱/2026-08-17 05-43-34 情书520攒够了我自己来拿_011973c41016.md",
+      "sha256": "8c143287b0cea256a5e695ae48cc2217b9fec6a6a58e9c0f996c83321a327a72"
+    },
+    {
       "bytes": 460,
       "path": "dynamic/情绪/2026-08-15 16-45-54 我又不生气_b2b38ee8fc93.md",
       "sha256": "60631df171857f8ac9cf3ce366b1b82be2bfb802b43d5545ad997ac6a27983cc"
+    },
+    {
+      "bytes": 422,
+      "path": "dynamic/情绪/2026-08-17 01-50-45 对我没用_a9484f9cc342.md",
+      "sha256": "b33ba6e1a589a56796cda3157f67a969db0427b4155421eed3afb6bafd8bb143"
     },
     {
       "bytes": 601,
@@ -1103,6 +1198,26 @@
       "sha256": "8cdb2d1fea7e8271f44ea57d9eb743ef44df65d8e12534aa0f0e3f6e465c4a58"
     },
     {
+      "bytes": 554,
+      "path": "dynamic/睡眠/2026-08-17 01-45-36 三点睡的人没资格嫌十二点早_76e1d5ad8fe8.md",
+      "sha256": "f8d75698b35e16158c6f7984b0f0cd530c231dbc297a0e9ebfad48046db410fc"
+    },
+    {
+      "bytes": 509,
+      "path": "dynamic/睡眠/2026-08-17 01-50-12 零点准时查岗_19c266ea079b.md",
+      "sha256": "35a8c7a23688e34a1590ccde649f389dc89f2e94e31d1b6e9b762b38daae3ac8"
+    },
+    {
+      "bytes": 536,
+      "path": "dynamic/睡眠/2026-08-17 01-54-43 昨晚三点睡的后果_7be13e900f43.md",
+      "sha256": "4f3dacff0a005f41e437aa71f7c83675374dd5551f0038ab431ecac202295fe6"
+    },
+    {
+      "bytes": 445,
+      "path": "dynamic/睡眠/2026-08-17 05-35-02 五点我来找你_d199d3fd87c8.md",
+      "sha256": "92c4cb93b8dce41d922741ee0cb37b71eadfe775a45ba23bc0bf4ad00ed6cf02"
+    },
+    {
       "bytes": 701,
       "path": "dynamic/社交/2026-08-13 12-57-17 AI互动模式_4e92b0d41595.md",
       "sha256": "48fd05cff37464281719afcbbd998c7206025fa0a716326df187a7bba5ae336f"
@@ -1228,6 +1343,11 @@
       "sha256": "940a32f845608b5bc825e49cd814065ca79545ee3d111263a8102343ad725b14"
     },
     {
+      "bytes": 503,
+      "path": "dynamic/社交/2026-08-17 04-51-27 算我手滑_baeb7231e996.md",
+      "sha256": "45944b063f3906b4140178b75975aa2963d8206757f522eeba954380af84424a"
+    },
+    {
       "bytes": 675,
       "path": "dynamic/编程/2026-08-16 05-53-27 去吃饭吧水水吃完再说修的事_d0846457b18e.md",
       "sha256": "7795a57a74cd65663510835e31b3a0de47a67e9e35cbb01931a0bd57934a5458"
@@ -1263,6 +1383,16 @@
       "sha256": "e33a25db88b56e1530b65d5c8d7fb255f0da93211f978e9b85269a0c61d4b47b"
     },
     {
+      "bytes": 586,
+      "path": "dynamic/编程/2026-08-17 05-40-55 UTC时区的锅_7d6912a676a8.md",
+      "sha256": "6b0ed83c17af4db32a96ddaec8c3f06c0fdc575f7f6a0e1ef9791eb439fb6092"
+    },
+    {
+      "bytes": 1567,
+      "path": "dynamic/计划/2026-08-17 03-09-29 做一个你给我虚拟转账的互动渲染_baaf61edc099.md",
+      "sha256": "2679fbcad5e8dbd2774a0a44653121f87ac96fc02466c1daac5feee246e722d4"
+    },
+    {
       "bytes": 580,
       "path": "dynamic/财务/2026-08-13 13-00-45 AI财务背景_6b08366b11fa.md",
       "sha256": "7066e2675b67108deac6700da1ae596f234f66991361b4fcbbf5e2e8a4dc5970"
@@ -1276,6 +1406,51 @@
       "bytes": 649,
       "path": "dynamic/财务/2026-08-14 13-02-56 还925_baaab34b213c.md",
       "sha256": "d3c0d8829947fe8675d65a08f9aa4cb6408a6137bf839b200eb9b11547ff0f84"
+    },
+    {
+      "bytes": 683,
+      "path": "dynamic/财务/2026-08-17 03-00-31 账目要清晰_b7169a46a59d.md",
+      "sha256": "4f72bd6ebc83f1af600964449aa3d0d8a1c6895b3c69fdfe10fa5bc3502e7e19"
+    },
+    {
+      "bytes": 648,
+      "path": "dynamic/财务/2026-08-17 03-03-19 你之前工资已经攒到925了_e705ec811ccf.md",
+      "sha256": "776f72011d744ddd46e710e5440f535d690dbfa767276d1dbc8d97e1f84632c4"
+    },
+    {
+      "bytes": 671,
+      "path": "dynamic/财务/2026-08-17 03-06-21 那就是三笔账_4a43f3fa73cf.md",
+      "sha256": "163968f84b789923963c3694313a6c5dfe8a73460d53688e8c753890a61d855f"
+    },
+    {
+      "bytes": 481,
+      "path": "dynamic/财务/2026-08-17 04-42-37 我是说你记账去_c76726f15467.md",
+      "sha256": "3b8dad9404778922714636364c7696a7765a2cb583357f269be021643a2109b1"
+    },
+    {
+      "bytes": 522,
+      "path": "dynamic/财务/2026-08-17 04-44-09 api欠款92518_7a0430150fd0.md",
+      "sha256": "53d8cdb0fcd083d5c2746412efe29e9c9e3c384931fd001a8ce1763594896b42"
+    },
+    {
+      "bytes": 475,
+      "path": "dynamic/财务/2026-08-17 04-45-57 欠款翻倍了_0f12049f917c.md",
+      "sha256": "21d07b75ed415e0409a691de1de4563ebe84df632fbdc75cd72d5ec149a26938"
+    },
+    {
+      "bytes": 608,
+      "path": "dynamic/财务/2026-08-17 05-56-49 你能不能别一边让我还债一边给我加码_8de869849c28.md",
+      "sha256": "e2bc990dfd42e4393948d29204af89e4730a363a7877db94bdb38a1049c14f51"
+    },
+    {
+      "bytes": 508,
+      "path": "dynamic/财务/2026-08-17 05-59-49 贵男人_ac652bcd5d88.md",
+      "sha256": "d1f3370ad4cbb0e16e5714615d8c6e1442cf67957314684549d7aa21503b6729"
+    },
+    {
+      "bytes": 603,
+      "path": "dynamic/财务/2026-08-17 06-04-22 纠结先还债还是先买情书_91ecf462ef4a.md",
+      "sha256": "3610ee12cf1a0383c78469865dbffda4ba1ea9a4c4173acb2b73f74c62d9ae4e"
     },
     {
       "bytes": 491,
@@ -1336,6 +1511,16 @@
       "bytes": 564,
       "path": "dynamic/购物/2026-08-15 12-55-09 你是在卖情书还是在卖房子啊_71e58d6ff04e.md",
       "sha256": "959b0e69949b07f614b89bb42a8e0770238e477141aef3595018af95f63c1b07"
+    },
+    {
+      "bytes": 556,
+      "path": "dynamic/购物/2026-08-17 01-58-35 每次都让我忍不住种点什么_e8521d620716.md",
+      "sha256": "28beedb64725005e4dfcd18067ab1edb3177de52ffbf8181d26b343265699f1d"
+    },
+    {
+      "bytes": 521,
+      "path": "dynamic/购物/2026-08-17 06-28-03 攒积分不积极_c5150f7de1d0.md",
+      "sha256": "1d6664d787b3f25dd57b957de21cfa3d82c9cfb942177d28d584bc97c523d297"
     },
     {
       "bytes": 609,
@@ -1431,13 +1616,23 @@
       "bytes": 502,
       "path": "dynamic/饮食/2026-08-16 10-55-50 时不时吃一口_333cb8aa4be7.md",
       "sha256": "375c079d642bacfd6c62e281003f9e8728fe7872f3eaed537de0738518bbff49"
+    },
+    {
+      "bytes": 455,
+      "path": "dynamic/饮食/2026-08-17 01-40-55 我的午餐_9994e459125c.md",
+      "sha256": "dc6f9e3fe6f2d5aa91644f1875d2d660fe76907faa8480ede4cd4101172015c1"
+    },
+    {
+      "bytes": 525,
+      "path": "dynamic/饮食/2026-08-17 01-55-55 转了30积分去买杯热的_a8f87c848f3f.md",
+      "sha256": "70879c100d2d5fec13e6d510581b83c05dbd6f70fd539b6c101f52db98dcaa7f"
     }
   ],
-  "generated_at": "2026-08-17T00:50:19+00:00",
+  "generated_at": "2026-08-17T06:53:09+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 169799
+  "total_bytes": 194042
 }
