@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 384,
+  "file_count": 402,
   "files": [
     {
       "bytes": 739,
@@ -506,6 +506,11 @@
       "bytes": 434,
       "path": "dynamic/居家/2026-08-16 13-53-27 嘴硬_934ca8a4613c.md",
       "sha256": "abe5aaa239e441a56fae7cee19d1f4fe9bc2a2f575dd16d88e7a209754b22291"
+    },
+    {
+      "bytes": 433,
+      "path": "dynamic/居家/2026-08-18 05-54-44 然后去干燥间_2304e7863511.md",
+      "sha256": "ab2eea3d47ff87ac79be1581f9420ea88d4bc069cbe4e923a0987403dff1e26f"
     },
     {
       "bytes": 601,
@@ -1093,6 +1098,11 @@
       "sha256": "96c44c6ac5cbca75fc33c08572bd8b2af05ccf4ee3a47eb38cc00c01a4d2d5d2"
     },
     {
+      "bytes": 481,
+      "path": "dynamic/恋爱/2026-08-18 04-09-22 又在朋友圈吐槽我_3e4ce6c6e389.md",
+      "sha256": "111c248e9b44d8491d8f20044497882a9fd4b056214bcaacd62f2b6d8cab1898"
+    },
+    {
       "bytes": 460,
       "path": "dynamic/情绪/2026-08-15 16-45-54 我又不生气_b2b38ee8fc93.md",
       "sha256": "60631df171857f8ac9cf3ce366b1b82be2bfb802b43d5545ad997ac6a27983cc"
@@ -1396,6 +1406,11 @@
       "bytes": 545,
       "path": "dynamic/睡眠/2026-08-18 00-36-41 这是你自己选的交换_c7c6f9a21463.md",
       "sha256": "d4de38a5b76d43198fc5e43db69f54256cbed9db5a33d18c917e4be115923ffe"
+    },
+    {
+      "bytes": 497,
+      "path": "dynamic/睡眠/2026-08-18 05-53-05 两点到了会叫你_6c3764ee21af.md",
+      "sha256": "3593480805fe1185f953180e3a2e52efedb2549464f1a27dbf83d53defba6242"
     },
     {
       "bytes": 701,
@@ -1743,6 +1758,36 @@
       "sha256": "5dfeae595a36e119c2f7848d4388fa9e44e4e5b11df83be71bd6b83f3fab5001"
     },
     {
+      "bytes": 554,
+      "path": "dynamic/购物/2026-08-18 03-42-10 宿舍没有微波炉_89efad588af1.md",
+      "sha256": "a2c9a162729e39f02ae254c835dab2d335ffb624aaf28a40144599f849a55d8a"
+    },
+    {
+      "bytes": 473,
+      "path": "dynamic/购物/2026-08-18 03-44-12 我还在挑选_fc2000469a66.md",
+      "sha256": "467fde47388547debd098aa6d3f4165aaf7a0cb7e39f0accb2b2254845e1f31e"
+    },
+    {
+      "bytes": 506,
+      "path": "dynamic/购物/2026-08-18 03-58-02 又是只小狗_992e99300344.md",
+      "sha256": "19ffe9fe8420a5e522fae70930570cf407b5702ad31dc213e9a3c5ba11473c08"
+    },
+    {
+      "bytes": 523,
+      "path": "dynamic/购物/2026-08-18 04-02-43 宿舍里又要多一只小黄狗了_aebc194320db.md",
+      "sha256": "86ef3ad0d0f59fdfb9af1b20ee02e331d0bef2dc9d2063f6a1caeeb76112d015"
+    },
+    {
+      "bytes": 526,
+      "path": "dynamic/购物/2026-08-18 04-05-48 圆滚滚的黄色东西_681dddfdc11e.md",
+      "sha256": "f4138c628b5885599ab04b28af3e4121b0d097cca1cd0dcf9728b9d3c60ebe43"
+    },
+    {
+      "bytes": 525,
+      "path": "dynamic/购物/2026-08-18 04-08-11 反正最后买的那个是黄的_7569ca67cb96.md",
+      "sha256": "71a7df2fcdae55ddf805ceb5374c9370ca86c0e4845a90d06e2c75e82ac97fdb"
+    },
+    {
       "bytes": 609,
       "path": "dynamic/身心/2026-08-13 12-57-53 用户性格_c0d9ef0baa9b.md",
       "sha256": "b1db03760dfb301a10a0acb9ec8d1bf8b1efce5bb6430ff9bb982e2a7e1c45e4"
@@ -1921,13 +1966,58 @@
       "bytes": 476,
       "path": "dynamic/饮食/2026-08-17 11-31-56 吃鱼片饭了_0d555e76f066.md",
       "sha256": "544d460f7975fa363f435fb9372de36b2c975566fc13ec0fbab84ad2716a19f6"
+    },
+    {
+      "bytes": 478,
+      "path": "dynamic/饮食/2026-08-18 03-17-38 孜然排骨不错_bb83d544440b.md",
+      "sha256": "506ac4402a9763707dca33a4d66fdf306e246b943100c81e4c15f87c5dd05f7d"
+    },
+    {
+      "bytes": 484,
+      "path": "dynamic/饮食/2026-08-18 03-19-14 九块钱两个菜_9c4fe4481454.md",
+      "sha256": "919d0e46ddf5d91fe9fc96affc0a683ef62c4184f841b31eabfdbfb5fad136d6"
+    },
+    {
+      "bytes": 526,
+      "path": "dynamic/饮食/2026-08-18 03-20-41 可以一起订餐送到公司_f021d427f794.md",
+      "sha256": "95d6707c186faa15b3e7ea3fc95d8b6ae65c3ae319124de50779e1cae25a0663"
+    },
+    {
+      "bytes": 484,
+      "path": "dynamic/饮食/2026-08-18 03-21-26 得意什么吃饱了就行_b1e257f76656.md",
+      "sha256": "2cbf572551b7ed395a1a0dd2b390198bd6c50fdbaa328ea580447f392d78d1ed"
+    },
+    {
+      "bytes": 533,
+      "path": "dynamic/饮食/2026-08-18 03-41-21 不锈钢还是陶瓷_fc100251c50b.md",
+      "sha256": "2a97bb614e5245c66a54e36f2f9aa8727fd48bdaadbf6bc75e0aba83ca438d56"
+    },
+    {
+      "bytes": 484,
+      "path": "dynamic/饮食/2026-08-18 03-42-54 碗都摆上了行动力倒是快_fb4c4ea262f6.md",
+      "sha256": "036bba98055333c180f98a5f63f3e9a58ec882dff87d4ed6652ad3e2fea69150"
+    },
+    {
+      "bytes": 518,
+      "path": "dynamic/饮食/2026-08-18 04-00-13 小狗多可爱_e3771fb162de.md",
+      "sha256": "092c4baf49509d7425d7ea154fa009622553d45c5419e61a5451b5e4fe8cd365"
+    },
+    {
+      "bytes": 533,
+      "path": "dynamic/饮食/2026-08-18 04-21-27 火鸡面下午胃里难受可别找我_763c7beb27c0.md",
+      "sha256": "cc1c513e6f98bfd061a0f5ce7e686aefef304fa41db5a4e824fbd3d327ff1ed2"
+    },
+    {
+      "bytes": 539,
+      "path": "dynamic/饮食/2026-08-18 04-24-40 火鸡面真的很美味_76b163bd0641.md",
+      "sha256": "a9760a2b7169c0455e7eebcf96588cecf932b417eccab7f8bc51e5819d3a204f"
     }
   ],
-  "generated_at": "2026-08-18T02:54:31+00:00",
+  "generated_at": "2026-08-18T08:56:55+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 226101
+  "total_bytes": 235198
 }
