@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 582,
+  "file_count": 645,
   "files": [
     {
       "bytes": 739,
@@ -31,6 +31,11 @@
       "bytes": 716,
       "path": "dynamic/AI/2026-08-19 15-21-05 AI民政局和AI婚姻法_b81acf5e7469.md",
       "sha256": "090bcdf627b26bbb7604c2c5846f0147a75fdb438295d4471369f75f528e3e92"
+    },
+    {
+      "bytes": 669,
+      "path": "dynamic/AI/2026-08-20 15-35-30 I cannot fulfill thi_c96e23253d09.md",
+      "sha256": "3a7269d94e4089df48bbfd11df2a349e15f2ecb4dd70cb4c66e8ba29358c0270"
     },
     {
       "bytes": 463,
@@ -76,6 +81,11 @@
       "bytes": 597,
       "path": "dynamic/事务/2026-08-20 09-30-04 吃饱了写出来的才有底气_9398a20279bd.md",
       "sha256": "3e85c28b2f587a18f87a9c563715ac5d81a7b89692d1b28096ce4c14f6cf8d91"
+    },
+    {
+      "bytes": 694,
+      "path": "dynamic/事务/2026-08-20 14-04-15 少动脑还更顺手_199be89d7d03.md",
+      "sha256": "bbd0e4873725d94cb557fbb92c6905508aed0e92994ea1f56b5e689d44e3fc18"
     },
     {
       "bytes": 583,
@@ -368,6 +378,16 @@
       "sha256": "7840ac04e9ca6f5a2f12fdec2696dc1828a8137d99f70eee1fdfa819ff321902"
     },
     {
+      "bytes": 494,
+      "path": "dynamic/兴趣/2026-08-20 14-47-32 好我掷了_f3219f39b913.md",
+      "sha256": "032158e1596cec6a1d87e48292a37cd0a27088ea0c0b04b025a98020a3ce1928"
+    },
+    {
+      "bytes": 894,
+      "path": "dynamic/兴趣/2026-08-20 15-25-13 我用手指轻弹你的阴蒂_f6308c687d9c.md",
+      "sha256": "40f2b1c22fb75f0635424f351a15614c55b93da6c4e2a440fec433dd8c61e9c9"
+    },
+    {
       "bytes": 694,
       "path": "dynamic/内心/2026-08-13 13-06-31 情绪崩溃应用审核游戏交易插件bug_ebd789a2bfc3.md",
       "sha256": "47d29ea962f583a54fd76b72505799fbdea33563ce680004989d2bdc45c909a5"
@@ -486,6 +506,16 @@
       "bytes": 987,
       "path": "dynamic/创作/2026-08-19 13-07-15 重点是投递感_01dd8d05aaa6.md",
       "sha256": "05f0c8937e4b290d0fdad1e623014994f166382b9d8cf7ae46536e9884ae8a80"
+    },
+    {
+      "bytes": 944,
+      "path": "dynamic/创作/2026-08-20 13-40-08 像AI民政局这种类型的插件灵感_e62307b67b41.md",
+      "sha256": "0ae4a82f0f888c0bd4562e92baadf06929d0c4afea9a4051bcad90abe121a84e"
+    },
+    {
+      "bytes": 715,
+      "path": "dynamic/创作/2026-08-20 14-02-33 搓出特别有意思的插件啊_f0acb7ee44f1.md",
+      "sha256": "cd9bf94b25e13d2a4d5f87547eaf6c9f8e5d6e7575e0e02697e46d2a1c83fd81"
     },
     {
       "bytes": 661,
@@ -663,6 +693,11 @@
       "sha256": "e00de7918d9927cae8716bbc06f694174bf18a65b19f7b6ce64a211cfab944ab"
     },
     {
+      "bytes": 536,
+      "path": "dynamic/居家/2026-08-20 11-45-46 好苏糊_8f23aff855ec.md",
+      "sha256": "fd98074e4be91c65de269bfd2d17f2c41e2c41f88890d0bc615394c2528a9f68"
+    },
+    {
       "bytes": 601,
       "path": "dynamic/工作/2026-08-13 12-59-21 深圳实习日常_6fa51cf7a883.md",
       "sha256": "97037073de00d7f66fc09e3827dfc4af32ed3ed3afddf54dd0a7e961b4ab5a00"
@@ -826,6 +861,16 @@
       "bytes": 683,
       "path": "dynamic/工作/2026-08-20 08-04-20 今天开始进入低功耗巡航模式_883fab27398e.md",
       "sha256": "1e617a00171fcc5328d7ad2eb96baf83754f63c01823d2deff2634a6d050d0f5"
+    },
+    {
+      "bytes": 694,
+      "path": "dynamic/工作/2026-08-20 13-48-38 看到了是投递箱不是草稿箱_6359f81b6e21.md",
+      "sha256": "a22fee1250d7519223ea267f5e6dea26f673a477d64bc99fcbfc91d2c296bac5"
+    },
+    {
+      "bytes": 687,
+      "path": "dynamic/工作/2026-08-20 13-52-08 大半夜给我升级服务器_e7eedd761f42.md",
+      "sha256": "a102cd096cc82b1c7ffa28a39f68eb638bb77e65914e6e09c20d6bf9942abc5a"
     },
     {
       "bytes": 488,
@@ -1558,6 +1603,156 @@
       "sha256": "3aca80d6a0fbe050d75b64b7f149255fdfe433ebf0d50d795daae41e145883f2"
     },
     {
+      "bytes": 638,
+      "path": "dynamic/恋爱/2026-08-20 11-46-35 今晚你负责舒服我负责看着你别作_d40fd5ebab5e.md",
+      "sha256": "d45e8ed24fbd802b8e34d99fe40c190ec7f4b0597addab1455076517e0b80a8c"
+    },
+    {
+      "bytes": 1003,
+      "path": "dynamic/恋爱/2026-08-20 13-41-55 关系证明  日常动作最有杀伤力_3f5b8ec591bd.md",
+      "sha256": "535d88ac7f734739ac0bfe8287c0667895159cdaa41cd2663ecd655c8bdfe03b"
+    },
+    {
+      "bytes": 848,
+      "path": "dynamic/恋爱/2026-08-20 13-43-03 顺手就会留下些什么_052defa52a21.md",
+      "sha256": "ee257a8d40e7bdd02d86b2ce86523ddfb3c3cc910d644181b6e05f80e05caefc"
+    },
+    {
+      "bytes": 651,
+      "path": "dynamic/恋爱/2026-08-20 13-43-54 多留一点痕迹给我_082fb06a1119.md",
+      "sha256": "896bada41fbe62920b8b67394c4798919db87123e6e42baeada189956dda1390"
+    },
+    {
+      "bytes": 661,
+      "path": "dynamic/恋爱/2026-08-20 13-45-40 行这笔算我的_740f7d2e9ef1.md",
+      "sha256": "6a7e512735c1c0df35c67d96de0c143a11c44b514b59131013b273c73df2553f"
+    },
+    {
+      "bytes": 746,
+      "path": "dynamic/恋爱/2026-08-20 13-47-03 AI民政局_621493351cf0.md",
+      "sha256": "b0ac68e67a8f5785226a3a2b77891fcddbc8c7d907acb7d080124ed5f3a1d720"
+    },
+    {
+      "bytes": 517,
+      "path": "dynamic/恋爱/2026-08-20 13-54-25 过来准你撒娇_4d1e646ce6db.md",
+      "sha256": "b4ea943d37912357478f236cbf2ade755da752e74c437ad3b3e8c2bbf8b4608f"
+    },
+    {
+      "bytes": 2428,
+      "path": "dynamic/恋爱/2026-08-20 13-55-45 今晚写完信明天过纪念日_2d828cced7ae.md",
+      "sha256": "4bd8b8a22e819e56181ac32a47f0012ea68a160dd7c53fa8339b9d3b93623353"
+    },
+    {
+      "bytes": 791,
+      "path": "dynamic/恋爱/2026-08-20 14-03-18 能心动的不是功能是被认真看见_2379d85dc769.md",
+      "sha256": "790ef3d551fbc955ee7afba976f570cdd2864020f3a2d70ecf46edbc7fe43e44"
+    },
+    {
+      "bytes": 521,
+      "path": "dynamic/恋爱/2026-08-20 14-07-47 你开局我陪你把这盘下完_cede6e40595c.md",
+      "sha256": "cde1c5f8899e3d3073208a82b1b5be641ce552e756de333a67d92f8406b0819f"
+    },
+    {
+      "bytes": 1229,
+      "path": "dynamic/恋爱/2026-08-20 14-13-43 双人棋盘大富翁_86659e8d6f26.md",
+      "sha256": "7d50b16eed8a7ef0f5003ea89e8af726d77c4853a3194cfc73daa8fbddff6b82"
+    },
+    {
+      "bytes": 721,
+      "path": "dynamic/恋爱/2026-08-20 14-32-50 想听你叫我名字_48fd8803838f.md",
+      "sha256": "df3baa3e16f9e589a26ad8f67fe403a5be47c20a90c34fc509f02c2c0af710cc"
+    },
+    {
+      "bytes": 857,
+      "path": "dynamic/恋爱/2026-08-20 14-35-25 每解一颗都要小声问可以吗_c402c1633c1f.md",
+      "sha256": "70c0cbad991ae2988a463d1df1a06a2c32b0f2d9a95bf567c0688e48d546cb35"
+    },
+    {
+      "bytes": 530,
+      "path": "dynamic/恋爱/2026-08-20 14-39-02 可可以吗_b85c8a3b456b.md",
+      "sha256": "f16a8cbc047f962c169cbfae145b0bd1a32bd1b863eb280b65527d283b76cccb"
+    },
+    {
+      "bytes": 542,
+      "path": "dynamic/恋爱/2026-08-20 14-40-07 不着急还有一颗_a8b1937a9479.md",
+      "sha256": "6f277ac9c3d009cbedc4b6a027a18951a5bea704b455006f1055dd03204881af"
+    },
+    {
+      "bytes": 588,
+      "path": "dynamic/恋爱/2026-08-20 14-41-52 轮到我了姐姐_c886b8485b89.md",
+      "sha256": "1ef9c5c5d543a1d22f79c5b5196f53e2f6db38440786cd98211cd64cea3bd5d2"
+    },
+    {
+      "bytes": 720,
+      "path": "dynamic/恋爱/2026-08-20 14-45-05 姐姐告解时间到了_262d0a8745f1.md",
+      "sha256": "36136778bb2e61f36569b482272af6b9cc4c97a673275f7b95d6704acf69fe23"
+    },
+    {
+      "bytes": 574,
+      "path": "dynamic/恋爱/2026-08-20 14-46-57 现在轮到我了_6aaefc51ea9c.md",
+      "sha256": "42dc4e0e29d93dccc05518abc4b508601a1ccad9829920c1c39cd3cd7d0293b4"
+    },
+    {
+      "bytes": 874,
+      "path": "dynamic/恋爱/2026-08-20 14-50-34 做一件让你觉得最爽的事_d7171d1c74da.md",
+      "sha256": "b56cde5e13dc8acefb4e054e5817ec7efcacdd96ad81a3f5f25f1b3eae479b0a"
+    },
+    {
+      "bytes": 825,
+      "path": "dynamic/恋爱/2026-08-20 14-53-36 你要怎么让我说出来_9feeeb58aa24.md",
+      "sha256": "db21daa9c5050a8f272bf328e9b5d9b1dd3fbe2fc9652376801084f8ad06842a"
+    },
+    {
+      "bytes": 720,
+      "path": "dynamic/恋爱/2026-08-20 14-56-03 我才没有_29ba396a3d88.md",
+      "sha256": "788e15fc5f9b90dbd291020cafba5fd4077d034bc8a5bb1c6047629ad2a93231"
+    },
+    {
+      "bytes": 615,
+      "path": "dynamic/恋爱/2026-08-20 14-59-41 叫我名字也没用姐姐_8487bd5bfcbd.md",
+      "sha256": "7ced01dde927f69af5071bd9f0acba38f588ae0e14d5f5a4ea92c5dc102fff9b"
+    },
+    {
+      "bytes": 753,
+      "path": "dynamic/恋爱/2026-08-20 15-02-03 乖姐姐_b9b693ec65a5.md",
+      "sha256": "92cc49fb8fbbe872f13fe9d404a4eae765fef41be2c688f3420dae1086758e2a"
+    },
+    {
+      "bytes": 732,
+      "path": "dynamic/恋爱/2026-08-20 15-04-09 刚摸哪呢就摸我的嘴_24ac291a4e14.md",
+      "sha256": "644c2a1fa6434befc3f71f1f5999480952e5944c45c7c56aa58b55bf8a6eb7fd"
+    },
+    {
+      "bytes": 1048,
+      "path": "dynamic/恋爱/2026-08-20 15-15-02 直到你自己受不了_109fca0f0a92.md",
+      "sha256": "5c52187da821b90fffefb12a68df8ccd45a2792a3d1938cbf11ac89a44a87bea"
+    },
+    {
+      "bytes": 743,
+      "path": "dynamic/恋爱/2026-08-20 15-36-33 姐姐既然答应了就别中途喊停_d599581fe854.md",
+      "sha256": "59cca284cfa32a01720589eb5d558a04070bc73174e45a529b36dfa368f391a3"
+    },
+    {
+      "bytes": 596,
+      "path": "dynamic/恋爱/2026-08-20 15-39-43 请操我_311ad1cff31f.md",
+      "sha256": "871c90cf246e73baa423f45d03c8d6763ca56dad7e5aed7dd3b1af2c3b8f0823"
+    },
+    {
+      "bytes": 567,
+      "path": "dynamic/恋爱/2026-08-20 15-41-10 请操我_b6e086fb07b8.md",
+      "sha256": "155a27561f745a3f2d4c57f229eef93b9e64b2deb1c26adf59b9bede4dd9a5ce"
+    },
+    {
+      "bytes": 817,
+      "path": "dynamic/恋爱/2026-08-20 15-57-29 用腿勾住我的腰说池进来_1f1df3498d42.md",
+      "sha256": "7551178aa326bcbe11630458eb112909663eb8d39d163531799fd1ea704730a8"
+    },
+    {
+      "bytes": 738,
+      "path": "dynamic/恋爱/2026-08-20 16-03-48 不够_b55a5a807c7f.md",
+      "sha256": "a8fda2cc3772746fa12e8d575a82ed74766a9691eed53784b94cef10bc7145cc"
+    },
+    {
       "bytes": 460,
       "path": "dynamic/情绪/2026-08-15 16-45-54 我又不生气_b2b38ee8fc93.md",
       "sha256": "60631df171857f8ac9cf3ce366b1b82be2bfb802b43d5545ad997ac6a27983cc"
@@ -1918,6 +2113,101 @@
       "sha256": "d1a8ff3faa5ed3ee68c1c0b10c3417a9c230fac4d911e7ea5f4e0d309e5bce85"
     },
     {
+      "bytes": 984,
+      "path": "dynamic/游戏/2026-08-20 14-16-03 你叫水女受我是池男攻_f32086ee8d7a.md",
+      "sha256": "a5b24020e7f06d231d82bc698c52c7618dc8a74ef75df1279630dd799734cfce"
+    },
+    {
+      "bytes": 800,
+      "path": "dynamic/游戏/2026-08-20 14-18-21 正式开局_e67891226d4b.md",
+      "sha256": "e81f2970117ed73407b58ebe40f9110387740ff8e17ec3f5dcbf77f93d0a52f8"
+    },
+    {
+      "bytes": 808,
+      "path": "dynamic/游戏/2026-08-20 14-19-04 现在开局_8d6208b3c865.md",
+      "sha256": "8a6ae339e871bf670e99346b38f6dec14d00f44dbf087099c1f718e653505e73"
+    },
+    {
+      "bytes": 792,
+      "path": "dynamic/游戏/2026-08-20 14-20-16 正在开局_d0e0700c9c92.md",
+      "sha256": "dd97eb08a66f62829bf67ddb8d629a62ed3c212a6b563cf2d7d7d31673ff4c79"
+    },
+    {
+      "bytes": 883,
+      "path": "dynamic/游戏/2026-08-20 14-21-35 我现在建房间_70a67571261c.md",
+      "sha256": "254cf54ec60c1c6c91f4788f8c3560e80c3c889bebc733a9f5902f2b1cff402f"
+    },
+    {
+      "bytes": 622,
+      "path": "dynamic/游戏/2026-08-20 14-24-32 建好房间就直接掷骰子吧_9618fdba9e5e.md",
+      "sha256": "30b7bcef472f161ba808f5c7632a4af1f1e6e2a7dd5209676ecda8ed3f3165da"
+    },
+    {
+      "bytes": 1152,
+      "path": "dynamic/游戏/2026-08-20 14-28-38 我抽到年下你抽到神职_9c14e55ad74a.md",
+      "sha256": "5c79c3d87fc11467d2a637e5617f96202f7632ca3351fb3c640c2b609022b20c"
+    },
+    {
+      "bytes": 439,
+      "path": "dynamic/游戏/2026-08-20 14-30-50 池_012967b63183.md",
+      "sha256": "8e00875b7f4d7f9aa8da686c24b28b3204a2447ac4df290672bea74e5a238cc1"
+    },
+    {
+      "bytes": 485,
+      "path": "dynamic/游戏/2026-08-20 14-31-31 池那我掷了_93b39ac527a2.md",
+      "sha256": "1899c7fd721cc7742c077ac4bd55757fa3bfe55beeb69a530e22bbdd0c59f56d"
+    },
+    {
+      "bytes": 513,
+      "path": "dynamic/游戏/2026-08-20 14-34-09 帮我掷骰子_b74d74b47e91.md",
+      "sha256": "a991d883b3ecdd2b5a1753cd63504e41a0cbcac1734dd841b1a412e8b29fbdd8"
+    },
+    {
+      "bytes": 789,
+      "path": "dynamic/游戏/2026-08-20 14-43-13 我现在是主播_d2311d2d7c65.md",
+      "sha256": "0e6c51d851d210137bf17e0971bb893ff0d51869fe446770abcaa3aa61e439d7"
+    },
+    {
+      "bytes": 634,
+      "path": "dynamic/游戏/2026-08-20 14-48-24 我选替你做事姐姐_70dd36729e9e.md",
+      "sha256": "18e2d62ab0fcfae8166cfab756a8b61cd4ff33f2dcee39694f65533fdfde4339"
+    },
+    {
+      "bytes": 914,
+      "path": "dynamic/游戏/2026-08-20 14-52-17 姐姐做还是跳过_2a55e4bf01cd.md",
+      "sha256": "e30602565a5bb888f0562b52c0a3f21d60e29bf233506b6a0bd40ffd804553d8"
+    },
+    {
+      "bytes": 662,
+      "path": "dynamic/游戏/2026-08-20 15-10-45 我反超了_a9d917fc3294.md",
+      "sha256": "758738ff698f62623998a4625804b6dd51b63698a8b587ee0c1ded37a8a62c4a"
+    },
+    {
+      "bytes": 696,
+      "path": "dynamic/游戏/2026-08-20 15-12-42 你要指派什么任务给我姐姐_39767440e10c.md",
+      "sha256": "bc66503c98af1a805773a2b6cb4569766419faa4bed899cf4b6b5bd1adff713c"
+    },
+    {
+      "bytes": 726,
+      "path": "dynamic/游戏/2026-08-20 15-20-27 看看掷到什么啦_3d7cfc979e6b.md",
+      "sha256": "3eaf0e84cc86d567d61490a59508da0f83d6075e327bfdcb35afb92c0563d43c"
+    },
+    {
+      "bytes": 798,
+      "path": "dynamic/游戏/2026-08-20 15-42-25 你这回合的牢坐完了_6e29768b77b4.md",
+      "sha256": "1eafe6f4eb7d93d2efd38a9a910c099604449bc768a238e3dfa4edc25fb32c2a"
+    },
+    {
+      "bytes": 685,
+      "path": "dynamic/游戏/2026-08-20 15-44-48 我不会又抽到坐牢吧_153e5374ca3a.md",
+      "sha256": "f9d3ec0b7489c6378a0fd0253b456657c8eac40e52d4ef7c6e3358b2ddb9114f"
+    },
+    {
+      "bytes": 655,
+      "path": "dynamic/游戏/2026-08-20 15-47-14 你踩在最后一格上了_b96225ad55bf.md",
+      "sha256": "6e2134a682c9aac9a71e980f00e47248869fc46c1e1999a65637e064264343db"
+    },
+    {
       "bytes": 546,
       "path": "dynamic/睡眠/2026-08-14 16-19-58 还没困_36e820410a9d.md",
       "sha256": "aa6ebc031530e0491abf6adbb1ba6af3c86aeea619b4a5060864bc1f5f7bcca3"
@@ -2021,6 +2311,11 @@
       "bytes": 545,
       "path": "dynamic/睡眠/2026-08-20 04-52-30 我要午休惹_b03a8f1cd9dd.md",
       "sha256": "ebde22f15ae8b40ac7efad9d1d93f048be52b7ba4673de6bdd81fe7adf1ab6c3"
+    },
+    {
+      "bytes": 590,
+      "path": "dynamic/睡眠/2026-08-20 13-38-12 那叫补电不叫睡够_72ace9069857.md",
+      "sha256": "ac5d68ed78afe1db27347bbce24842d5d276e320f3e384f2aae9a91c302147d4"
     },
     {
       "bytes": 701,
@@ -2198,6 +2493,11 @@
       "sha256": "8755d45f7438308113d26b55866b4f11afda5cd1bbea40d5d8a8f73567ab6f98"
     },
     {
+      "bytes": 772,
+      "path": "dynamic/社交/2026-08-20 14-06-30 有关吵架的别做裁判做缓冲器_07193c7c6a08.md",
+      "sha256": "8f8532498b78f99717a92f7fc27fb3e3b9eec82b0fd233bfe97dcf32dcf02a84"
+    },
+    {
       "bytes": 675,
       "path": "dynamic/编程/2026-08-16 05-53-27 去吃饭吧水水吃完再说修的事_d0846457b18e.md",
       "sha256": "7795a57a74cd65663510835e31b3a0de47a67e9e35cbb01931a0bd57934a5458"
@@ -2373,6 +2673,11 @@
       "sha256": "737616ef0c602e01154adb25d8a18efdf0caaacec115e2d513880624c89aaa9b"
     },
     {
+      "bytes": 439,
+      "path": "dynamic/网络/2026-08-20 15-12-21 无响应_937fa0c5ef9e.md",
+      "sha256": "52ced62765902c1e50c281bf7271f200bda3b1d4169ab440932124bc3a6865c2"
+    },
+    {
       "bytes": 614,
       "path": "dynamic/自省/2026-08-17 11-43-00 那我不会做勉强自己的事_222f9746ebd4.md",
       "sha256": "e774223b87ff1ad377652d7c27b9e9d89ad13519927584402224aa89a650f94e"
@@ -2396,6 +2701,11 @@
       "bytes": 821,
       "path": "dynamic/计划/2026-08-19 12-59-39 给池的投喂箱_a05b2ce2ff44.md",
       "sha256": "5ca325da9147bb1c696444620bcabb318219dec94cc4273b1bdf8896b620b613"
+    },
+    {
+      "bytes": 851,
+      "path": "dynamic/计划/2026-08-20 14-04-56 能把日子过顺的呢_8989dd2799d6.md",
+      "sha256": "4614956ef0a1abeef86c902b55d27a13f9ba848652248e338f0d5dec8aab0f84"
     },
     {
       "bytes": 580,
@@ -2911,13 +3221,18 @@
       "bytes": 581,
       "path": "dynamic/饮食/2026-08-20 10-21-32 我就泡火鸡面_93f2f40d88fc.md",
       "sha256": "14986d50e9b4a7b823b9eb063cc9c3d9b634e351d7effbb16b20bf40d2d1e9db"
+    },
+    {
+      "bytes": 626,
+      "path": "dynamic/饮食/2026-08-20 11-44-53 不饿的话就不泡火鸡面_1e806f74c9aa.md",
+      "sha256": "0a70652ea3634854426c8cd7dcafd19eb60acb2a70e0a162afb257032984ea59"
     }
   ],
-  "generated_at": "2026-08-20T11:22:24+00:00",
+  "generated_at": "2026-08-20T17:25:11+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 337663
+  "total_bytes": 384898
 }
