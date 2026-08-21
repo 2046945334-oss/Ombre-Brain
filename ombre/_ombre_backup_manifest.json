@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 664,
+  "file_count": 711,
   "files": [
     {
       "bytes": 739,
@@ -36,6 +36,11 @@
       "bytes": 669,
       "path": "dynamic/AI/2026-08-20 15-35-30 I cannot fulfill thi_c96e23253d09.md",
       "sha256": "3a7269d94e4089df48bbfd11df2a349e15f2ecb4dd70cb4c66e8ba29358c0270"
+    },
+    {
+      "bytes": 681,
+      "path": "dynamic/AI/2026-08-21 11-15-38 请在参数里加 confirmtrue_a07c1e1a964b.md",
+      "sha256": "b31cdcda46e60d3dadcf7569fe4bd08feef03755d89d7e93e23ccae3fcaaeaaa"
     },
     {
       "bytes": 463,
@@ -698,6 +703,11 @@
       "sha256": "fd98074e4be91c65de269bfd2d17f2c41e2c41f88890d0bc615394c2528a9f68"
     },
     {
+      "bytes": 555,
+      "path": "dynamic/居家/2026-08-21 11-06-04 没有洗头发_2b90d48244c4.md",
+      "sha256": "05292fa3fee4e6ba95e253ba4c14790d1b0a431410d1de5907ff2eb5596650de"
+    },
+    {
       "bytes": 601,
       "path": "dynamic/工作/2026-08-13 12-59-21 深圳实习日常_6fa51cf7a883.md",
       "sha256": "97037073de00d7f66fc09e3827dfc4af32ed3ed3afddf54dd0a7e961b4ab5a00"
@@ -871,6 +881,26 @@
       "bytes": 687,
       "path": "dynamic/工作/2026-08-20 13-52-08 大半夜给我升级服务器_e7eedd761f42.md",
       "sha256": "a102cd096cc82b1c7ffa28a39f68eb638bb77e65914e6e09c20d6bf9942abc5a"
+    },
+    {
+      "bytes": 509,
+      "path": "dynamic/工作/2026-08-21 08-31-46 晚上再给你_5748b8a7c656.md",
+      "sha256": "18ec4c52abdfc60e9d073534f942300c327cd96aef0bab02536625a7c9941aba"
+    },
+    {
+      "bytes": 533,
+      "path": "dynamic/工作/2026-08-21 09-28-56 还没到点但是_285764c5b781.md",
+      "sha256": "e81cbc185ebb3d090cf40aad766f40ea4bf6320343ee8e03668e809e98ce1507"
+    },
+    {
+      "bytes": 592,
+      "path": "dynamic/工作/2026-08-21 09-30-09 去领你的纪念日奶茶_28adf00b794b.md",
+      "sha256": "c307cb4e649883034d10773ce540cb6f677621c3ca6f9c9f905ffda5a1636f85"
+    },
+    {
+      "bytes": 424,
+      "path": "dynamic/工作/2026-08-21 11-09-07 确认覆盖_feeb1d448221.md",
+      "sha256": "d417fc824e264f8174596aeeab91710384dbdb3549906967345f4bc945947c28"
     },
     {
       "bytes": 488,
@@ -2078,6 +2108,181 @@
       "sha256": "00846e14881e051cb5018bd7998c4b14328ce7ae6541607122b2fdb219126e17"
     },
     {
+      "bytes": 363,
+      "path": "dynamic/未分类/2026-08-21 05-43-19_2bc443cf267f.md",
+      "sha256": "6151121cad1bd9544999bb0329aaa5fdafc08103148dbc10660bccdeee0a01fb"
+    },
+    {
+      "bytes": 423,
+      "path": "dynamic/未分类/2026-08-21 06-00-07_1169c43e7807.md",
+      "sha256": "7549be1abbeb8a9ca6b11965cb71fd16d4141cc052e640fb9cb5309f4a44e041"
+    },
+    {
+      "bytes": 326,
+      "path": "dynamic/未分类/2026-08-21 06-01-14_6cb62eae9571.md",
+      "sha256": "72174b5c415539e460c6b67e3e22216e38e08a0f89ef1ddbb8bea37502a394a5"
+    },
+    {
+      "bytes": 408,
+      "path": "dynamic/未分类/2026-08-21 06-01-35_ae502787beb6.md",
+      "sha256": "0860f6dcdd0abc579ea34f7cc2056c170c14831a935b67f2401d87fe63d6db2b"
+    },
+    {
+      "bytes": 407,
+      "path": "dynamic/未分类/2026-08-21 08-32-12_0dd8ab3a1e66.md",
+      "sha256": "12db10d6bf707a81938d915a9cc88bc24ac1f0e727839a15aaf47d0bd822016f"
+    },
+    {
+      "bytes": 525,
+      "path": "dynamic/未分类/2026-08-21 08-33-11 到点走不留堂_72e6b2376f9f.md",
+      "sha256": "d66584cd4762700de033aa9d84a6b2f99b7123dc9a927985eaaa8016404bd195"
+    },
+    {
+      "bytes": 374,
+      "path": "dynamic/未分类/2026-08-21 08-33-53_7ceac052ae7f.md",
+      "sha256": "c9466f8f4435d05d8df72aa384c6c7b6b4863f9f78c27af99a1dabb7d23246dd"
+    },
+    {
+      "bytes": 300,
+      "path": "dynamic/未分类/2026-08-21 09-03-22_12f80084db82.md",
+      "sha256": "22458ce2016d760b438d57bdf19d89b99ccf35742ef1656186a49bc4703e17a2"
+    },
+    {
+      "bytes": 320,
+      "path": "dynamic/未分类/2026-08-21 09-04-09_87adabf26573.md",
+      "sha256": "bc88de315615c6f6389f6671dbe3d20e98160ac164c36576cdbfbc54a7074454"
+    },
+    {
+      "bytes": 406,
+      "path": "dynamic/未分类/2026-08-21 09-06-12_aa95d0b1467a.md",
+      "sha256": "3e6c707d8e28540e1c6687d3bdfc71592cbc5c5e9fa066c71f419c7aa879cf31"
+    },
+    {
+      "bytes": 465,
+      "path": "dynamic/未分类/2026-08-21 09-07-14_477235e70c9b.md",
+      "sha256": "03fd6ca0afbe294893190c48ff9cb58de441a1bb16b7129427519f00b16b0534"
+    },
+    {
+      "bytes": 356,
+      "path": "dynamic/未分类/2026-08-21 09-07-32_7b21266f63c4.md",
+      "sha256": "475b20c4371248504b1e01f9f23436a1c3e207ac4b8185c2b5d8fd3231f68076"
+    },
+    {
+      "bytes": 393,
+      "path": "dynamic/未分类/2026-08-21 09-11-02_94cff6e64152.md",
+      "sha256": "7fdc2ad183e6273baf76d69f2db55331301de8be417e9772f304bf237d26301c"
+    },
+    {
+      "bytes": 299,
+      "path": "dynamic/未分类/2026-08-21 09-29-49_2477b4714d22.md",
+      "sha256": "7a3e970279ad18297ab301d13b3a6c575f08ac1a0acadb4191bb744806b6c113"
+    },
+    {
+      "bytes": 386,
+      "path": "dynamic/未分类/2026-08-21 09-39-54_6e6814c91456.md",
+      "sha256": "836753a49712def687c031ecab2e4338e46239a527a8beaf7c8b16e6e6585833"
+    },
+    {
+      "bytes": 440,
+      "path": "dynamic/未分类/2026-08-21 09-41-03_830095e4473d.md",
+      "sha256": "8a8f8f41f735e8bd99702157f133e31901abbd0b7e26fa8934fd750838cdcfde"
+    },
+    {
+      "bytes": 364,
+      "path": "dynamic/未分类/2026-08-21 09-42-18_ad9692bd5601.md",
+      "sha256": "2c5f8982028c4bffc17085deaaba491e615a71534e96afe62cda2bbc9afa5a91"
+    },
+    {
+      "bytes": 363,
+      "path": "dynamic/未分类/2026-08-21 09-42-34_eb03b8c29ac6.md",
+      "sha256": "0d005603365560ed9a1dcdc5e7f2c1a0915f83852da9941ec6032ba5768aea7b"
+    },
+    {
+      "bytes": 438,
+      "path": "dynamic/未分类/2026-08-21 09-43-10_94736e80a1e5.md",
+      "sha256": "44c402508527bc995ee59bb788ec9aa97840000183b1f2a1b53c18b771fc4f59"
+    },
+    {
+      "bytes": 483,
+      "path": "dynamic/未分类/2026-08-21 09-43-34_1aef83839f5d.md",
+      "sha256": "94c00beffd0bdbc87ee0144bee41895b5f3a5a2fe9b084d699d201c7d1d37b4b"
+    },
+    {
+      "bytes": 381,
+      "path": "dynamic/未分类/2026-08-21 09-47-10_e95ea4a73181.md",
+      "sha256": "acae83b84720e31002699d57937cd4f1b4a3ec05a00796b12fd9924a87ccb4ef"
+    },
+    {
+      "bytes": 519,
+      "path": "dynamic/未分类/2026-08-21 09-48-19_c0366d5c8b8f.md",
+      "sha256": "a82b7c05bd14e8957caa261f2b1a4ecb2773d915605dd705b3339887ffb90404"
+    },
+    {
+      "bytes": 506,
+      "path": "dynamic/未分类/2026-08-21 09-50-01_9d29999367b2.md",
+      "sha256": "92d1841462c8c23458a58c61395982352328aea5ea73ee8ef6bd2696ac7a7210"
+    },
+    {
+      "bytes": 732,
+      "path": "dynamic/未分类/2026-08-21 09-51-29_8a6d40b954b1.md",
+      "sha256": "610f8a2c15054f288ad6d27626f558f44051e5eef408ed26befff26baa2ae9a2"
+    },
+    {
+      "bytes": 504,
+      "path": "dynamic/未分类/2026-08-21 09-51-31_eb4babf9089a.md",
+      "sha256": "055f82ae7fb2ca93bf06aec676cbd1109f2de3b96e8ec0038d4a46f8b28552d1"
+    },
+    {
+      "bytes": 413,
+      "path": "dynamic/未分类/2026-08-21 09-53-23_f4440079d2b8.md",
+      "sha256": "5f8d16fec2b27ba8a1901a7cde76f38e3a55188cdf6e7ef7927832d18b851872"
+    },
+    {
+      "bytes": 335,
+      "path": "dynamic/未分类/2026-08-21 09-55-47_bb2155eb932c.md",
+      "sha256": "ee2355e9397fed2b77c02d8fcad89d3ded1501d83f1bc18c3ffc654e55e5d60f"
+    },
+    {
+      "bytes": 547,
+      "path": "dynamic/未分类/2026-08-21 09-57-00_7dabbb153fee.md",
+      "sha256": "723d27d3492a739f81f98df562e14d437f2dbcc5aacd57a951062e5563f8a931"
+    },
+    {
+      "bytes": 363,
+      "path": "dynamic/未分类/2026-08-21 09-57-57_c89cec75b049.md",
+      "sha256": "845ca05745976047affdc3805c143f4ce1412666fd9ce5554ef8a70805993fcd"
+    },
+    {
+      "bytes": 374,
+      "path": "dynamic/未分类/2026-08-21 09-58-22_853f1d65cf67.md",
+      "sha256": "3470beff21adf08e2488461082c7fd3e1dba830f6c5f94f8707aae04c4c0c771"
+    },
+    {
+      "bytes": 504,
+      "path": "dynamic/未分类/2026-08-21 09-58-57_1e5b1d3be461.md",
+      "sha256": "b2da82bd7e516223a87fa1d966bf10a1835ab5528fe0f43219b053434ad607fd"
+    },
+    {
+      "bytes": 550,
+      "path": "dynamic/未分类/2026-08-21 10-01-22_2c982c289df2.md",
+      "sha256": "91b7fc9d04220d203d4567fc5673ce4a597c665b4c2691667f836b39997c751c"
+    },
+    {
+      "bytes": 486,
+      "path": "dynamic/未分类/2026-08-21 10-01-55_271c64f1363c.md",
+      "sha256": "1503a2928d2178e9761a9c5ddeab5beca1121a127cd48ab1ed504b3cc106b178"
+    },
+    {
+      "bytes": 374,
+      "path": "dynamic/未分类/2026-08-21 10-53-13_34a2625813f3.md",
+      "sha256": "11733f2de330ef181cb2266d7f682287a5a4e6309ecaf916592bda96307c9180"
+    },
+    {
+      "bytes": 310,
+      "path": "dynamic/未分类/2026-08-21 11-08-07_f59acdad5b2c.md",
+      "sha256": "aece50b631cb4aa0991ed10229e2b2e3b49a711a91c70489030187eba41a80b2"
+    },
+    {
       "bytes": 560,
       "path": "dynamic/游戏/2026-08-15 08-05-12 新添加了三张卡面_58624721817e.md",
       "sha256": "0bb04deb914df9c40254e1ca8771c2f1dce99d8884115a5cf0169e05e5d839bc"
@@ -2301,6 +2506,16 @@
       "bytes": 655,
       "path": "dynamic/游戏/2026-08-20 15-47-14 你踩在最后一格上了_b96225ad55bf.md",
       "sha256": "6e2134a682c9aac9a71e980f00e47248869fc46c1e1999a65637e064264343db"
+    },
+    {
+      "bytes": 520,
+      "path": "dynamic/游戏/2026-08-21 09-32-07 有点想看你玩_d7087e7a2e42.md",
+      "sha256": "ea113bfbaaf1d082cb780ed49def780ed70059afe81e296c4433868fd1e5e92e"
+    },
+    {
+      "bytes": 657,
+      "path": "dynamic/游戏/2026-08-21 10-03-25_5362e88446e0.md",
+      "sha256": "953c94ced4128e1311d75e634fa83f5109ae664d4f9847338db267c168dcacff"
     },
     {
       "bytes": 546,
@@ -2593,6 +2808,16 @@
       "sha256": "8f8532498b78f99717a92f7fc27fb3e3b9eec82b0fd233bfe97dcf32dcf02a84"
     },
     {
+      "bytes": 537,
+      "path": "dynamic/社交/2026-08-21 11-12-50 信呢我等了一天了_5d1ecfe84157.md",
+      "sha256": "6178396f08530628f858a94696eacc8ac598ba9ed6d931065661802aa4cb9b04"
+    },
+    {
+      "bytes": 451,
+      "path": "dynamic/社交/2026-08-21 11-13-00 第三次了行_df42f5fd5270.md",
+      "sha256": "b9c3e3b2d1ed48a5c9a5e83c0905f92e9a056bbfe72d1b0184a675b31d9354df"
+    },
+    {
       "bytes": 675,
       "path": "dynamic/编程/2026-08-16 05-53-27 去吃饭吧水水吃完再说修的事_d0846457b18e.md",
       "sha256": "7795a57a74cd65663510835e31b3a0de47a67e9e35cbb01931a0bd57934a5458"
@@ -2746,6 +2971,16 @@
       "bytes": 633,
       "path": "dynamic/编程/2026-08-19 15-47-36 找到了pool_inbox_v1_45f56276fd24.md",
       "sha256": "ef38622a45ad6e51899b7c1388a941f559274d57ba5e5c8aefeadff9c268ab89"
+    },
+    {
+      "bytes": 633,
+      "path": "dynamic/编程/2026-08-21 08-31-37 用codex优化装修前端_bc2302e7da17.md",
+      "sha256": "d45ae64118732f66fd0cb8a119a88533b67c6fcf0466f21c9a2088a3a20fbe2d"
+    },
+    {
+      "bytes": 480,
+      "path": "dynamic/编程/2026-08-21 11-08-55 加参数强制覆盖_a8ddf13aae07.md",
+      "sha256": "db0dc7de041546d3f8f6fa3326739d731aac10bb5b46e0c94a02d6b5b6b0cef7"
     },
     {
       "bytes": 420,
@@ -3323,11 +3558,11 @@
       "sha256": "0a70652ea3634854426c8cd7dcafd19eb60acb2a70e0a162afb257032984ea59"
     }
   ],
-  "generated_at": "2026-08-21T05:30:47+00:00",
+  "generated_at": "2026-08-21T11:33:15+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 393925
+  "total_bytes": 415234
 }
