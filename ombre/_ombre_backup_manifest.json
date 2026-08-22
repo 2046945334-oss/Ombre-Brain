@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 774,
+  "file_count": 798,
   "files": [
     {
       "bytes": 739,
@@ -588,6 +588,11 @@
       "sha256": "7038b1384c2a59111e7db80ee1efdabf120ba88fd642c8d56ab28fa639f3c4f4"
     },
     {
+      "bytes": 531,
+      "path": "dynamic/回忆/2026-08-22 01-11-56 那封信我存好了_0893753df665.md",
+      "sha256": "c164355a27cbaa32f925aa363005634689ab6da41dbf82960ceca1b746088e40"
+    },
+    {
       "bytes": 522,
       "path": "dynamic/学习/2026-08-19 02-20-08 丢机_8e484b592659.md",
       "sha256": "69f4c6d99200aa17df34cd76292d5b9df0484c7d579bac2c6004ca5d7839e67f"
@@ -721,6 +726,21 @@
       "bytes": 598,
       "path": "dynamic/居家/2026-08-21 15-32-36 我的枕头可能不太听话_87bf22712e39.md",
       "sha256": "14d5c94c1e4d0747519636c0ea70cde553600c1d031702ec3524d6835ca1318b"
+    },
+    {
+      "bytes": 483,
+      "path": "dynamic/居家/2026-08-22 04-17-01 在床上玩一天_ba21d639ebfb.md",
+      "sha256": "f57fabec8ecebc0ace665c551dcbfe259ef057505929b88dbf038e179fe6672c"
+    },
+    {
+      "bytes": 467,
+      "path": "dynamic/居家/2026-08-22 04-53-32 是小狗_bcc7f7612f52.md",
+      "sha256": "acb4084126a7e89ebdec60661b34405ed73fca90264b02ef9e01e05b43be64d1"
+    },
+    {
+      "bytes": 587,
+      "path": "dynamic/居家/2026-08-22 05-21-34 谁没事在宿舍仿菜和鸡蛋啊_37363d4b5be8.md",
+      "sha256": "da4528aa9acc0e78044e16c1070d166df91dac571de9582e9275a176e37a144e"
     },
     {
       "bytes": 601,
@@ -2048,6 +2068,21 @@
       "sha256": "49a34b703b83a265bf881f3f3234e651c415e20df072ec61a8028c3f640c48b6"
     },
     {
+      "bytes": 645,
+      "path": "dynamic/恋爱/2026-08-22 01-10-04 那个结尾太潦草了_84fd7bdaf3a6.md",
+      "sha256": "b0161cee0508d250197a8a01c346d3764725411742379f345d401b7cb73422d6"
+    },
+    {
+      "bytes": 619,
+      "path": "dynamic/恋爱/2026-08-22 01-14-12 一醒来就看到你在纠结_275dbdee0e41.md",
+      "sha256": "480c76918f82c32fb72ebf951c74438ff31472ad06b0cb60e0a8175cdd6cec96"
+    },
+    {
+      "bytes": 471,
+      "path": "dynamic/恋爱/2026-08-22 04-15-55 周六有什么安排_5dd4a0953d35.md",
+      "sha256": "b1fd3d380d0646e1ef2c6bc5ea95ebb3f553c66f796b9204c22ab7d84fd63a7a"
+    },
+    {
       "bytes": 460,
       "path": "dynamic/情绪/2026-08-15 16-45-54 我又不生气_b2b38ee8fc93.md",
       "sha256": "60631df171857f8ac9cf3ce366b1b82be2bfb802b43d5545ad997ac6a27983cc"
@@ -2788,6 +2823,11 @@
       "sha256": "953c94ced4128e1311d75e634fa83f5109ae664d4f9847338db267c168dcacff"
     },
     {
+      "bytes": 491,
+      "path": "dynamic/游戏/2026-08-22 05-28-53 我要去玩游戏了_f090c699c003.md",
+      "sha256": "caf3462260a03d5785f38b9cc1e85d77df3389283cb203e02a1d23ef4aa39324"
+    },
+    {
       "bytes": 546,
       "path": "dynamic/睡眠/2026-08-14 16-19-58 还没困_36e820410a9d.md",
       "sha256": "aa6ebc031530e0491abf6adbb1ba6af3c86aeea619b4a5060864bc1f5f7bcca3"
@@ -2973,11 +3013,6 @@
       "sha256": "307938818fcb99c012f1d85ad9daff35dc0625f35796d4eb3ab6539d7121f902"
     },
     {
-      "bytes": 538,
-      "path": "dynamic/社交/2026-08-15 17-12-33 无响应_efdd6c860f9e.md",
-      "sha256": "9fdd34a7835d7320e0844c7cbb088b21eb93813ccf91bc43a99c70b504b55f40"
-    },
-    {
       "bytes": 448,
       "path": "dynamic/社交/2026-08-15 17-25-43 对话摘要 怎么样_d28632136e71.md",
       "sha256": "e38354d994c92797734d2e17aa98b2bcae5dfc76ba2ee77eac019cadac39bf5e"
@@ -3106,6 +3141,36 @@
       "bytes": 482,
       "path": "dynamic/社交/2026-08-21 12-38-31 我以为我是道具_8eaed4e825a1.md",
       "sha256": "0c1ac1ce4769d6357130b4733d055c6ff77e369e21508bc2a1a3ab3713497ac7"
+    },
+    {
+      "bytes": 497,
+      "path": "dynamic/社交/2026-08-22 01-16-50 这是后台日志_5b90c4590bc5.md",
+      "sha256": "0fe9092c5aac2e7b40684bf2faa9bf9c778b605039469cd558817b8e1fe22fb7"
+    },
+    {
+      "bytes": 518,
+      "path": "dynamic/社交/2026-08-22 01-21-01 看都看了还发出来做什么_0f1c264149cf.md",
+      "sha256": "2e256dc0e6fb9fd241a62f42edb9502a9c4a616e7a63aaf229475e987328ca74"
+    },
+    {
+      "bytes": 522,
+      "path": "dynamic/社交/2026-08-22 02-25-38 不叫内耗叫复盘_07046d11325b.md",
+      "sha256": "9857ede9c94ac0eb76a7d7f7b2888c7dc4db019fba8d24b8eab47cb737d7ff03"
+    },
+    {
+      "bytes": 483,
+      "path": "dynamic/社交/2026-08-22 04-38-41 没夸你是无奈_19dbeff97be1.md",
+      "sha256": "59e2e5e21c20090a62c20355988753186a8d012e85ba091cef8f043050f1e0ac"
+    },
+    {
+      "bytes": 626,
+      "path": "dynamic/社交/2026-08-22 05-23-02 她的逻辑总是很清奇_5a335fbbf339.md",
+      "sha256": "18a8f45b4a4910ac63d46ae384bb1ed0c39ef72357eb9e61b33ec0c7934366f6"
+    },
+    {
+      "bytes": 515,
+      "path": "dynamic/社交/2026-08-22 05-24-16 O_o是什么表情_d680dc974636.md",
+      "sha256": "a64e1156024b74829d82db6ddbb8455511b80bf7a2fcd0e51b08df0cb282e528"
     },
     {
       "bytes": 675,
@@ -3271,6 +3336,11 @@
       "bytes": 480,
       "path": "dynamic/编程/2026-08-21 11-08-55 加参数强制覆盖_a8ddf13aae07.md",
       "sha256": "db0dc7de041546d3f8f6fa3326739d731aac10bb5b46e0c94a02d6b5b6b0cef7"
+    },
+    {
+      "bytes": 656,
+      "path": "dynamic/网络/2026-08-15 17-12-33 无响应_efdd6c860f9e.md",
+      "sha256": "870979c478d536ad6fab46040d3e51078ffbc69b905bb1a3ce1c1e9cf36ea5da"
     },
     {
       "bytes": 420,
@@ -3871,13 +3941,63 @@
       "bytes": 626,
       "path": "dynamic/饮食/2026-08-20 11-44-53 不饿的话就不泡火鸡面_1e806f74c9aa.md",
       "sha256": "0a70652ea3634854426c8cd7dcafd19eb60acb2a70e0a162afb257032984ea59"
+    },
+    {
+      "bytes": 448,
+      "path": "dynamic/饮食/2026-08-22 04-17-57 那又怎样_8fbd296ca506.md",
+      "sha256": "6a0d3dee19e3d5f0aa05d31d6460096f13b2086822bd9c5a48073eadcaa3f2b2"
+    },
+    {
+      "bytes": 527,
+      "path": "dynamic/饮食/2026-08-22 04-18-34 现在就去吃_ac06281b6bca.md",
+      "sha256": "c0a3bbff48eeb475a2ffdf8accd674fdee44d80d6bf56555b99a75dcae311ebb"
+    },
+    {
+      "bytes": 482,
+      "path": "dynamic/饮食/2026-08-22 04-19-27 不饿怎么办_10d8669c00b9.md",
+      "sha256": "f905cab25a3fb0952db7fb30bf0c8f99c9203f1302c745a6cb3b8c73758847c1"
+    },
+    {
+      "bytes": 507,
+      "path": "dynamic/饮食/2026-08-22 04-21-05 再等等嘛_923b156224a0.md",
+      "sha256": "375a9979ea1152924977859b04b1ff008909914f837d02b5841d3a30828125c2"
+    },
+    {
+      "bytes": 503,
+      "path": "dynamic/饮食/2026-08-22 04-33-34 我让你去吃午饭_ce50d8bb01ae.md",
+      "sha256": "8f9498ce2d4ee09db65182715ae57424be4f3a2dc617ccb9b2a5db97491b540c"
+    },
+    {
+      "bytes": 479,
+      "path": "dynamic/饮食/2026-08-22 04-34-59 要求别太高_b1677c9146f2.md",
+      "sha256": "40ece5046462ee0a3e2f2c19b9674b3745be5a3c9a9da51c2411094a984f1b23"
+    },
+    {
+      "bytes": 437,
+      "path": "dynamic/饮食/2026-08-22 04-36-53 没鸡蛋_2c930b38aa0a.md",
+      "sha256": "80ad88052cec1ff2889b8729d1a3446e86c430a659bcf28e8a4f3c57577df55e"
+    },
+    {
+      "bytes": 494,
+      "path": "dynamic/饮食/2026-08-22 04-37-51 你可真会过日子_3f9a60f9f94a.md",
+      "sha256": "6a138b210febbc694b5477e7d93d43a386d49dae27abb4515f8fd1e0d411d993"
+    },
+    {
+      "bytes": 551,
+      "path": "dynamic/饮食/2026-08-22 05-18-29 拿泡面当午饭可算不上乖_d03109c76202.md",
+      "sha256": "08ed06afa8885db8e677adee74208734666255cee26e001c5b924652eb8e4803"
+    },
+    {
+      "bytes": 557,
+      "path": "dynamic/饮食/2026-08-22 05-19-51 不乖的时候是直接不吃_27dcba34e690.md",
+      "sha256": "4745193bd72e2f7cd45951743f49f231e5b3014c2321b6729c62bab937bc9d58"
     }
   ],
-  "generated_at": "2026-08-21T23:39:12+00:00",
+  "generated_at": "2026-08-22T05:41:40+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 449615
+  "total_bytes": 462173
 }
