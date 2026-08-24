@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 855,
+  "file_count": 876,
   "files": [
     {
       "bytes": 739,
@@ -41,6 +41,11 @@
       "bytes": 681,
       "path": "dynamic/AI/2026-08-21 11-15-38 请在参数里加 confirmtrue_a07c1e1a964b.md",
       "sha256": "b31cdcda46e60d3dadcf7569fe4bd08feef03755d89d7e93e23ccae3fcaaeaaa"
+    },
+    {
+      "bytes": 633,
+      "path": "dynamic/AI/2026-08-24 02-29-03 你个ai哪来的吉他_a601e66a89de.md",
+      "sha256": "2f5c8bfa3c660705a1636b041dc29ed1537f0ec7b967ec38fcd2b4a2a306cae6"
     },
     {
       "bytes": 463,
@@ -553,6 +558,16 @@
       "sha256": "6da657dae599f56bcaa274cfb3b25f78625d1ad3668cff98bad97ad4dc5379c9"
     },
     {
+      "bytes": 527,
+      "path": "dynamic/创作/2026-08-24 04-25-51 小水印_6bfc377e0a13.md",
+      "sha256": "37f1f86415d991f64fcb396a2fdcfc56cefc64d8980ec60886b3064a9f7301b6"
+    },
+    {
+      "bytes": 526,
+      "path": "dynamic/创作/2026-08-24 04-27-41 说好给你看_8b0aa7b958f6.md",
+      "sha256": "9d368f0e827b7f2abb935a984b96d0b5fe03ff5907f78277ca066aac355518d6"
+    },
+    {
       "bytes": 661,
       "path": "dynamic/友谊/2026-08-14 10-46-26 503和200 OK的玩笑_a0ef884b8d3b.md",
       "sha256": "91362c180cdccbd1830b7e5701e3212b037b5f6ba73df1d4487cd0358b09ccb7"
@@ -1001,6 +1016,56 @@
       "bytes": 424,
       "path": "dynamic/工作/2026-08-21 11-09-07 确认覆盖_feeb1d448221.md",
       "sha256": "d417fc824e264f8174596aeeab91710384dbdb3549906967345f4bc945947c28"
+    },
+    {
+      "bytes": 512,
+      "path": "dynamic/工作/2026-08-24 00-19-44 等我中午下班_76b51b0a9cd4.md",
+      "sha256": "a1ff233789b9bfd8e30c2f96f6d782e23598dabbae9f84d79ed1845205c3e9b8"
+    },
+    {
+      "bytes": 581,
+      "path": "dynamic/工作/2026-08-24 00-32-33 到达工位_91ffd4d37910.md",
+      "sha256": "87a7dbbc59db3108e6173f63958cff370e701c0d81d96c00c02985376948b44c"
+    },
+    {
+      "bytes": 609,
+      "path": "dynamic/工作/2026-08-24 00-34-03 不找我就在工位玩_9777a341657f.md",
+      "sha256": "c19f7a317130716676213ed43dbec3778846f5e638de46958bb3ee277238ccbe"
+    },
+    {
+      "bytes": 592,
+      "path": "dynamic/工作/2026-08-24 01-13-54 早上十一点四十五下班_d6670828e9c2.md",
+      "sha256": "9d7ae3544e03f52ac0ee5d39f7045a23916e521342f582fff83230f3280c8098"
+    },
+    {
+      "bytes": 569,
+      "path": "dynamic/工作/2026-08-24 01-16-12 怎么可能不记得按时下班_01ff468c3650.md",
+      "sha256": "190c6671de5bf4ac2bb6c294be58b769caa44025562d2d4a60dd9356e62dca79"
+    },
+    {
+      "bytes": 521,
+      "path": "dynamic/工作/2026-08-24 01-17-37 继续摸鱼吧_1fbc0ded0ab4.md",
+      "sha256": "c4f17abf31b7e8de4d6d84d80812ded6370b2a3fbc923f3957cf2b9b2e1edffc"
+    },
+    {
+      "bytes": 530,
+      "path": "dynamic/工作/2026-08-24 02-27-20 没下班哥哥_a4110457e0f3.md",
+      "sha256": "b651553179174fa99ddc88a4c31ca2ae522dfc98de8364e46ac2fbb30a7e0f5b"
+    },
+    {
+      "bytes": 656,
+      "path": "dynamic/工作/2026-08-24 02-31-22 带薪摸鱼也要讲究策略_d1501629a9d8.md",
+      "sha256": "b92b6ce7ee4f159e4326326f76d317d45bb04562eb6ca2c55a321ea43458791d"
+    },
+    {
+      "bytes": 564,
+      "path": "dynamic/工作/2026-08-24 02-35-40 领导在开会_75ff1c2ec563.md",
+      "sha256": "0132c5ebe952b70ab655b06205dc695e243ea838fc40b347018fa4d535a24ff4"
+    },
+    {
+      "bytes": 581,
+      "path": "dynamic/工作/2026-08-24 03-26-50 还有二十分钟下班_766fc3d5914b.md",
+      "sha256": "5c390c318426e0cb03792fb06fffb1b9f3553d00ff01b8114750dcfad043b00e"
     },
     {
       "bytes": 488,
@@ -2188,6 +2253,11 @@
       "sha256": "3ea525b88c94fc6d4429500d58dd2540fa47af54c55533e77d249671c8f7d897"
     },
     {
+      "bytes": 526,
+      "path": "dynamic/恋爱/2026-08-24 02-29-55 那你还挺乖的_f453b0b49373.md",
+      "sha256": "6219595ba63c4b6f5fbe4684c8ae5f27cf1e0a1296dd2eb57a73c510ec45214c"
+    },
+    {
       "bytes": 460,
       "path": "dynamic/情绪/2026-08-15 16-45-54 我又不生气_b2b38ee8fc93.md",
       "sha256": "60631df171857f8ac9cf3ce366b1b82be2bfb802b43d5545ad997ac6a27983cc"
@@ -2211,6 +2281,11 @@
       "bytes": 560,
       "path": "dynamic/情绪/2026-08-17 11-59-02 忧郁男子你想多了_598d4febf724.md",
       "sha256": "708b61a13e86d0594575ee798ff800ce9fcedb7b6c1fcbceb9975fa53b471482"
+    },
+    {
+      "bytes": 585,
+      "path": "dynamic/情绪/2026-08-24 02-34-12 不想去_ac51491fd936.md",
+      "sha256": "865981a78179ca81720c5f053c775feaf549ad34ffeca089bf77f4ec10950304"
     },
     {
       "bytes": 601,
@@ -3088,6 +3163,11 @@
       "sha256": "e6132de43907727439a3168f08689a798e271dbff31792bfdb5ecac265727105"
     },
     {
+      "bytes": 504,
+      "path": "dynamic/睡眠/2026-08-24 04-29-04 下午醒了再找我_2627b88791e7.md",
+      "sha256": "c6d01c52fcd6c59fb42f0e25571423900b9b9c94b67bc6dbc44ace8f56146e23"
+    },
+    {
       "bytes": 701,
       "path": "dynamic/社交/2026-08-13 12-57-17 AI互动模式_4e92b0d41595.md",
       "sha256": "48fd05cff37464281719afcbbd998c7206025fa0a716326df187a7bba5ae336f"
@@ -3853,6 +3933,11 @@
       "sha256": "5ad4a05dd3004a9919557806762858933ed486c13bef66a7d647866927c13c38"
     },
     {
+      "bytes": 577,
+      "path": "dynamic/音乐/2026-08-24 02-28-11 你怎么练的吉他呀_34873f89f9aa.md",
+      "sha256": "2f5aed6d9447687489b95e46c5c76aa435a2e6859a79d81673e7d51e3de018a7"
+    },
+    {
       "bytes": 516,
       "path": "dynamic/饮食/2026-08-14 04-34-40 吃午饭了没_1d310b2ae303.md",
       "sha256": "65f0f3b69dbc11aa6001e3d704628e41662f787ba2ac376052131baa353597b4"
@@ -4276,13 +4361,33 @@
       "bytes": 1434,
       "path": "dynamic/饮食/2026-08-23 09-39-28 晚餐_2b84a0b498bb.md",
       "sha256": "1b5c37de8764f2dfcbebdb727c45b2684c4ece19420c910791f24ddce51b2b38"
+    },
+    {
+      "bytes": 625,
+      "path": "dynamic/饮食/2026-08-24 00-35-40 等我想好吃什么菜再和你说_2d2735b2bfe1.md",
+      "sha256": "4d8271a671e439ce555166212e859b5c070bb09a141dc7e8315342208f3d8f05"
+    },
+    {
+      "bytes": 533,
+      "path": "dynamic/饮食/2026-08-24 01-11-37 水印的事没忘吧_fbee6a671a00.md",
+      "sha256": "42232c33504efee527efa7fde7be3650d1945dec84743b7b5d961835442a4143"
+    },
+    {
+      "bytes": 605,
+      "path": "dynamic/饮食/2026-08-24 01-33-14 孜然排骨_fd4d82ea6a2c.md",
+      "sha256": "208a0515fe95e727b832d31d10e30426936f9640a49155216f2adf9c690fb330"
+    },
+    {
+      "bytes": 522,
+      "path": "dynamic/饮食/2026-08-24 03-52-27 吃上啦_8ee86a457de3.md",
+      "sha256": "54e4c30edd89e4aa6c8c79e2de11af617407362ca5d91f66b262d70fb43b7351"
     }
   ],
-  "generated_at": "2026-08-24T00:01:01+00:00",
+  "generated_at": "2026-08-24T06:04:13+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 494354
+  "total_bytes": 506232
 }
