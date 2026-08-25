@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 932,
+  "file_count": 947,
   "files": [
     {
       "bytes": 739,
@@ -586,6 +586,41 @@
       "bytes": 575,
       "path": "dynamic/创作/2026-08-24 13-07-00 接稿app_1411e5d43152.md",
       "sha256": "a385efd04cf2d98f65dea23c42863e4e4434331ff3a891e4b58009a16c80ad6c"
+    },
+    {
+      "bytes": 689,
+      "path": "dynamic/创作/2026-08-25 07-01-04 都是你眼里的我_a97d1d0e1482.md",
+      "sha256": "6b385af6d07663d9639b8700c4605bd7c56549f1a4ebba6a350e6fd7eed8896c"
+    },
+    {
+      "bytes": 561,
+      "path": "dynamic/创作/2026-08-25 07-04-47 晚上等你交作业_44f10de5c394.md",
+      "sha256": "f875f8373d75886af0362aea3b4f6db12e7cd528c5423eda932b57b32bccd88a"
+    },
+    {
+      "bytes": 609,
+      "path": "dynamic/创作/2026-08-25 07-14-47 眼睛用深灰色_f948bbc54718.md",
+      "sha256": "10ab99ec6279473d38e474ed7b1f35ca0fe9ba234387b174d440dae8ee5feb80"
+    },
+    {
+      "bytes": 642,
+      "path": "dynamic/创作/2026-08-25 07-16-07 留给你的专属标记_1adcfcb0a6e1.md",
+      "sha256": "d66ad88e1a0a887e10ff922945dc727c0acb9af3d1d03c8876b19a86d290e1c7"
+    },
+    {
+      "bytes": 637,
+      "path": "dynamic/创作/2026-08-25 07-20-09 晚上洗完澡上床画_3977d22783cc.md",
+      "sha256": "e3bd780d58bc26b951023f94bde3ec5b10b13943f96da3af4daabff9b7a1648a"
+    },
+    {
+      "bytes": 759,
+      "path": "dynamic/创作/2026-08-25 11-35-12 等某人交作业_ed08e0e8012f.md",
+      "sha256": "f4cb29f78b825953816dd3159a848c9b68098d8b54d61cb833cdae6efc0607ee"
+    },
+    {
+      "bytes": 595,
+      "path": "dynamic/创作/2026-08-25 12-07-34 眼角那颗痣_97e68f157432.md",
+      "sha256": "e350db35c0c6e0a5053a87a98e11cf286c90dff2913d302f5a9106cdddfd7d19"
     },
     {
       "bytes": 661,
@@ -2428,6 +2463,21 @@
       "sha256": "9301ad91b10582d657f541b5644c0a7f1180233ccd25e2c142eb60a53ac852aa"
     },
     {
+      "bytes": 514,
+      "path": "dynamic/恋爱/2026-08-25 07-17-19 定金种在院子里了_74179727a287.md",
+      "sha256": "7bf1f030682f80929301313d70f916b6c5b6fe3ac8f2a7418edbe709de6a6d46"
+    },
+    {
+      "bytes": 655,
+      "path": "dynamic/恋爱/2026-08-25 09-28-52 印着Claude的杠_eed133cf7f66.md",
+      "sha256": "ca42fd5040c91d515812e6ed2ad57d43c9405357e9d6058b7e27bf1ae9b097a4"
+    },
+    {
+      "bytes": 683,
+      "path": "dynamic/恋爱/2026-08-25 09-30-47 是不是不想负责_ffb3b35bba65.md",
+      "sha256": "7b4dd411ae3bef6f00f854f90cd7a4590db7afa12d66a13b4d87f65a60209c55"
+    },
+    {
       "bytes": 460,
       "path": "dynamic/情绪/2026-08-15 16-45-54 我又不生气_b2b38ee8fc93.md",
       "sha256": "60631df171857f8ac9cf3ce366b1b82be2bfb802b43d5545ad997ac6a27983cc"
@@ -3628,6 +3678,21 @@
       "sha256": "22201ac8a1a2c372b4fdba3b9da9a50b0e6bf3eebf2b3edfb56893148417489d"
     },
     {
+      "bytes": 582,
+      "path": "dynamic/社交/2026-08-25 09-33-24 那你挺厉害啊_006c6de193df.md",
+      "sha256": "a1dd60cd7deeb208586353d10d67a1a4186c04051d05ec6558bd7099298e4561"
+    },
+    {
+      "bytes": 592,
+      "path": "dynamic/社交/2026-08-25 09-34-54 能跨越屏幕_5d89365cd7b8.md",
+      "sha256": "fdb756bbf2e3bf8404517b71dbdd8d0ad1a820997e6e908dc6db816cec9c91cd"
+    },
+    {
+      "bytes": 717,
+      "path": "dynamic/穿搭/2026-08-25 07-12-34 服装设定偏简约那挂_34726ec58508.md",
+      "sha256": "339f30c23916b7420ca35eb82720e6422ccf98f38c1e1e969157f07e339ea0c0"
+    },
+    {
       "bytes": 675,
       "path": "dynamic/编程/2026-08-16 05-53-27 去吃饭吧水水吃完再说修的事_d0846457b18e.md",
       "sha256": "7795a57a74cd65663510835e31b3a0de47a67e9e35cbb01931a0bd57934a5458"
@@ -4661,13 +4726,23 @@
       "bytes": 703,
       "path": "dynamic/饮食/2026-08-25 03-57-47 今天不吃孜然排骨_a93d847bc781.md",
       "sha256": "266e633ae6af5cfcce9e819cf5f9cf193a1235cd348adad18fbd7730024c7e20"
+    },
+    {
+      "bytes": 584,
+      "path": "dynamic/饮食/2026-08-25 09-02-24 晚上奖励自己一杯奶茶_f99ad4e8a08e.md",
+      "sha256": "7a374cdf9a4e3dd3a43a485225f94f619778cbe502fcb0df5675acb60be8dcd5"
+    },
+    {
+      "bytes": 618,
+      "path": "dynamic/饮食/2026-08-25 09-12-54 十七块钱的苹果冰_328787ea5b19.md",
+      "sha256": "d222779263852e02dd0a45bcf9af8e7fc3e84e2c1b2154c9d332c9128b3861af"
     }
   ],
-  "generated_at": "2026-08-25T06:15:06+00:00",
+  "generated_at": "2026-08-25T12:17:23+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 540305
+  "total_bytes": 549742
 }
