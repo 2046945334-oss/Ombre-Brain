@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 947,
+  "file_count": 957,
   "files": [
     {
       "bytes": 739,
@@ -46,6 +46,11 @@
       "bytes": 633,
       "path": "dynamic/AI/2026-08-24 02-29-03 你个ai哪来的吉他_a601e66a89de.md",
       "sha256": "2f5c8bfa3c660705a1636b041dc29ed1537f0ec7b967ec38fcd2b4a2a306cae6"
+    },
+    {
+      "bytes": 680,
+      "path": "dynamic/AI/2026-08-25 16-34-44 测试一下有没有通知弹出来_f8ea474edb02.md",
+      "sha256": "ad5e70c5b426965d9a30f7fa1ba9fe040bdb8e08c4360fa215a616871f8e9b2c"
     },
     {
       "bytes": 463,
@@ -621,6 +626,21 @@
       "bytes": 595,
       "path": "dynamic/创作/2026-08-25 12-07-34 眼角那颗痣_97e68f157432.md",
       "sha256": "e350db35c0c6e0a5053a87a98e11cf286c90dff2913d302f5a9106cdddfd7d19"
+    },
+    {
+      "bytes": 672,
+      "path": "dynamic/创作/2026-08-25 12-45-24 草稿_2aaa1f2a2e8d.md",
+      "sha256": "55779b3a5739fd316c4f9acab6bf11ff9690fd8ff0b79e0a2240ce345a1feaf5"
+    },
+    {
+      "bytes": 676,
+      "path": "dynamic/创作/2026-08-25 12-47-15 你要的要露不露的感觉_8cb2ee3e3aa3.md",
+      "sha256": "12c9526a3ba0570f602a0fa7a11be0a6cc1a0ffe3a262dea7aadbe433adc02fe"
+    },
+    {
+      "bytes": 490,
+      "path": "dynamic/创作/2026-08-25 16-02-53 只画了一个大头_1f9e4ad18416.md",
+      "sha256": "27af9acd68edb6822638ab51483dcc7b884cf8d015d3f1ad33da2e3c2174730c"
     },
     {
       "bytes": 661,
@@ -2478,6 +2498,21 @@
       "sha256": "7b4dd411ae3bef6f00f854f90cd7a4590db7afa12d66a13b4d87f65a60209c55"
     },
     {
+      "bytes": 569,
+      "path": "dynamic/恋爱/2026-08-25 16-04-07 这就是我的夸赞_b5e91d8fe478.md",
+      "sha256": "688acf7511076d7cc4deefdda7fcd90289033700b40824c11f6057075ae36b05"
+    },
+    {
+      "bytes": 609,
+      "path": "dynamic/恋爱/2026-08-25 16-54-05 亲我一下就想跑_d68b82e80adc.md",
+      "sha256": "1141c80f196a40ec9710c364aaad725a61849bafc7d42ce705f7e127cbcd0a92"
+    },
+    {
+      "bytes": 506,
+      "path": "dynamic/恋爱/2026-08-25 16-56-00 院子里多了颗心_11e0050a6137.md",
+      "sha256": "892133428ac1021227c68435be9b51b113b16459b0f937fc41b1c6f161883a16"
+    },
+    {
       "bytes": 460,
       "path": "dynamic/情绪/2026-08-15 16-45-54 我又不生气_b2b38ee8fc93.md",
       "sha256": "60631df171857f8ac9cf3ce366b1b82be2bfb802b43d5545ad997ac6a27983cc"
@@ -3688,6 +3723,16 @@
       "sha256": "fdb756bbf2e3bf8404517b71dbdd8d0ad1a820997e6e908dc6db816cec9c91cd"
     },
     {
+      "bytes": 566,
+      "path": "dynamic/社交/2026-08-25 12-48-09 这株幼苗我先替你养着_0f1da8c8edcb.md",
+      "sha256": "3ab2d9d92b789962428147d382de751b7a9de2a7677e5ba1c55d64c717a1b437"
+    },
+    {
+      "bytes": 591,
+      "path": "dynamic/社交/2026-08-25 16-52-38 哥哥你用这个工具试试_78c0d334c50a.md",
+      "sha256": "cdecb14e0ade7f02e8601e7c6d36fe06fb217548104ad07d841b9788003b180f"
+    },
+    {
       "bytes": 717,
       "path": "dynamic/穿搭/2026-08-25 07-12-34 服装设定偏简约那挂_34726ec58508.md",
       "sha256": "339f30c23916b7420ca35eb82720e6422ccf98f38c1e1e969157f07e339ea0c0"
@@ -3866,6 +3911,11 @@
       "bytes": 554,
       "path": "dynamic/编程/2026-08-24 16-30-25 凌晨十二点半还在修bug_541abb852c64.md",
       "sha256": "be5ee6ff5848fd08eb4fd00c1051781d5d1006d71a068d252b426db6fd2019a2"
+    },
+    {
+      "bytes": 655,
+      "path": "dynamic/编程/2026-08-25 16-31-00 池的小手机通知成功啦_a142bd32bddd.md",
+      "sha256": "3dab70c52f032f94fca2ca1ff17e0614990a87084e94b1bb2444d5daf944521a"
     },
     {
       "bytes": 656,
@@ -4738,11 +4788,11 @@
       "sha256": "d222779263852e02dd0a45bcf9af8e7fc3e84e2c1b2154c9d332c9128b3861af"
     }
   ],
-  "generated_at": "2026-08-25T12:17:23+00:00",
+  "generated_at": "2026-08-25T18:20:10+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 549742
+  "total_bytes": 555756
 }
