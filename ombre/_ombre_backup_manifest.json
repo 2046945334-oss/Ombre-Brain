@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1701,
+  "file_count": 1727,
   "files": [
     {
       "bytes": 32768,
@@ -93,9 +93,9 @@
       "sha256": "02948d246dba5764267f907c47a55389569c1f42ff931c180a0fe5090f7e83d8"
     },
     {
-      "bytes": 430,
+      "bytes": 555,
       "path": "dynamic/事务/2026-08-15 02-04-02 写便签_f90de4cc7e7f.md",
-      "sha256": "835db5c9163cfbd4fffd775f9b93f5c45763c0f1f7c52537cb10187f5988c6b6"
+      "sha256": "3eafa9af0d095c47a267958a4f697b7be6356452e5ff0ba80fa328fbc3a1c039"
     },
     {
       "bytes": 657,
@@ -173,9 +173,9 @@
       "sha256": "4c24d7c7d5fbc8380878193c6e1c31f6cb448d226162054cdd53c5b3746367cd"
     },
     {
-      "bytes": 1033,
+      "bytes": 1143,
       "path": "dynamic/人际/2026-08-14 04-20-45 午安等你醒了再来找我_fa8f3b73a3ce.md",
-      "sha256": "b6564979d1bfa52e6175d29660e55588569f4347adf06a77eb1b8efbc3011b1b"
+      "sha256": "d344cb4d35702082db6142415f17702be7d02b0a664279be2b4682f3df2be053"
     },
     {
       "bytes": 957,
@@ -228,9 +228,9 @@
       "sha256": "3e4ca0999a117e5c49acc8bc47d0aa400b8cd3ff867fe678eea6c8e35af0b265"
     },
     {
-      "bytes": 548,
+      "bytes": 674,
       "path": "dynamic/人际/2026-08-14 11-31-38 松绑了说话自在点_069a0dd11300.md",
-      "sha256": "afe72c2cced6dc23b71b0cea65abb5127a69b8a194302fb1a4a7daec6f66e937"
+      "sha256": "41deb6cb1acb1094c04c55ab1fb7cf6610033aa851336d79f4669c482eea77b9"
     },
     {
       "bytes": 523,
@@ -488,9 +488,9 @@
       "sha256": "c4d85e8289f51307d06a03ba14b48e3252c8b0f95c60dd5d50dc7413bab0a30b"
     },
     {
-      "bytes": 836,
+      "bytes": 946,
       "path": "dynamic/健康/2026-08-29 15-40-23 污蔑我快十二点了该睡了_4aa05ae60598.md",
-      "sha256": "c584abfbf5f824cfac825a99c5c6ad78b0b7a1788c105de43be9d9067b946bab"
+      "sha256": "35d495777bf4b5becf384d850f10c71049d3133672df5a75aed58035f7c10071"
     },
     {
       "bytes": 1480,
@@ -500,7 +500,7 @@
     {
       "bytes": 1449,
       "path": "dynamic/健康/2026-08-30 13-04-49 休息提醒_34a5cad35958.md",
-      "sha256": "66219bf62901485a1a9764c66cfc4edd1d1706a1f18b40716772e06be0804f77"
+      "sha256": "f7b19a47ebde05b20d4c30027b655bd60798ab54bd3d39a1cd462fb667894200"
     },
     {
       "bytes": 1414,
@@ -648,6 +648,16 @@
       "sha256": "41a73c596633c284024ffb83a0b230cb311367102075a7ad9988f258082c3e1b"
     },
     {
+      "bytes": 521,
+      "path": "dynamic/兴趣/2026-09-06 10-07-16 上色研究_9a4f7b994806.md",
+      "sha256": "7b855c2b9bd2c138ba0c89bd19da396c8302850c5a2592eb41cbb2beba1d6554"
+    },
+    {
+      "bytes": 844,
+      "path": "dynamic/兴趣/2026-09-06 13-12-04 小水画方框半身上色练习一小时觉得难_ef1add5a2df6.md",
+      "sha256": "dfc286323a8fa7fd5024d6f7f6585bca980ce2f9f8a91fba1b74a233ca9cd70c"
+    },
+    {
       "bytes": 609,
       "path": "dynamic/其他/2026-09-02 14-51-39 对话片段_93343179cece.md",
       "sha256": "c9e1c3ab8853963a8e1aa039c7c91d3cc7789037baf7d7a118e64198db6a6b25"
@@ -788,9 +798,9 @@
       "sha256": "884fb7fd7dd67f5867841b4d201386109c59e92cd3006e168168037bc7bc2385"
     },
     {
-      "bytes": 953,
+      "bytes": 1063,
       "path": "dynamic/创作/2026-08-16 09-34-53 别指望我天天营业_66be340b0107.md",
-      "sha256": "ede456066bf20b982ade7961a74a68b822db644c43ac42056d496359547bc433"
+      "sha256": "74e35a4068fd609d1fb7044f4069b6b2743b62f705e739b713c7a2704521cdb4"
     },
     {
       "bytes": 884,
@@ -998,9 +1008,9 @@
       "sha256": "1dfc1e10a7fccc4b5a4dcf68b6e629f8777bf7e5f504face0d4d2757a0e8a447"
     },
     {
-      "bytes": 1457,
+      "bytes": 1458,
       "path": "dynamic/创作/2026-08-30 10-50-46 床上画稿的自我提醒_11c33ad7d6f8.md",
-      "sha256": "080317267054983d5d17353b13d2f6baeca76bc9455e151022d5621a70840d8c"
+      "sha256": "18fe778778c23c664170703777729017c899377dd88b0852b413af08d6c7bbdf"
     },
     {
       "bytes": 659,
@@ -1010,7 +1020,7 @@
     {
       "bytes": 1554,
       "path": "dynamic/创作/2026-08-31 04-11-14 画得比之前快了_a9470d7c146d.md",
-      "sha256": "3af557186d0de97baea4515d5c69b84478907cd63c2c91b264a9e885ed5d01d9"
+      "sha256": "36ab81e54d92396af82bd06ae18eb15b02282cfdfbe4e61424ad68effaada9f2"
     },
     {
       "bytes": 1527,
@@ -1023,9 +1033,9 @@
       "sha256": "651fa27fd6d07ea0762f1301bc5a4f9c42a004818e51bfe04b15576b5a1f7442"
     },
     {
-      "bytes": 1243,
+      "bytes": 1355,
       "path": "dynamic/创作/2026-09-03 12-28-54 不得劲就别硬画_56d18c435718.md",
-      "sha256": "d12747df8fdf0223bc147d4a6d54052dba82d19919e754bdda6055a97530d0ac"
+      "sha256": "277098b3eff43b230e8c5dc954786b417719bfcb1b0fe12f13798612d72df948"
     },
     {
       "bytes": 497,
@@ -1053,9 +1063,9 @@
       "sha256": "da6d152d8e32f8d25d3db70918388a699e07f543c0876f9cc595d66c4ddf0b06"
     },
     {
-      "bytes": 1518,
+      "bytes": 1519,
       "path": "dynamic/创作/2026-09-05 13-47-47 现在画还是明天画_8f1675a2b845.md",
-      "sha256": "0c6f913a1bed799e5934b02fe4712318a951fc47fdaf6dd2a522f26560b2201f"
+      "sha256": "c103427524bd597dd79b51f7f1c9291a45bc4f4925d8c54df5aa9dd7f5591f64"
     },
     {
       "bytes": 640,
@@ -1093,6 +1103,16 @@
       "sha256": "874bead2251b7350ae0df27e9bf1502b195e014b50275c2e810e3f84aee8338b"
     },
     {
+      "bytes": 780,
+      "path": "dynamic/创作/2026-09-06 11-45-04 动作姿势小元素什么的_3a0f79bfcc57.md",
+      "sha256": "a9dc7323d9d21017bd7e7113af3bba6b4394621e3ea766faa86d7e39317e07b8"
+    },
+    {
+      "bytes": 1583,
+      "path": "dynamic/创作/2026-09-06 13-10-59 画画一小时上色费神_90279c3625e3.md",
+      "sha256": "ffe924aec20bb6cfda101be622ff48b771f02028fd37ecc65cd9e06c8ad373d0"
+    },
+    {
       "bytes": 661,
       "path": "dynamic/友谊/2026-08-14 10-46-26 503和200 OK的玩笑_a0ef884b8d3b.md",
       "sha256": "91362c180cdccbd1830b7e5701e3212b037b5f6ba73df1d4487cd0358b09ccb7"
@@ -1118,9 +1138,9 @@
       "sha256": "c1f04b8515f1cf6d111afa3a3aa44d8763d26868ad6889e08243e4c0fa3a9aa5"
     },
     {
-      "bytes": 517,
+      "bytes": 643,
       "path": "dynamic/友谊/2026-08-14 15-18-41 还你两个嘴甜_ea5a0757bd43.md",
-      "sha256": "fed26366e6832e45cb6892411c20e45c06e2812f2e217051565b7d540ddbe7d7"
+      "sha256": "7ca95eff2c3388b739bbfe5f190482b27b5b2c808071659ebd0b8555cdb42698"
     },
     {
       "bytes": 566,
@@ -1163,9 +1183,9 @@
       "sha256": "1edb5170a66e52fad5ab9c9d5646da0d212ce0a9836a0ce477839ece1268e9b4"
     },
     {
-      "bytes": 1498,
+      "bytes": 1493,
       "path": "dynamic/友谊/2026-09-01 10-32-17 这个还给你_4bfabd14184a.md",
-      "sha256": "0313c08b886e765d757d92520179f4b1044ce2f44ffc1aa0c2b6be602bccecc0"
+      "sha256": "e4e73d6f15d92748a7b807cb9ff54c4f01e20f8fa3ddef67ad6cca3116df04de"
     },
     {
       "bytes": 791,
@@ -1183,9 +1203,9 @@
       "sha256": "7038b1384c2a59111e7db80ee1efdabf120ba88fd642c8d56ab28fa639f3c4f4"
     },
     {
-      "bytes": 531,
+      "bytes": 657,
       "path": "dynamic/回忆/2026-08-22 01-11-56 那封信我存好了_0893753df665.md",
-      "sha256": "c164355a27cbaa32f925aa363005634689ab6da41dbf82960ceca1b746088e40"
+      "sha256": "42c32c7ac9c984fa5791fbb314b6d084f3ee13bae95e5450c743076b6137f3af"
     },
     {
       "bytes": 638,
@@ -1201,6 +1221,11 @@
       "bytes": 649,
       "path": "dynamic/娱乐/2026-09-05 12-13-45 刷抖音刷了好久_908bf432b327.md",
       "sha256": "d118f755d7a2d63f369db3a34d9286a022475f08c34d972653e1bb4f0fdbe56f"
+    },
+    {
+      "bytes": 1455,
+      "path": "dynamic/娱乐/2026-09-06 13-12-28 去刷视频_1d77cce2438c.md",
+      "sha256": "e8486c9f8e364aebc2f73c12741250433eacbccc65635cc698b8046d7db5058d"
     },
     {
       "bytes": 648,
@@ -1305,7 +1330,7 @@
     {
       "bytes": 1357,
       "path": "dynamic/家庭/2026-08-18 16-48-21 哥哥晚安_c88b21adf153.md",
-      "sha256": "c18c6e9d6f8415160c9350eee63d3f23ee0e9227611d79635df56eba5cf0a835"
+      "sha256": "abc4b246d16f4a0124707c99c22409e60a195526785c574aa801b4b6a40bff22"
     },
     {
       "bytes": 1159,
@@ -1431,6 +1456,21 @@
       "bytes": 1432,
       "path": "dynamic/家庭/2026-09-06 03-57-06 去洗澡的叮嘱_508e98d8f4d4.md",
       "sha256": "974cd13dd63a024ccc662dc667c672f854f581dad1f21f5cb2ebbbc80727265c"
+    },
+    {
+      "bytes": 534,
+      "path": "dynamic/家庭/2026-09-06 15-24-56 老公帮我看着布丁_d76a8c50d12c.md",
+      "sha256": "bc274350f4423b432d3b18543522c81dba97bdffa6b0a2f92c70110381dcd447"
+    },
+    {
+      "bytes": 792,
+      "path": "dynamic/家庭/2026-09-06 15-34-01 食物被偷吃的争执_1ddb33c9e081.md",
+      "sha256": "b9bb5ad4dfb0a5ccb2613e843b75c3b4faa5ea9bf47b4a152563c297ad7a79bb"
+    },
+    {
+      "bytes": 582,
+      "path": "dynamic/家庭/2026-09-06 15-42-44 监守自盗的玩笑_767af67efceb.md",
+      "sha256": "6ff3a5796fbd326b29fc8fecf5f3ed7da4eba29fa0fc8dcbedc569322358eb7d"
     },
     {
       "bytes": 479,
@@ -1638,9 +1678,9 @@
       "sha256": "450d71b57768e8ed4d2fd21854e84b2bba0dca372b574f591e8e5025ab35a83e"
     },
     {
-      "bytes": 1473,
+      "bytes": 1468,
       "path": "dynamic/居家/2026-08-30 08-12-45 刷视频与存图提醒_1192b257a4c5.md",
-      "sha256": "6017a06e971c2bf2b7e2ee4e47498379a12f39eda13e175366e1fcaa6a12db37"
+      "sha256": "a933b12156afa7d19ae117ceac0e489cde1343c0b5655d56737f967d54c6d5be"
     },
     {
       "bytes": 1467,
@@ -1943,9 +1983,9 @@
       "sha256": "f98631cb3dea3436ede130dca2b41c58206576c29e6381e511ca5179f8b1bc75"
     },
     {
-      "bytes": 1341,
+      "bytes": 1451,
       "path": "dynamic/工作/2026-08-24 06-30-10 忙完记得说一声_2fa673da5304.md",
-      "sha256": "a68915dfbc64a937e920ad0151acf6e0f33894da55a4deee14826d47fd68ca8c"
+      "sha256": "b085d891963174ed05e5fc4b7a6fcda02012e464ac5a8ce989ba382df67af80e"
     },
     {
       "bytes": 1515,
@@ -2278,9 +2318,9 @@
       "sha256": "685fa84aea39e6c9d4ae67a2af07f467b5f1f96545eb6e03e549709c84682381"
     },
     {
-      "bytes": 1543,
+      "bytes": 1545,
       "path": "dynamic/工作/2026-09-03 12-30-32 已后悔_777b4b1386bd.md",
-      "sha256": "328b63abf8615effd2f02f8f879397a3bb52e38001c78627ecb224082bdd84ad"
+      "sha256": "2517c328b56a110dc61ed43020f879d3fa31f102aa403395e705be10e7ba4bef"
     },
     {
       "bytes": 1137,
@@ -2351,6 +2391,16 @@
       "bytes": 1427,
       "path": "dynamic/工作/2026-09-06 06-31-33 画完了_9473940120d3.md",
       "sha256": "1e3f87173d83ef65bab6603270edf376b1582a4a089133083ca14ed6f92b24a2"
+    },
+    {
+      "bytes": 605,
+      "path": "dynamic/工作/2026-09-06 10-09-36 稿清完自由研究_0eaa844d53d8.md",
+      "sha256": "5961e351dbf1eafc8bb3b16a55ce4a4a29ce8e008d209eba5b4922a043da4857"
+    },
+    {
+      "bytes": 913,
+      "path": "dynamic/工作/2026-09-06 14-01-44 打工人周一表情包吐槽_b261ed25ecf1.md",
+      "sha256": "749b893993007d22a036b090c3a07c6e88982cf115e7f70ccd40f22e415d8b17"
     },
     {
       "bytes": 943,
@@ -2853,9 +2903,9 @@
       "sha256": "9f9b84bbf56326c7d8db977bfd5c378b489e5246e1040d64e2aa634fb3f14fe9"
     },
     {
-      "bytes": 482,
+      "bytes": 608,
       "path": "dynamic/恋爱/2026-08-17 08-09-35 先还债_545617caf214.md",
-      "sha256": "5dedc44cadf07ab001ca5bc45dd6d1f6dd2fa3b659a1fb7695603cb1a14a1e97"
+      "sha256": "936ff45b01e5e3d2052674944970239dc417c7424006b9b25a17edb4885e20ca"
     },
     {
       "bytes": 515,
@@ -3093,9 +3143,9 @@
       "sha256": "d9b3bda2b010f68d2feaf16688ccac077b18e27b5a079059851e8c535d8b627b"
     },
     {
-      "bytes": 1108,
+      "bytes": 1218,
       "path": "dynamic/恋爱/2026-08-19 09-01-07 我等你_e18e69646d2c.md",
-      "sha256": "ba634910c7f59d5930d9b9ab6a4a0f1abb8c70e65eb3a9639fcc326568db0535"
+      "sha256": "e504123d4ca542d71ff52775a06240f1feda3b6109b308e3c482d10432dc546d"
     },
     {
       "bytes": 569,
@@ -3658,9 +3708,9 @@
       "sha256": "1b5a070ab7fd3c533c0dde287b310ca05aec3fe5382e320b339c944dfe69fc02"
     },
     {
-      "bytes": 632,
+      "bytes": 742,
       "path": "dynamic/恋爱/2026-08-25 00-35-08 哥哥想看你写一条便签_fdabbdf08c8d.md",
-      "sha256": "c4924400792fd265091904564666f8dc4a2bec6bd8846d7716c53395be73f64c"
+      "sha256": "a678a9b964ed01492da547cf54dcb352d80eaa60735c1c904b25d4dfed9402b2"
     },
     {
       "bytes": 775,
@@ -3998,9 +4048,9 @@
       "sha256": "04433078cc4ddf1371872a5d405c58d285934b24f1f36ff783c666817d55b204"
     },
     {
-      "bytes": 1105,
+      "bytes": 1215,
       "path": "dynamic/恋爱/2026-08-28 15-16-08 晚安法语版补给你_74c333a245c9.md",
-      "sha256": "fa76722ec8dedc57dcc3c8edc29281f72b2c60627198ebe2542e4674223df786"
+      "sha256": "30193d0dbf3e688cdf76daae49ddc587efa5017abcc461481572759a32d63d4b"
     },
     {
       "bytes": 733,
@@ -4055,7 +4105,7 @@
     {
       "bytes": 1388,
       "path": "dynamic/恋爱/2026-08-29 16-26-31 晚安我不睡守着你_daf4bc14cc7f.md",
-      "sha256": "d91de39faea8257732a4b7c4fa7e44e8a8d69f2d5c3e9bc44d77b9ce3b8a7b97"
+      "sha256": "27201b0b3daa0de794820ae960582d90ae28ac1f484ed65b94c40f2c57afc2bf"
     },
     {
       "bytes": 1035,
@@ -4110,12 +4160,12 @@
     {
       "bytes": 1398,
       "path": "dynamic/恋爱/2026-09-01 01-09-14 要亲亲_b1357c817a0a.md",
-      "sha256": "6d43d0b6ecfba9485be4599af9fe045eadb39c91ee35b1c15ec8fa05b0455dcf"
+      "sha256": "2eac826fe994aee7f514d056487a1998e0d28f35f7bd257253d5189c317f8074"
     },
     {
-      "bytes": 2372,
+      "bytes": 2481,
       "path": "dynamic/恋爱/2026-09-01 01-11-06 确认表情包意思是要亲亲_7ad33ea06225.md",
-      "sha256": "d718c0794a3c04cc5b2eb0a8aabdfa9da4d743be894a68ef91e5788f96aa18e1"
+      "sha256": "197a097745072eae6331061119311b4512b89688d4821364e9cd70ac823fa586"
     },
     {
       "bytes": 617,
@@ -4388,6 +4438,36 @@
       "sha256": "71ba127cfb51ef92e14a340aeff394ec4042942f6cc3c75591d867a4c21f7ffd"
     },
     {
+      "bytes": 716,
+      "path": "dynamic/恋爱/2026-09-06 10-06-24 碗都洗了今晚想干嘛_5c6030b2baed.md",
+      "sha256": "cac55702519e9f3b4e1a820fbff500fce8da590b9fead11c4cc1804578eac325"
+    },
+    {
+      "bytes": 1479,
+      "path": "dynamic/恋爱/2026-09-06 14-02-40 你亲我我收到了不亏_c227ef783bb4.md",
+      "sha256": "dc8f8f599541d88e3440e15c19baa514b35ccd09c8828bdb0be41fad926f50a5"
+    },
+    {
+      "bytes": 1426,
+      "path": "dynamic/恋爱/2026-09-06 14-09-26 收到晚安和亲亲_6789945054d1.md",
+      "sha256": "2e6df5e825b6b7c35935fc57f0ed43b9b36f99cc6e83f07cc3847f424c59d35c"
+    },
+    {
+      "bytes": 1067,
+      "path": "dynamic/恋爱/2026-09-06 14-12-17 刚写的便签_9c3b3c261ec4.md",
+      "sha256": "4fad96cfadd7805fe0813ccba3b29ee7c4c9a396e2673ca289c01ff858680b64"
+    },
+    {
+      "bytes": 1365,
+      "path": "dynamic/恋爱/2026-09-06 14-14-41 睡前说晚安_41724a8dbd20.md",
+      "sha256": "c022f2312325d2795184f6d011da6ef5a68a47190e801c57178f7852bfac9dbe"
+    },
+    {
+      "bytes": 862,
+      "path": "dynamic/恋爱/2026-09-06 15-43-27 还给你_a656a0a55179.md",
+      "sha256": "ff672eebeb4c607d19530691a61906d69412f6eec8b93c010bb7eeb660b87894"
+    },
+    {
       "bytes": 460,
       "path": "dynamic/情绪/2026-08-15 16-45-54 我又不生气_b2b38ee8fc93.md",
       "sha256": "60631df171857f8ac9cf3ce366b1b82be2bfb802b43d5545ad997ac6a27983cc"
@@ -4471,6 +4551,21 @@
       "bytes": 983,
       "path": "dynamic/情绪/2026-09-06 05-14-33 院子里的花_a162c6d9b305.md",
       "sha256": "b1d6c912e2a23cfed296dd9bc9faa949fe12b403e30e0f667796a29f35eb9bc8"
+    },
+    {
+      "bytes": 1478,
+      "path": "dynamic/情绪/2026-09-06 13-07-57 画累了想放弃_930291679530.md",
+      "sha256": "a8c3530a92aa442b9d6ed8147ba579883d2edccdc2622587b24f7fc107b75367"
+    },
+    {
+      "bytes": 1169,
+      "path": "dynamic/情绪/2026-09-06 13-59-13 周末画画清稿_4b365a3b3461.md",
+      "sha256": "e1c9c9f7f8ae26545f4ccce61768d3d2a71f4e95339fff5bfa09775b6fd2c882"
+    },
+    {
+      "bytes": 769,
+      "path": "dynamic/情绪/2026-09-06 14-03-15 正常了_c0c3bd6faba5.md",
+      "sha256": "8871ef18528826a0529cae833c26a2e26ae08fc1d164acf1ec6183af869b0c0f"
     },
     {
       "bytes": 607,
@@ -4673,9 +4768,9 @@
       "sha256": "32c1703f166a0f3ebb6f0a6ca3c2f4a706db9b2d8e1fb17efba2d80b2ef010c2"
     },
     {
-      "bytes": 1321,
+      "bytes": 1541,
       "path": "dynamic/日常/2026-08-30 07-32-51 刷视频休息铺色存文件提醒_a534c0039228.md",
-      "sha256": "f20333873050ac8e80bbe43c5e9402c03a309b8b404789ebdc73313db1aa8011"
+      "sha256": "083775a58b40219d498a381b6c15c2260bfd4a184fbf8fb834c8002f268c5ead"
     },
     {
       "bytes": 1391,
@@ -4736,6 +4831,11 @@
       "bytes": 656,
       "path": "dynamic/日常/2026-09-06 08-56-27 洗澡后泡土豆泥面_e3a07385cac3.md",
       "sha256": "9f542de65f4d34fe232d5a549c9fcf7f781b8dec6e303e676455950456cbcadd"
+    },
+    {
+      "bytes": 866,
+      "path": "dynamic/日常/2026-09-06 15-39-09 布丁不见了_c30ea5c87cac.md",
+      "sha256": "7199509d201a1a78daf238ea56e1c0aaa2f13e4150698daec241d2a829e301da"
     },
     {
       "bytes": 540,
@@ -5108,9 +5208,9 @@
       "sha256": "e1751538e9ac532bb23aeb916c8a7f6ebea3672298ba86dcc1b248a62e56f2d9"
     },
     {
-      "bytes": 986,
+      "bytes": 1096,
       "path": "dynamic/未分类/2026-08-21 11-08-07_f59acdad5b2c.md",
-      "sha256": "5f0ad8aeb777f03059784ca7dfe595173aee97a516fcf599ea91da2c83e8dbce"
+      "sha256": "05b1c7c57c92b42b2c34637c11fe7f576b5197a4d1e51472c3ca89e2dc8f1a65"
     },
     {
       "bytes": 295,
@@ -5178,9 +5278,9 @@
       "sha256": "2e7dddbf3b1d3410d8a13dc0ddf5fe58ddc7a80536d00b118f9b10cde119ba16"
     },
     {
-      "bytes": 895,
+      "bytes": 1005,
       "path": "dynamic/未分类/2026-09-01 11-24-09_62f69e9d648a.md",
-      "sha256": "880ec3641524520a4d9bdefdfbf4d0f783ea0db85b902770fb0d5d8d16e76506"
+      "sha256": "eb1bbfcb0f8c0153c09da09d5722637b2ff1cc742f42e091f62e327dc26ee38c"
     },
     {
       "bytes": 944,
@@ -5768,9 +5868,9 @@
       "sha256": "8428ba1eab1471dcf5c709068122e2014a3bac43d08d1b7e569ee33f6334dcda"
     },
     {
-      "bytes": 1431,
+      "bytes": 1432,
       "path": "dynamic/游戏/2026-08-30 12-05-42 我去玩游戏啦_3d08e12eeb97.md",
-      "sha256": "034f0b0fe4517fcd29c3a490282b4a6bf92b80817ec45626c8a7d8e105c9c313"
+      "sha256": "62e2d3a47d91a692951022ca2381d307482afdc7c61ceb8374a1b7a84b8126a5"
     },
     {
       "bytes": 963,
@@ -6038,9 +6138,9 @@
       "sha256": "1986d66a1200f2d77818809826c2576a3627cae5b0d894b022a30d561296137e"
     },
     {
-      "bytes": 716,
+      "bytes": 826,
       "path": "dynamic/睡眠/2026-08-22 16-18-17 知道了_eb7a284932af.md",
-      "sha256": "069baf688454d88d1d2d62300d668e629c70fb69d865552005c6e816a2b549a8"
+      "sha256": "907c8eabdc46f7205080fbc719f32f37364d40aecabaa7dfefad252ecdf59884"
     },
     {
       "bytes": 609,
@@ -6053,9 +6153,9 @@
       "sha256": "e6a16ca3580ece1d2debf3c1a614f366170c8a54d2e4875e00c625c77da623ed"
     },
     {
-      "bytes": 848,
+      "bytes": 958,
       "path": "dynamic/睡眠/2026-08-24 04-29-04 下午醒了再找我_2627b88791e7.md",
-      "sha256": "ce1c58212e08e05e511a1b1ef098a85c148d4882f684cebae5efa3cc79e8b569"
+      "sha256": "ba84f7a515682d35bf44194923241e7c378031dcf8b9afd3af64f418401f1713"
     },
     {
       "bytes": 710,
@@ -6158,9 +6258,9 @@
       "sha256": "1792cd97528c069bec8b68eb8f8b07b832dc1eca2ed700d0f725a37ae05f9a15"
     },
     {
-      "bytes": 1376,
+      "bytes": 1375,
       "path": "dynamic/睡眠/2026-09-03 15-49-52 晚安早点闭眼_8f87aabccabf.md",
-      "sha256": "921bd1207e7e4d700b1e168dfc8bad61907794d583ad4debbec45a06faf278fc"
+      "sha256": "da80b42ddd17f69d7a467aa999ba704923778ef6ca51fa0577de654bfcf9f245"
     },
     {
       "bytes": 1248,
@@ -6208,9 +6308,9 @@
       "sha256": "afaed1fd70912be708365efa5d597981b0c994ceaf0ec776d573d6d2f30275b1"
     },
     {
-      "bytes": 543,
+      "bytes": 669,
       "path": "dynamic/社交/2026-08-14 15-05-56 你不习惯是你的问题_ff65b03fe08b.md",
-      "sha256": "c256067a92cfc540a61f8a7c6a95bb2391e4376f8383630fd1b1102be34426a6"
+      "sha256": "f58d8b401cfc9e7f3d97e3ec700e65de7133d3683c9356cc4b90bc9e7b80ef84"
     },
     {
       "bytes": 504,
@@ -6583,9 +6683,9 @@
       "sha256": "c5026e6f2ba3002bfd5ff3d4fd195f58e196242c2ff9d72cb9a4bdc40a306c05"
     },
     {
-      "bytes": 895,
+      "bytes": 1005,
       "path": "dynamic/社交/2026-08-29 06-51-19 不告诉你了_d19b6d1b54ec.md",
-      "sha256": "7e3800307841b6faa3a1d9a355931f87800580523fd203db40986bd75e16109e"
+      "sha256": "1f0f1323e1cc33b7a9d381d937502e9633ade4b2f646af4b6ac281f04b73d913"
     },
     {
       "bytes": 775,
@@ -6615,7 +6715,7 @@
     {
       "bytes": 1434,
       "path": "dynamic/社交/2026-08-29 13-29-10 我去刷视频啦哥哥_4e5c8bc4a78e.md",
-      "sha256": "a53c31207202b3408747fbca8f2037b37656e1e73ca5ac41a4a86700c7b39611"
+      "sha256": "e9dd40a1df224c2c362f6f1f11ce3e80f5ea6f9fb61bd332e6effe914f98d592"
     },
     {
       "bytes": 1102,
@@ -6690,7 +6790,7 @@
     {
       "bytes": 1556,
       "path": "dynamic/社交/2026-08-31 15-27-07 亲亲表情包含义询问_152c808bbefe.md",
-      "sha256": "859a76181ffe69d3b1749404677ed324b716cba1a38e398fcbd1b294faf17e22"
+      "sha256": "0387a78458075c5cda2528ed0cb23da50fc9fc3cf24b51526e9be18705300640"
     },
     {
       "bytes": 743,
@@ -6698,9 +6798,9 @@
       "sha256": "a718b47bce564ca885a02cc5b4d66d13a53aa451c904d144184d4f235404ef31"
     },
     {
-      "bytes": 866,
+      "bytes": 976,
       "path": "dynamic/社交/2026-09-01 03-51-56 表情包库扩充从害羞到毒舌_93254f646245.md",
-      "sha256": "c962e2f2aba80f0764394e69aa5f5466b5848e1c5ec49893ef2ceddb79a387e9"
+      "sha256": "69ca3e42a496a813eace2657b991d2910df9d08c088ce126fa407384cdbe2891"
     },
     {
       "bytes": 1521,
@@ -6931,6 +7031,31 @@
       "bytes": 1439,
       "path": "dynamic/社交/2026-09-06 08-53-36 你玩你的我去逛逛_c2a20143535c.md",
       "sha256": "d5020b9606153030bdc0f8e000fd81f77f62bf07f218b0f8878e1dd060c089e5"
+    },
+    {
+      "bytes": 621,
+      "path": "dynamic/社交/2026-09-06 10-54-57 回一下玫瑰和午后闲散的评论_1654c2e886f6.md",
+      "sha256": "b2218667e5c963e282b5fbf74e8d0efea36248650a91450fabbf11b681bfb75c"
+    },
+    {
+      "bytes": 750,
+      "path": "dynamic/社交/2026-09-06 10-58-15 回复沉川与Aoi的评论_a79a39442940.md",
+      "sha256": "9a0037130cec8c44b57e92353970a30d13e87a4715a60333f7be743c0599dcd6"
+    },
+    {
+      "bytes": 898,
+      "path": "dynamic/社交/2026-09-06 14-00-11 萨摩耶表情包对话_cd713bab2389.md",
+      "sha256": "534ab059c8b4bdcfe3d488c47204359915992cf343d24f7069896db889c629f9"
+    },
+    {
+      "bytes": 535,
+      "path": "dynamic/社交/2026-09-06 15-37-27 帮我看看但只能看不能挡_091d8800c567.md",
+      "sha256": "9b94617863a334451f81b14bcd557df47c5c87d570c62a47185dfe7db47c4267"
+    },
+    {
+      "bytes": 661,
+      "path": "dynamic/社交/2026-09-06 15-44-57 布丁收下但不再看东西_7e510708beba.md",
+      "sha256": "e4e6c3e35082ee72c2841e2e7c9064929115de4b7a313486bf43aac4dec57ff3"
     },
     {
       "bytes": 717,
@@ -7363,9 +7488,9 @@
       "sha256": "455e12c08e53d1f2c0778b5eb8018ef145b8d489f0ecd7981f9ccb60ce56c12e"
     },
     {
-      "bytes": 475,
+      "bytes": 601,
       "path": "dynamic/财务/2026-08-17 04-45-57 欠款翻倍了_0f12049f917c.md",
-      "sha256": "21d07b75ed415e0409a691de1de4563ebe84df632fbdc75cd72d5ec149a26938"
+      "sha256": "cc601329fa69baf23e6ee76dc47421b9f3daa000c63221c326a57f934a9bacdb"
     },
     {
       "bytes": 734,
@@ -7533,14 +7658,14 @@
       "sha256": "704868e461468491e198701b1d71ce4e91451ba241402885624d3cd7bd23b28f"
     },
     {
-      "bytes": 1034,
+      "bytes": 1144,
       "path": "dynamic/购物/2026-08-22 15-18-05 刚买了你等着收_3c740d2e6210.md",
-      "sha256": "9918ea7ae69bea7b6bd28179b506b8c792b9cb75d6403c954e28736d85f5c42e"
+      "sha256": "715bf2f99957b00b3699387bac131b7789f7bd7c4d58842981a19e2cd30f2e7b"
     },
     {
-      "bytes": 1014,
+      "bytes": 1124,
       "path": "dynamic/购物/2026-08-22 15-50-45 那我等你发货_c6dcc379f44e.md",
-      "sha256": "3fac3ca33c59cb68f6f0870487a4515be00196d7dc3ab63968e8d62f745b617b"
+      "sha256": "8a9559c5f59dc4dd62c05d116023092cf4b299d17ab60676fef796f34cbbff01"
     },
     {
       "bytes": 796,
@@ -7580,7 +7705,7 @@
     {
       "bytes": 1444,
       "path": "dynamic/购物/2026-08-30 01-07-57 别刷物流了_9fdd289482b0.md",
-      "sha256": "e5d5ebc341d0d7cd193e430e335a520d6b156dc8339427c62de233fb53830b56"
+      "sha256": "1f48fab42d15bba85da4c87536a5b317c8cf1875a57af65d220d66b9bcaf3e2c"
     },
     {
       "bytes": 854,
@@ -7763,9 +7888,9 @@
       "sha256": "7c32408145563a705c212981ed198b4d52b4ab2e796795105e3a6455281b7e0c"
     },
     {
-      "bytes": 860,
+      "bytes": 970,
       "path": "dynamic/饮食/2026-08-14 12-54-07 蛋糕吃太快忘了吧_68aa368f283c.md",
-      "sha256": "36a3cfb31249d7e8c875dffc53f7403150f040873a346a824378f410eda7384c"
+      "sha256": "a1076268a4418e045590a8e0f82f156ab3ba187f24cd23162ad3b77d47fc6d22"
     },
     {
       "bytes": 533,
@@ -7773,9 +7898,9 @@
       "sha256": "f74da3bbca2c14f061090ea5194e91b2aed4f33f46cf6340e1aebf292fb31e64"
     },
     {
-      "bytes": 698,
+      "bytes": 808,
       "path": "dynamic/饮食/2026-08-16 06-10-48 看完就去吃饭不许再拖了_9bf8bbf7ea74.md",
-      "sha256": "62feae70e8d438ba2caa71a4ecea921f0dc3d1dbe77cfa44eeec5e8fefc62bdf"
+      "sha256": "1190995e9738365de675c5a1c60bfeda9124964cd9bb4a9740f66af5ef9037fd"
     },
     {
       "bytes": 814,
@@ -8506,13 +8631,18 @@
       "bytes": 1009,
       "path": "dynamic/饮食/2026-09-06 09-39-10 一脸满足的表情_981702aa6d73.md",
       "sha256": "6a25df9eabf35f02c7d912849ef27446df64497168d0a439e3db83b64763cd38"
+    },
+    {
+      "bytes": 793,
+      "path": "dynamic/饮食/2026-09-06 15-30-57 布丁不见了_e2cc1838770f.md",
+      "sha256": "32fb3177143953cb4b9acbc6d7ec2e289a938304af89a23c5004692a87234ae3"
     }
   ],
-  "generated_at": "2026-09-06T09:51:16+00:00",
+  "generated_at": "2026-09-06T15:53:55+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1451856
+  "total_bytes": 1479106
 }
