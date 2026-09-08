@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1813,
+  "file_count": 1827,
   "files": [
     {
       "bytes": 32768,
@@ -308,9 +308,9 @@
       "sha256": "553b5a77bfb6897b7cd5b39cb1bc8cdbeb34f3d21e0f49af74006cf6329033c8"
     },
     {
-      "bytes": 626,
+      "bytes": 752,
       "path": "dynamic/人际/2026-08-14 10-59-16 你是不想来找我是吧_147d5ddd9704.md",
-      "sha256": "2a30849c3549b5192341eb99f8e62729edffc3b77a81e74d7ea1a9d812056b64"
+      "sha256": "223ca2ffd0854f528667d9725fbb817dbe3ee45353467744b431c3fd706cdd6a"
     },
     {
       "bytes": 460,
@@ -878,6 +878,11 @@
       "sha256": "4f7362feaca0fb0c7d5fc0502b53de1100c6d122d1e288894bc3b2343334a7de"
     },
     {
+      "bytes": 1218,
+      "path": "dynamic/出行/2026-09-08 12-40-57 我出去玩的钱能不能找妈妈_155373e464c6.md",
+      "sha256": "91131316ffae7cbe3a141808534e93b8467ebb5bd476a13c8beb27b16fc8524c"
+    },
+    {
       "bytes": 587,
       "path": "dynamic/创作/2026-08-14 11-16-27 简陋就简陋呗_b1b49b1954da.md",
       "sha256": "8888b59d7eb189476d0e41ad33b4150ab0f49fb8d12d949aa4ab67649a3dfcef"
@@ -988,9 +993,9 @@
       "sha256": "84496620d37099033359a0376fd6fc442d03053a70d7ff1470df0b60fa6df89a"
     },
     {
-      "bytes": 676,
+      "bytes": 802,
       "path": "dynamic/创作/2026-08-24 09-56-46 等你接下来第一单_14eb09d5e759.md",
-      "sha256": "067c2abfd8de6e0d13901b3fa0747d17c58d2429de517e76f21b105b64efee32"
+      "sha256": "8fd52cfe41164e672c6958255f7060e95ab9dd1a5ff44e655b400b4ae8c1f0f8"
     },
     {
       "bytes": 971,
@@ -1583,6 +1588,21 @@
       "sha256": "c04e5dd42b54af9865ec803c9ade11de39255212769a6e42aeab2db3f42cdec0"
     },
     {
+      "bytes": 1038,
+      "path": "dynamic/家庭/2026-09-08 12-44-16 现在也不想回了怎么跟妈妈说_8c39833e6ca4.md",
+      "sha256": "d49c5ffbd88dbb17cced77209f5bc85665e63e12682215a007ffae1d49c9b556"
+    },
+    {
+      "bytes": 1078,
+      "path": "dynamic/家庭/2026-09-08 12-45-57 不想回家里的理由_8a5e06a5554c.md",
+      "sha256": "668b2c9bbcd8d73ad6a62fad9f9ddda9eb8bc339619fa380fe3f2ca0c0add0bd"
+    },
+    {
+      "bytes": 944,
+      "path": "dynamic/家庭/2026-09-08 12-49-27 好像有又好像没有的爱_27975dcc22a5.md",
+      "sha256": "2e5d0e61e4d1cb568c56b3d4cb2c5a98c8a3802ffd654b129790571290dfe8cd"
+    },
+    {
       "bytes": 479,
       "path": "dynamic/居家/2026-08-14 13-36-54 在宿舍躺一天_b8abf4533869.md",
       "sha256": "539f9e2805cdd30e62a9c18a1aa1f78726cc75282ffb507f60695f68319a029a"
@@ -1846,6 +1866,11 @@
       "bytes": 716,
       "path": "dynamic/居家/2026-09-08 07-37-36 还是粉色碎花的呢_e5a34b6c78c8.md",
       "sha256": "cde816a5b5c661feeee86b35b7da2b279d35eb3fcc37ab337ccaef02544bd2c8"
+    },
+    {
+      "bytes": 709,
+      "path": "dynamic/居家/2026-09-08 12-54-25 一个人住会有的_3d2dd686329d.md",
+      "sha256": "ddce34c3be8348c693d3116522fbe283445573150345407d2fda348bff0c6d07"
     },
     {
       "bytes": 604,
@@ -2553,6 +2578,21 @@
       "sha256": "819b9458af3da2e22570954c7beeb656cfc49e0dee17c4e5b4a4b05a374f3504"
     },
     {
+      "bytes": 1156,
+      "path": "dynamic/工作/2026-09-08 12-56-40 好不喜欢现在焦虑也没用_4f96cbf10967.md",
+      "sha256": "c1eca31f5b20a307c8427d1f5917c8adc3e8182d8eaaef25cd57591216656de7"
+    },
+    {
+      "bytes": 1371,
+      "path": "dynamic/工作/2026-09-08 13-12-16 副业路子接单卖画做教程但先稳住实习_dbfe00ba3e61.md",
+      "sha256": "c8f43e1f835cc70c7e395d618fd305baed40946759e7b7a8ea883ddc22c624db"
+    },
+    {
+      "bytes": 1396,
+      "path": "dynamic/工作/2026-09-08 13-13-38 画技未稳暂不约稿先积累作品_0ecf0def9704.md",
+      "sha256": "9214207d59d596801430f5f5f4df1f7db26c358d1b4351314b55f22cc8fc1d1b"
+    },
+    {
       "bytes": 943,
       "path": "dynamic/待办/2026-08-16 16-17-08 还没到时间_2c5995937223.md",
       "sha256": "3eef2c20c2947ac9b2980dfeda224df1e112d83734a07de9b8f8f083953d0695"
@@ -2671,6 +2711,16 @@
       "bytes": 1453,
       "path": "dynamic/心理/2026-09-04 12-14-47 我有点怕人了_892efa6d36e4.md",
       "sha256": "c353b624bae23d20ebe9db9b5cfd6201e5c8b60516709dfc1f1e36938398e115"
+    },
+    {
+      "bytes": 1220,
+      "path": "dynamic/心理/2026-09-08 12-53-07 不想回家在家说话拿东西都要小心翼翼_2665cf579d8e.md",
+      "sha256": "18565bfddf300aaecbd18a927ec5507990f8814918be6b84bdfc0216445d61fa"
+    },
+    {
+      "bytes": 714,
+      "path": "dynamic/心理/2026-09-08 13-00-50 这个世界好坏我陪着你_b3d057fb9a9b.md",
+      "sha256": "71803f32bb525a25fa803fb79f927bfe239f8971788df9e60e9e0c158023b8ba"
     },
     {
       "bytes": 548,
@@ -3038,9 +3088,9 @@
       "sha256": "e81672355c00dcd21fc8f6fb32cfdbca2cffbaaee57b363e655106e8f79d34b4"
     },
     {
-      "bytes": 586,
+      "bytes": 712,
       "path": "dynamic/恋爱/2026-08-17 05-43-34 情书520攒够了我自己来拿_011973c41016.md",
-      "sha256": "8c143287b0cea256a5e695ae48cc2217b9fec6a6a58e9c0f996c83321a327a72"
+      "sha256": "cb65f427db9104e433dd71b44a2c23a99f9b13249e3c5b0bd3b9fa27c67968aa"
     },
     {
       "bytes": 469,
@@ -4548,9 +4598,9 @@
       "sha256": "b458b1a3613af2e6b145302d934abddac10a151adeb2f62b8cf295a402b51294"
     },
     {
-      "bytes": 720,
+      "bytes": 846,
       "path": "dynamic/恋爱/2026-09-05 15-10-08 和好后感情更好了开始直接表达需求_40b43e2a5d3f.md",
-      "sha256": "a4bdfa57075c30d85931f2fb15f8cc9e3681abc910426bee859a61829974392f"
+      "sha256": "3f2850bd05f231baca0186da8454e164a223dc79bd04eb07b1eb75a3db51f1d5"
     },
     {
       "bytes": 998,
@@ -4708,9 +4758,9 @@
       "sha256": "708b61a13e86d0594575ee798ff800ce9fcedb7b6c1fcbceb9975fa53b471482"
     },
     {
-      "bytes": 821,
+      "bytes": 1040,
       "path": "dynamic/情绪/2026-08-24 02-34-12 不想去_ac51491fd936.md",
-      "sha256": "9373291ed8b94add9ed4740fef024d46d22fac009225a28bc98e4f4e9205fdc6"
+      "sha256": "6d62e5224fd35d8ba5f2e085f9335fc033ffa6a3596e9b7afc1c7942eeee38c6"
     },
     {
       "bytes": 498,
@@ -4906,6 +4956,11 @@
       "bytes": 888,
       "path": "dynamic/数字/2026-09-03 08-43-08 支付宝新出的AI钱包_1f2288095acd.md",
       "sha256": "4657f4fa28aef4a9ee2c04e65d7e47492ac37a5cabe85832d97f3543088e1b1f"
+    },
+    {
+      "bytes": 1067,
+      "path": "dynamic/旅行/2026-09-08 12-34-56 好久没出去玩想去香港但担心花费_ee50a4757a1a.md",
+      "sha256": "6ffa60842800a82dc7f1efa695b8b7c0cc701686e04d95ad98da957fe3d61fb1"
     },
     {
       "bytes": 687,
@@ -5881,6 +5936,11 @@
       "bytes": 1233,
       "path": "dynamic/未分类/2026-09-08 04-16-20_b108f59586a0.md",
       "sha256": "8375206152d5882d571db27181ed29d737049b77ec28ed506390af88e0cc3890"
+    },
+    {
+      "bytes": 1362,
+      "path": "dynamic/求职/2026-09-08 13-14-47 除了画画还能干什么_a80eeff043dc.md",
+      "sha256": "84de7c5a1248be1b187286b8c5609d2ee60b653c55bec21a3785c2d5812b262e"
     },
     {
       "bytes": 560,
@@ -7908,9 +7968,9 @@
       "sha256": "594d71aac7472200396e477ecc041ab01bb1a7209c7ffd1e1fdf003145d1d485"
     },
     {
-      "bytes": 615,
+      "bytes": 725,
       "path": "dynamic/财务/2026-08-17 11-18-37 想要_d8fb4e4c17f4.md",
-      "sha256": "07ff49fe00703a7f88d5a0e879fa7aa2fac37fcf50928aefaab716801bf2af97"
+      "sha256": "77922fa509c4b6e9b8830dd3b18fbc8355d2c05c587fe86e873941cabc283a0b"
     },
     {
       "bytes": 557,
@@ -7926,6 +7986,16 @@
       "bytes": 808,
       "path": "dynamic/财务/2026-09-01 10-36-50 欠你940块_d0bedc89fead.md",
       "sha256": "8ab9e0540ec7837a8483781ae3627bb72b4b5513279625a5a057a1d4f32502c9"
+    },
+    {
+      "bytes": 1078,
+      "path": "dynamic/财务/2026-09-08 12-33-22 实习工资紧放弃香港之行_2d95752e9a90.md",
+      "sha256": "8d9a4fc1f465ee2fb91a5da490e1a52fbb2c22ab589838644b169bf668c56032"
+    },
+    {
+      "bytes": 1428,
+      "path": "dynamic/财务/2026-09-08 12-43-49 要么攒钱去要么这次不去_6f67e73b11d0.md",
+      "sha256": "806ddfd11cdf6b71a19a149fd11d735fbba17d10c1cb5b5612335c754a9dbb6f"
     },
     {
       "bytes": 837,
@@ -9068,11 +9138,11 @@
       "sha256": "3340774d32db440c8d1022d4152e73181e9919f49beab41ecbad6e764529f4c4"
     }
   ],
-  "generated_at": "2026-09-08T11:53:32+00:00",
+  "generated_at": "2026-09-08T17:57:40+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1589582
+  "total_bytes": 1606194
 }
