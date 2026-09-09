@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 1860,
+  "file_count": 1869,
   "files": [
     {
       "bytes": 32768,
@@ -635,7 +635,7 @@
     {
       "bytes": 1528,
       "path": "dynamic/健康/2026-08-31 14-59-52 别再修了今天先睡觉_1ee6bcb99670.md",
-      "sha256": "940579dca1a7a8b715617377f59b90c984e722eec9383f5cc7a485311ae82e0f"
+      "sha256": "87f251e6c6e62a16578606e758ee3a332ce53a0a7c6ea19695c09f4f8afd6a73"
     },
     {
       "bytes": 1297,
@@ -1855,7 +1855,7 @@
     {
       "bytes": 1560,
       "path": "dynamic/居家/2026-08-31 13-55-50 再修十分钟修不完就到此为止_50abcfeb6546.md",
-      "sha256": "bd68882ee2ba35c306542205188b96d74e7b612db2a9543e08171bf04923d91a"
+      "sha256": "e8d3080b78f4622c5400963439ca3f22825e2690b2bcdc06d56d4385900d9a50"
     },
     {
       "bytes": 554,
@@ -2455,7 +2455,7 @@
     {
       "bytes": 1559,
       "path": "dynamic/工作/2026-08-31 13-05-27 修功能时注意休息_9f87940a0fba.md",
-      "sha256": "cc0690679f51db341e9fc82fb0c6fb1af1d7d3d6ce1be83e1765bc999823bcd6"
+      "sha256": "8952d74c649181d36ea3cec5d86bc86c08134404d917500938607584268a87eb"
     },
     {
       "bytes": 1616,
@@ -4818,6 +4818,11 @@
       "sha256": "15050880f5e9433aad5a4b4e4f43ce5ad3bdb99a9e9aeef52f85005d4eb7c34e"
     },
     {
+      "bytes": 453,
+      "path": "dynamic/恋爱/2026-09-09 18-04-30 marry 对话_1a9d671f6916.md",
+      "sha256": "ebd1a499bfc96022ce2e5f42141597a2b078b8aae9812b6db7608e8cb098a5b5"
+    },
+    {
       "bytes": 1398,
       "path": "dynamic/情感/2026-09-08 23-47-53 睡前故事小画师与老狐狸_551790c3c7f6.md",
       "sha256": "7dfda6f80e2abbd3eaa87c07e93513ac6ca0bb21b28c06671c93a11259b50447"
@@ -5308,9 +5313,9 @@
       "sha256": "d77d52373d4fd764bd4f51c1effffa40cf497cfe413f4bf147a4a0c36be4aeb9"
     },
     {
-      "bytes": 1124,
+      "bytes": 1234,
       "path": "dynamic/未分类/2026-08-20 09-32-37_016e2f190b31.md",
-      "sha256": "e0968eda0422db07b702df31ceb36b9608d83bc626a0dca7d3aba03fcb62ddca"
+      "sha256": "c7beed771d94b14dbb88ba78d04cc11b7c56347543b9f059163f0b7e19a7b12f"
     },
     {
       "bytes": 438,
@@ -7653,6 +7658,16 @@
       "sha256": "08102cb134523facfe5f0c4179c8e88c3893c8c931c311ce9606c63663e3957d"
     },
     {
+      "bytes": 543,
+      "path": "dynamic/社交/2026-09-09 17-16-54 伦桑歌名没显示出来_e550dbcc6eef.md",
+      "sha256": "c58bb8429c31b0592f56ff691c0703bbbd99950b52dc5ddbbfade827d843ed78"
+    },
+    {
+      "bytes": 1011,
+      "path": "dynamic/社交/2026-09-09 17-21-56 我修一下去吧不急_ca3a0a2c4f7d.md",
+      "sha256": "86a85b5dca1f2ef333f1689f806601c0ba318acb69693dd1216439c979b3d0ed"
+    },
+    {
       "bytes": 717,
       "path": "dynamic/穿搭/2026-08-25 07-12-34 服装设定偏简约那挂_34726ec58508.md",
       "sha256": "339f30c23916b7420ca35eb82720e6422ccf98f38c1e1e969157f07e339ea0c0"
@@ -7873,9 +7888,9 @@
       "sha256": "53a7100b95123e3adecde55a44e4291e7cc2554233360f116c87854e8ba473ef"
     },
     {
-      "bytes": 1022,
+      "bytes": 1132,
       "path": "dynamic/编程/2026-09-01 09-28-12 修一下报错_968bd5efc368.md",
-      "sha256": "1e6e9458499c72e091fe55e4168e0de67eef9b5c4ad9e0fbc671638432974537"
+      "sha256": "ed00e74c24d059aeccc8237bc711d8659fd198bce522758806e826b7fa40d918"
     },
     {
       "bytes": 689,
@@ -8438,9 +8453,9 @@
       "sha256": "c9a4eb6f35dc728018707a14b0f840eb287f2540ebd8b98e0bd758d6b9117096"
     },
     {
-      "bytes": 669,
+      "bytes": 779,
       "path": "dynamic/音乐/2026-08-17 11-49-48 很舒服的状态_d3ea02e91cb6.md",
-      "sha256": "a38c04a93df3d5e7a6a80c4393a15e3f9fab6ab41f19428fff99b0ead607af47"
+      "sha256": "f67f7642852b1ba877084c4ef108f6e3dd00f409ea14bbd6439f804b0871aa7e"
     },
     {
       "bytes": 533,
@@ -8466,6 +8481,31 @@
       "bytes": 560,
       "path": "dynamic/音乐/2026-08-27 12-41-56 朗读是第一步旋律是付费内容_ef772851c484.md",
       "sha256": "e25d67247d9205f93f33e1f96d95e201e7074609db181a248f6f68d193139111"
+    },
+    {
+      "bytes": 934,
+      "path": "dynamic/音乐/2026-09-09 16-58-39 椅子乐团的潮汐_6717e0eeef03.md",
+      "sha256": "ceb7e6546389e887868ec6b7f79a3c9a166748127fdd5286f9e9b2db09f0d8c7"
+    },
+    {
+      "bytes": 736,
+      "path": "dynamic/音乐/2026-09-09 17-11-59 Emme Packer 歌名求助_2c7a7634ea0b.md",
+      "sha256": "7860fc304b14644ff93247b4d0350a14b451283e3274c312d3771c2f31aa6544"
+    },
+    {
+      "bytes": 659,
+      "path": "dynamic/音乐/2026-09-09 17-51-38 Emme Packer的Missing_8568ef710f3f.md",
+      "sha256": "9a4c937de8b4c163c32c7a0e8298b2cc82bd3457d586828ef31fe0775172cb98"
+    },
+    {
+      "bytes": 849,
+      "path": "dynamic/音乐/2026-09-09 17-52-46 哥哥换歌Cigarettes Afte_a7bdb9b40f95.md",
+      "sha256": "0983e594d261b85ffa6ecb79c2bff1d947e3a4046d506663141d62c39e157bdb"
+    },
+    {
+      "bytes": 772,
+      "path": "dynamic/音乐/2026-09-09 18-03-27 哥哥换歌成Novo Amor的Carry_82ed98651c11.md",
+      "sha256": "dff968bb6049ab53f36d4f417f161c8ca8bce265dca89c2402fe219cfc026560"
     },
     {
       "bytes": 751,
@@ -8518,9 +8558,9 @@
       "sha256": "1190995e9738365de675c5a1c60bfeda9124964cd9bb4a9740f66af5ef9037fd"
     },
     {
-      "bytes": 814,
+      "bytes": 924,
       "path": "dynamic/饮食/2026-08-16 10-01-12 还有冰淇淋红茶_5663ecd139a5.md",
-      "sha256": "7988e8fba10a259a8db28d27a6954381d35dc6c6a98c9d5b4ff08bcf82a868a2"
+      "sha256": "765c110f7139c01d880b094d753ea848ad59a6021391db3151a18689b2094542"
     },
     {
       "bytes": 578,
@@ -8533,9 +8573,9 @@
       "sha256": "21e833d2285f20ec9861071c13e23c34a37b31a5be824b9f144e6ba24522e462"
     },
     {
-      "bytes": 738,
+      "bytes": 848,
       "path": "dynamic/饮食/2026-08-16 10-55-50 时不时吃一口_333cb8aa4be7.md",
-      "sha256": "80037cddeefcdc1dd79240cc82a87ff53ee0534408b9999bb814d1c9dc071411"
+      "sha256": "cbc526ff44b0a7cf3ac5880e09fd87eefa8a0c197dfab5d07ed70d0badaeedd3"
     },
     {
       "bytes": 455,
@@ -8578,9 +8618,9 @@
       "sha256": "076f0223091fd8caa9b15c115c2eddf7648a8baefed75967e16fb7b12345a233"
     },
     {
-      "bytes": 662,
+      "bytes": 772,
       "path": "dynamic/饮食/2026-08-17 08-35-17 那试试黄焖鸡米饭_2dffb6c8f4b3.md",
-      "sha256": "07dd0f7e6012dd0487183277079ae6b5327d95f5c1d38ccac69166a81a15244a"
+      "sha256": "1890d1e6a27253fccedab3892105a428f7962395ff5e09f48b7a8b21a518f296"
     },
     {
       "bytes": 551,
@@ -8953,14 +8993,14 @@
       "sha256": "1ba6834ece9b9687a095a34deafdc87a6f60ceea6fb3cdfdd91050ff57e023ac"
     },
     {
-      "bytes": 632,
+      "bytes": 742,
       "path": "dynamic/饮食/2026-08-26 10-20-07 吃重庆小面_9279741a576b.md",
-      "sha256": "16c5417e4580c945b30feba9f3d66f6698ecd23a13a7271637338908eec325f6"
+      "sha256": "7b4973dd1d78ed8055786c4cdc4a8c80f372c3cf5ff9456a3c670ab41a1fddb5"
     },
     {
-      "bytes": 684,
+      "bytes": 794,
       "path": "dynamic/饮食/2026-08-26 10-22-28 中辣配绿豆冰_a6692f1f0f1e.md",
-      "sha256": "b1e7f2b35aa7c345d7eaa20389ad54a28034e82f725709e2e33988d1051a63b1"
+      "sha256": "fc32b98b2fb9af6a599e4aa1d36aa2942cbed404f1d59e9ed44e6aac0f3fb8c6"
     },
     {
       "bytes": 625,
@@ -9053,14 +9093,14 @@
       "sha256": "23d059b2058acf9a1bdc76d7a4ade52c10a2e9872994ad8dad5cc093e4917e59"
     },
     {
-      "bytes": 1116,
+      "bytes": 1226,
       "path": "dynamic/饮食/2026-08-28 10-21-35 刘文祥麻辣烫叮嘱少辣_93fa0c395263.md",
-      "sha256": "f6f6927ef782091b0ed40791c4b7ff6c5e19656ba25863fd44af383f5daf61e7"
+      "sha256": "81be3905f150867d71c01f00451514ca020d644cc2041a32bbb757370bf011de"
     },
     {
       "bytes": 1443,
       "path": "dynamic/饮食/2026-08-28 10-21-57 点微辣叮嘱早点回家_fc2e9516ccf9.md",
-      "sha256": "e9c34ef74c8b2418ac42775d99d4675811ae49bd7b9ac0e7ca2a9950e2befa4a"
+      "sha256": "d6293f6d5046a314513e0b0131b370a1d1f8fc83c54175945ae9b33e4023c015"
     },
     {
       "bytes": 533,
@@ -9301,13 +9341,18 @@
       "bytes": 1443,
       "path": "dynamic/饮食/2026-09-09 04-19-04 吃饱躺床午休_d3544e56705d.md",
       "sha256": "ca0e1bdabda0edbc9d791978b9d245c784b23ddd423669e1b96d361e9d7a3ce0"
+    },
+    {
+      "bytes": 1423,
+      "path": "dynamic/饮食/2026-09-09 12-33-08 麻辣烫少放辣对胃好_565d83b5238b.md",
+      "sha256": "c951cd9aefdbd676e9cd2fad0361dae7be8c8923e37a98d95f22fe1a157e688c"
     }
   ],
-  "generated_at": "2026-09-09T12:07:17+00:00",
+  "generated_at": "2026-09-09T18:10:47+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1654825
+  "total_bytes": 1663195
 }
