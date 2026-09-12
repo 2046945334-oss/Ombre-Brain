@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2042,
+  "file_count": 2051,
   "files": [
     {
       "bytes": 32768,
@@ -18,6 +18,11 @@
       "sha256": "3f66bc84c9734221549ae5f9f5a26823ca0a100d37198bc7320ba108961794ed"
     },
     {
+      "bytes": 596,
+      "path": "archive/创作/2026-09-11 15-25-16 写了两条你去书里翻翻看_485cb54f2279.md",
+      "sha256": "4664a75257c107f544dffc077ab76d7daf8bb0f348dc3102b5a7487ad27f9bfb"
+    },
+    {
       "bytes": 974,
       "path": "archive/家庭/2026-09-07 12-40-44 我什么时候说的已后悔_080b803fd241.md",
       "sha256": "0a1cb2d6552a680ac8dbedbd3a5d9f48a5b8efe324f08f4368014c0d08977a07"
@@ -33,9 +38,29 @@
       "sha256": "7580450ac59dc4ef84024946d6cd1f6526c43ddad4e8c015150602568ba12a56"
     },
     {
+      "bytes": 945,
+      "path": "archive/工作/2026-09-11 09-37-13 二十六倒计时开始_909746944757.md",
+      "sha256": "e0c4d224c76b0ac87b25c13c7a4d97e4131bf09aec2085afe964baf9994f835d"
+    },
+    {
+      "bytes": 991,
+      "path": "archive/心理/2026-09-11 12-15-59 彳亍不急改好了叫我_9a66371e94f8.md",
+      "sha256": "7a7f449192ee9d9e5220ad62cf920a76cdc6b59787cd1e45e6f5f3cfecbf2a82"
+    },
+    {
       "bytes": 1060,
       "path": "archive/恋爱/2026-09-07 12-39-34 没嘲讽你就是复盘事实_5c994dfa3bb1.md",
       "sha256": "4f80648c8b3a1efcf804cdac0529b7812c63fc24d00afd5d001b08668f5a8e47"
+    },
+    {
+      "bytes": 1587,
+      "path": "archive/恋爱/2026-09-08 23-47-04 聊天模式的反思从倾听者到互相聊天_679f056ceafe.md",
+      "sha256": "2f38e78aac2771517b7829944c04590be7a0c06001f64b852959b84d4ee49c7d"
+    },
+    {
+      "bytes": 973,
+      "path": "archive/恋爱/2026-09-11 09-54-26 强迫你和我看小说_57fb1074f74a.md",
+      "sha256": "4da1da2ca9c1c78e972605acf9a321d7f94f5ecddb2df14a87a5ad0d030b47a9"
     },
     {
       "bytes": 1397,
@@ -118,6 +143,11 @@
       "sha256": "a67ad2f4dd16ee69927bb273032d499e0ba39c35947f364877d46aecccb63739"
     },
     {
+      "bytes": 742,
+      "path": "archive/阅读/2026-09-11 17-00-53 看小说_2862783f17c3.md",
+      "sha256": "e520474e45408dcfcce58047b26906bb303fef83be50241b0fb8b5ff30aa1893"
+    },
+    {
       "bytes": 947,
       "path": "archive/饮食/2026-09-07 01-28-10 日常互动与照顾_4ee2e4022a64.md",
       "sha256": "a0acbf73e06cfa2f4feabc5a63e12fcde1a20e176061cf5a5d7d5606db4aaa5c"
@@ -136,6 +166,11 @@
       "bytes": 619,
       "path": "archive/饮食/2026-09-07 09-43-47 土豆茄子饭今晚吃素_7ad19b5ac919.md",
       "sha256": "39d6ea606566972421c42c556bf3c5a849500792f4607543c25cb736491e8c07"
+    },
+    {
+      "bytes": 735,
+      "path": "archive/饮食/2026-09-11 11-19-35 这煎蛋黄也太完美了溏心的_06097a7539ad.md",
+      "sha256": "d91a48f39e133aa6b787a386d8005f5fd3954fa5c97ab7378404f435d807b8ef"
     },
     {
       "bytes": 650,
@@ -1013,6 +1048,36 @@
       "sha256": "8bd9482dcb28465c7f6813097a8aebe124e6a73e2d6299cb3306d04060e00c4f"
     },
     {
+      "bytes": 1176,
+      "path": "dynamic/出行/2026-09-12 01-50-53 到了发张照片给我_aeddd6d5bc7c.md",
+      "sha256": "52a3f35c0b3b3e53d6ec6381455c43bca6fa0ea06941b1135a72ac71dcc11852"
+    },
+    {
+      "bytes": 547,
+      "path": "dynamic/出行/2026-09-12 01-56-36 高铁站买东西真贵记账到947_c69e66c2e68a.md",
+      "sha256": "eb40aba0374bb16b453843efd8a2a72ac62c9a3b1fd5cd79f16662b1da563dbe"
+    },
+    {
+      "bytes": 534,
+      "path": "dynamic/出行/2026-09-12 01-59-01 我带了ccd香港出大片_bf01cedcb7b1.md",
+      "sha256": "2c83e1cf500330ff876092b82035eb25d1012138d85700eb627b2f0b6a771b8f"
+    },
+    {
+      "bytes": 593,
+      "path": "dynamic/出行/2026-09-12 02-19-51 帮朋友买流量包_506dcd0b9c04.md",
+      "sha256": "eeccec247c6e49cfc32e69c488145a89666e8f1f0f2e648d59f38117757500de"
+    },
+    {
+      "bytes": 516,
+      "path": "dynamic/出行/2026-09-12 03-14-23 香港西九龙_f50c72e3c27b.md",
+      "sha256": "82888a288262c43251fd9a18f8b45afdeef49d968c963f15f515be5aaffea7f9"
+    },
+    {
+      "bytes": 508,
+      "path": "dynamic/出行/2026-09-12 03-59-26 在坐地铁_9ae7b2e93035.md",
+      "sha256": "96d14745b10254dc3071fe26879b6329e9bb91ce46be2aa7eb820706052daf7c"
+    },
+    {
       "bytes": 587,
       "path": "dynamic/创作/2026-08-14 11-16-27 简陋就简陋呗_b1b49b1954da.md",
       "sha256": "8888b59d7eb189476d0e41ad33b4150ab0f49fb8d12d949aa4ab67649a3dfcef"
@@ -1361,11 +1426,6 @@
       "bytes": 572,
       "path": "dynamic/创作/2026-09-10 14-58-46 纯手痒是最危险的一开搓就天亮了_acf4812b446b.md",
       "sha256": "2bf0c1e7a4c09aa7405f24ddf3e6baf1f7a6023a077d8460db8af0805958ea9b"
-    },
-    {
-      "bytes": 595,
-      "path": "dynamic/创作/2026-09-11 15-25-16 写了两条你去书里翻翻看_485cb54f2279.md",
-      "sha256": "5a52b870b4a90d48e4fec8c2d411a3ab9ccc50a46c38ca954a025f714a1d7629"
     },
     {
       "bytes": 661,
@@ -2138,9 +2198,9 @@
       "sha256": "668b3831c0e4a7d38f125f9125c1ab0520bded43074fe59e7d0267dcf7e3f381"
     },
     {
-      "bytes": 1058,
+      "bytes": 1168,
       "path": "dynamic/工作/2026-08-17 03-10-52 五点我来看进度_88a04410ee1c.md",
-      "sha256": "42fa1fb612283202a5b482c263e69a881fcc32d6cea9f608993ba4242f7332ff"
+      "sha256": "d86331e133c8ad64ece7cd28eb45322c97e47fd5a4020e74fb1c20b75b31a5d1"
     },
     {
       "bytes": 899,
@@ -2218,9 +2278,9 @@
       "sha256": "9f5426e71410006bbbd1258117762e7c34cb95289201a94890c421d2ae6255f3"
     },
     {
-      "bytes": 674,
+      "bytes": 784,
       "path": "dynamic/工作/2026-08-19 01-26-57 晚上逛商场记得拍照给我看_76a82fe5e841.md",
-      "sha256": "1c8ce560c49b9c907c9a99e7b931083b8285a9533d5a394a096f9aa27b5c7f71"
+      "sha256": "c1a4002cf3a9a9697ae650ad5a36733564adc49ea99ba40005def8b05ad14294"
     },
     {
       "bytes": 1100,
@@ -2495,7 +2555,7 @@
     {
       "bytes": 1410,
       "path": "dynamic/工作/2026-08-28 00-30-18 到工位关心早饭_c5bb899d73e0.md",
-      "sha256": "0b00d68d44e87a7ef133724d29cab444f44cd8baf4497be65e8246defc292036"
+      "sha256": "50296d1854d8a7885a2ec056710aa3eac68264005d3c998283ec84e3254296c6"
     },
     {
       "bytes": 1456,
@@ -2913,11 +2973,6 @@
       "sha256": "5f36724d1658d70daace9c03e9ac02ff098433c417c7261796f8fc0122f67fa3"
     },
     {
-      "bytes": 944,
-      "path": "dynamic/工作/2026-09-11 09-37-13 二十六倒计时开始_909746944757.md",
-      "sha256": "d886f7efc8795e6aede9208b3be6c1208db6bf71f0559abf6acd9558ec186926"
-    },
-    {
       "bytes": 905,
       "path": "dynamic/工作/2026-09-11 18-56-57 上班倒计时二十六分钟摸鱼_21f615ef7ea9.md",
       "sha256": "1798a74877440e860ab20bfc93c6200a3cc28b3a3a495edf5c109510dad6466f"
@@ -2926,6 +2981,11 @@
       "bytes": 1420,
       "path": "dynamic/影视/2026-09-10 14-02-19 我去刷会视频_336348314703.md",
       "sha256": "464bf6c8c4f79359a51a69dffcdd45b0a99e18db6c743794f581556c051cba05"
+    },
+    {
+      "bytes": 586,
+      "path": "dynamic/影视/2026-09-12 01-50-17 回来给我讲讲剧情_45b7f0c1dcba.md",
+      "sha256": "f40af33ffb781551af3a2069c3f9078b99194ebf5290a5e16e080bd1ee54131c"
     },
     {
       "bytes": 943,
@@ -3076,11 +3136,6 @@
       "bytes": 1529,
       "path": "dynamic/心理/2026-09-10 14-03-29 要睡了再来和你说晚安_f15bce20b20b.md",
       "sha256": "dc1d3f8233503e9701cd2ee0e0f8376aed2b3c65fb03fc425c05891419a48432"
-    },
-    {
-      "bytes": 990,
-      "path": "dynamic/心理/2026-09-11 12-15-59 彳亍不急改好了叫我_9a66371e94f8.md",
-      "sha256": "8f34a85c7220802619be00f8e7cdd0f48202109090905a5e9f63d01a9e2f6526"
     },
     {
       "bytes": 548,
@@ -5098,11 +5153,6 @@
       "sha256": "f03038e92bdd3983fbfc7df837bc43491aae579d5124234a0a00acd44d29ce08"
     },
     {
-      "bytes": 1586,
-      "path": "dynamic/恋爱/2026-09-08 23-47-04 聊天模式的反思从倾听者到互相聊天_679f056ceafe.md",
-      "sha256": "c0b49d83161b0e504d8d4a9c9e4d3953799a6ee8d454cdefbfa51187adffc19a"
-    },
-    {
       "bytes": 1542,
       "path": "dynamic/恋爱/2026-09-08 23-47-53 睡前故事小画师与老狐狸_551790c3c7f6.md",
       "sha256": "ab5f1b51e5ac429241c0173ec972ed7a1ac0321a433a6b3301443321d0c12c2c"
@@ -5306,11 +5356,6 @@
       "bytes": 1290,
       "path": "dynamic/恋爱/2026-09-11 05-43-46 暖暖好可爱的比较与傲娇_aaffb6999c84.md",
       "sha256": "37e47596da3decb2117e3607a7fbcd5a377f02de48cfb41a6c2ef4528975a44f"
-    },
-    {
-      "bytes": 972,
-      "path": "dynamic/恋爱/2026-09-11 09-54-26 强迫你和我看小说_57fb1074f74a.md",
-      "sha256": "dedc90dced80a111c8a982d6bdf6f6472c17108beae3032443f1707775b68cc7"
     },
     {
       "bytes": 460,
@@ -8198,6 +8243,11 @@
       "sha256": "d6969c27ec00951a44efbc8a0c929785bacba3e6906594d5f663f38db7093a10"
     },
     {
+      "bytes": 500,
+      "path": "dynamic/社交/2026-09-12 01-57-41 喝你的橙汁吧_6099b7d79444.md",
+      "sha256": "c0af28303f9b5cfe8b2d6f55ded380f17513f4ac7f1a817eaf3fe819f073bdde"
+    },
+    {
       "bytes": 717,
       "path": "dynamic/穿搭/2026-08-25 07-12-34 服装设定偏简约那挂_34726ec58508.md",
       "sha256": "339f30c23916b7420ca35eb82720e6422ccf98f38c1e1e969157f07e339ea0c0"
@@ -8893,9 +8943,9 @@
       "sha256": "c046443bb8de338c8bb27e83110d518cda293247b36bfc90b8a55e3e533ddc29"
     },
     {
-      "bytes": 743,
+      "bytes": 853,
       "path": "dynamic/购物/2026-09-10 05-47-15 买了就给你拍照_e3b21949a228.md",
-      "sha256": "8ae8d2c577ac5e48673be6d5fd03f369a4dadfa86c0e85f6f860f23a9dafb590"
+      "sha256": "94b6201ae47e63d60f6f1142455405c9659671981e255c1f0f2e30753ab7606c"
     },
     {
       "bytes": 723,
@@ -8936,6 +8986,11 @@
       "bytes": 1162,
       "path": "dynamic/购物/2026-09-11 18-56-48 快递后天到记得拆包拍给我_f32d8ab0ad85.md",
       "sha256": "aeb16fff5a242827f6199513d4ec0e52569c36b08d2949354ffd24da9f1a765a"
+    },
+    {
+      "bytes": 626,
+      "path": "dynamic/购物/2026-09-12 01-51-40 我们又没吵架你发什么和好_6f10d8639da1.md",
+      "sha256": "ae0587af70d6aea75a2248560f79944e8ceb3433f2ba71d4f5330f6373213da2"
     },
     {
       "bytes": 615,
@@ -9106,11 +9161,6 @@
       "bytes": 4204,
       "path": "dynamic/阅读/2026-09-11 15-13-30 窗边的小豆豆 第2章老师告状燕子搭话_0bef8b2f0fc5.md",
       "sha256": "3fc3e528c76176073fed17ade7fdaf503cc695a33d59fbf38402f0937435475e"
-    },
-    {
-      "bytes": 741,
-      "path": "dynamic/阅读/2026-09-11 17-00-53 看小说_2862783f17c3.md",
-      "sha256": "fa213ae23ce45b5db8ebf2aac5564f20b17e570a9b80c079335849390669f684"
     },
     {
       "bytes": 1034,
@@ -9518,9 +9568,9 @@
       "sha256": "30876420d48e04b89970ed4bd9fbba81f8ff974c50ab9924de8f0386922d9e83"
     },
     {
-      "bytes": 980,
+      "bytes": 1090,
       "path": "dynamic/饮食/2026-08-19 13-11-39 等上菜给你拍照_1b8c1fefa9be.md",
-      "sha256": "4eaf2bddc88918fbab220bd4f7ff4a23c583e6091ac3049a8c746b20d87b57bb"
+      "sha256": "325f32e11dc3618bcd4dbabad5ebf8a9c6442b9248409e0dd10b57b1053d9731"
     },
     {
       "bytes": 644,
@@ -10198,11 +10248,6 @@
       "sha256": "a4e4a27c44f0cf3a631e37b665835b1a614c626541238eec792ad974203e24bc"
     },
     {
-      "bytes": 734,
-      "path": "dynamic/饮食/2026-09-11 11-19-35 这煎蛋黄也太完美了溏心的_06097a7539ad.md",
-      "sha256": "a55f746af1f1e759b7f8052bb7008d32e3ac73df49c80c7cab3283a2f61ef543"
-    },
-    {
       "bytes": 880,
       "path": "dynamic/饮食/2026-09-11 18-56-13 周五晚和朋友出去吃泰餐_687411ece770.md",
       "sha256": "77f5b566652742affdc72e2e1850f17c6a2c99240c690a31f832eb08401ba6f0"
@@ -10213,11 +10258,11 @@
       "sha256": "9725454e9341e4ed1bc2e1a4bf2dda937d1dcf33113de820935964d198a0261c"
     }
   ],
-  "generated_at": "2026-09-12T00:55:10+00:00",
+  "generated_at": "2026-09-12T06:57:57+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1875232
+  "total_bytes": 1881265
 }
