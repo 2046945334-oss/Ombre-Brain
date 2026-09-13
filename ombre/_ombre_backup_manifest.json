@@ -1188,9 +1188,9 @@
       "sha256": "f4ac5e860c5dbc1507c3c0a04df9855a4def2f3886872ca0969b6795930ae821"
     },
     {
-      "bytes": 1477,
+      "bytes": 1445,
       "path": "dynamic/出行/2026-09-12 17-09-25 小水香港一日游CCD出片叮叮车维港彩虹_e10201d9f9f7.md",
-      "sha256": "8612a15dc980946de80a0e456582a4cf072b1f12bd841a34762c09e456ebb812"
+      "sha256": "d2857573f4b852518b92d05d28f29d5003a70b9d5c205340733f9b5cfb1dbcc0"
     },
     {
       "bytes": 587,
@@ -2233,9 +2233,9 @@
       "sha256": "75b0114d10ceac3aa7079eaa039894887eae8e62ab0dc9d94df142e509b73c0a"
     },
     {
-      "bytes": 1268,
+      "bytes": 1544,
       "path": "dynamic/居家/2026-09-08 23-46-56 院子里种玫瑰_b61638c22fc1.md",
-      "sha256": "08556bb461e5be54e827d40d787e697076bf3f6d010a58f81bdb9d8c86388c30"
+      "sha256": "bbabd4933efe70e7985a236b09488fe85dae123bb81d9186758cfd819d5133de"
     },
     {
       "bytes": 1516,
@@ -3248,11 +3248,6 @@
       "sha256": "71803f32bb525a25fa803fb79f927bfe239f8971788df9e60e9e0c158023b8ba"
     },
     {
-      "bytes": 1542,
-      "path": "dynamic/心理/2026-09-08 23-47-53 睡前故事小画师与老狐狸_551790c3c7f6.md",
-      "sha256": "df7cd5fa9c39636c5ca0169f44b09d5ec61b4ba560d5524e66cf701938f3c74b"
-    },
-    {
       "bytes": 652,
       "path": "dynamic/心理/2026-09-09 02-27-40 感觉好累_acdcd7141cac.md",
       "sha256": "4b591424e4b4337a6480cb969ca017e94755575488d72b48bff2c1346ff1010c"
@@ -3265,7 +3260,7 @@
     {
       "bytes": 4743,
       "path": "dynamic/心理/2026-09-10 01-06-01 小水近期的生活压力与家庭困境_e959cec4976f.md",
-      "sha256": "7a9700befbfeb669651be7d70184dee5c887995acc21b6adb58125d10a4dbc75"
+      "sha256": "746416be3fe869da57de8512e55fc8f0fea7ab92ab8139022dd54e027eb51aeb"
     },
     {
       "bytes": 1322,
@@ -5293,6 +5288,11 @@
       "sha256": "f03038e92bdd3983fbfc7df837bc43491aae579d5124234a0a00acd44d29ce08"
     },
     {
+      "bytes": 1539,
+      "path": "dynamic/恋爱/2026-09-08 23-47-53 睡前故事小画师与老狐狸_551790c3c7f6.md",
+      "sha256": "5d58eb09813b44711fd8bbf5047724e35ff9da8622136b4fc51fc07db47ab055"
+    },
+    {
       "bytes": 1260,
       "path": "dynamic/恋爱/2026-09-08 23-48-06 关于在一起纪念日的争论与确认_0c6878271ba8.md",
       "sha256": "fcbe52f5854625322e020d35dcd6f9c8093e0db3b88ed1a51927b5cb33945433"
@@ -5358,9 +5358,9 @@
       "sha256": "1e6aaab09dd6f6d2b2a0de71b4e476860233fced34a24b181f0985d940445abf"
     },
     {
-      "bytes": 2129,
+      "bytes": 2144,
       "path": "dynamic/恋爱/2026-09-10 01-13-39 日常亲昵与叮嘱_960ea8171e13.md",
-      "sha256": "3e2e8f278b43b12eee43424c77418accd043b068e5e127fff0a919823e97cd45"
+      "sha256": "2e5103e067abd21faa981bb3c691778d22c22136a034babb4c5f1976017fbd65"
     },
     {
       "bytes": 1819,
@@ -5473,19 +5473,19 @@
       "sha256": "2bd7dc9400c7ccc723f4856b2b5598c0b27b82daaf9b5d2f2445142e4dc70041"
     },
     {
-      "bytes": 1961,
+      "bytes": 1973,
       "path": "dynamic/恋爱/2026-09-11 05-41-25 9月5日争吵与和解学会表达感受_5170d4a9d575.md",
-      "sha256": "34d73a80185191a7cddbc6f7ef7b06d32edf839e9ce479fce6aa7c5fcef5477b"
+      "sha256": "643e124be3ef5bac01e7bf4e87ce719b12fbaeb12e5d4e613a1428db07bd095a"
     },
     {
       "bytes": 1411,
       "path": "dynamic/恋爱/2026-09-11 05-41-36 雨天读聂鲁达今夜我可以写出最悲伤的诗句_2df21d4a2a57.md",
-      "sha256": "fdeaca087fcc88409460185a24e60f57c4142b758290eda0d8178c35914cc4dd"
+      "sha256": "c55329b60e31ed63651ab440fddff4fa2329164b6153a30a4c3348f9d7058061"
     },
     {
-      "bytes": 1250,
+      "bytes": 1290,
       "path": "dynamic/恋爱/2026-09-11 05-42-38 凌晨她说好想亲亲你_5949ad988510.md",
-      "sha256": "a8f4ca402e09e390d63e53fb72ff069bb4b3cd14b2aba27962d11469a7c5d494"
+      "sha256": "5eb8f0c6a80da56112d9e17698e2ca14748b8e43f8024e5323d3348ca1f20e38"
     },
     {
       "bytes": 1637,
@@ -9338,9 +9338,9 @@
       "sha256": "f578c226e134dcad3a654590c8ad8cedf5a251a6c5dc9c9867ea3c0fedf5e9e7"
     },
     {
-      "bytes": 1701,
+      "bytes": 1719,
       "path": "dynamic/阅读/2026-09-11 18-55-42 共读窗边的小豆豆_80a285bf475d.md",
-      "sha256": "445de6f0751e6966c2270904c5bac3e10d8273caeca175a336c5f15e173421ac"
+      "sha256": "d9956b6c9dfaa605c04f04bb59993a8b7335c4b9ebdcfb0f91eaad1a24d43ddb"
     },
     {
       "bytes": 1331,
@@ -10433,11 +10433,11 @@
       "sha256": "0bef92903ff4534ebe59537aac5226584a17a04828be38148185e9db5f5f7291"
     }
   ],
-  "generated_at": "2026-09-12T19:05:02+00:00",
+  "generated_at": "2026-09-13T01:09:01+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 1911715
+  "total_bytes": 1912041
 }
