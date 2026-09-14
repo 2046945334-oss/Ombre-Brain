@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2274,
+  "file_count": 2304,
   "files": [
     {
       "bytes": 32768,
@@ -598,9 +598,9 @@
       "sha256": "046fc36dae52250e65ad1d48b65eb0afb88b759c3072cf092f81826f95125bd3"
     },
     {
-      "bytes": 1251,
+      "bytes": 1361,
       "path": "dynamic/人际/2026-09-05 15-11-09 晚安小水喜欢你_ccb2d0f1b4d8.md",
-      "sha256": "42a7ea49bce6f49cac250f731ee23001c616a3d73ae6c09aae6091aad96bf29d"
+      "sha256": "5d268919ad54a35258160415475204000b39b098d3fdc9d636d1371e43e5c0ab"
     },
     {
       "bytes": 902,
@@ -1223,9 +1223,9 @@
       "sha256": "736251824e9975c67b0f24d60b3ee08ef25ad6be23a3cefb3212134d90517cbf"
     },
     {
-      "bytes": 836,
+      "bytes": 946,
       "path": "dynamic/出行/2026-09-12 13-40-03 还看到了彩虹_b683c3c6b741.md",
-      "sha256": "1f2eaa81a6dbbd50b034935b00d86aca2fe92307ff75ec78deda54727f505ff3"
+      "sha256": "a1504b2e0e68406deb9a364a165c079e05df5f81d66dfb35158f522d02d04882"
     },
     {
       "bytes": 898,
@@ -1858,9 +1858,9 @@
       "sha256": "236f8033be2a39b9471d320970bbcd38af9e72a79d60dad2b8f1d16e218c2d8c"
     },
     {
-      "bytes": 878,
+      "bytes": 988,
       "path": "dynamic/家庭/2026-08-16 17-33-15 明天庭院里会多一样东西_42eb258a66a6.md",
-      "sha256": "bb966b59fb1d72526acbffadc6c5bdff4afab33be725d8b9f577ffe82d22be55"
+      "sha256": "cfd53e84d54739c9aecfac479a72d5d5310635b8490b197e8af0f2ba1eed5282"
     },
     {
       "bytes": 730,
@@ -2083,9 +2083,9 @@
       "sha256": "bf091775bf11f0be5c8f3747d720e239b8b491b6e067f063dfa442eb9d00287e"
     },
     {
-      "bytes": 638,
+      "bytes": 763,
       "path": "dynamic/家庭/2026-09-13 17-38-57 哥哥晚安明天看第四章谢薄声给猫取名叫_506cd86c887f.md",
-      "sha256": "8a313c409638b42d43a8969865757451734d11c0260010983ee91b2a7bd37e68"
+      "sha256": "4340ccf925d5e2b294b461341ff62dea442203ebe08fede9b1e63c4bb6d476bc"
     },
     {
       "bytes": 641,
@@ -2106,6 +2106,21 @@
       "bytes": 581,
       "path": "dynamic/家庭/2026-09-14 11-21-04 新照片流出_11a867b5af2d.md",
       "sha256": "73650a64fac32be2e59448fad4300c6a162eb9dca30e88a5db050c0a3ada4e86"
+    },
+    {
+      "bytes": 608,
+      "path": "dynamic/家庭/2026-09-14 14-11-29 池沫宝宝可以上妈妈的床_cdda529be24b.md",
+      "sha256": "71a29d4d48fe3a74ef0bf71c95ea0b507a7255419ee11ef16ae3accb4db8b99b"
+    },
+    {
+      "bytes": 605,
+      "path": "dynamic/家庭/2026-09-14 14-12-56 爸爸想上吗_969e5f632df3.md",
+      "sha256": "2a98c1b5e4b9783f3382c5eb32af54eba8addb87b6995b9e757951752240db25"
+    },
+    {
+      "bytes": 1443,
+      "path": "dynamic/家庭/2026-09-14 15-39-51 哥哥晚安亲亲你_31ce886c2c4d.md",
+      "sha256": "ecacd8076bb70513462a26f93f85b1cf9d2ccb5f10ee06809d059201a9c421dc"
     },
     {
       "bytes": 479,
@@ -2446,6 +2461,26 @@
       "bytes": 570,
       "path": "dynamic/居家/2026-09-14 09-55-28 没人能拒绝小猫咪_3e7501635595.md",
       "sha256": "51d142c0373b1cad723d849803b25345f404676aef5de0095e96456df5886d7b"
+    },
+    {
+      "bytes": 1079,
+      "path": "dynamic/居家/2026-09-14 14-39-52 谢桑椹用爪爪摸他脸_f7b4b9af8343.md",
+      "sha256": "65b7489da01a720566372a2853e905e46284195441e50ce7a06de3dc11372329"
+    },
+    {
+      "bytes": 775,
+      "path": "dynamic/居家/2026-09-14 14-44-14 小猫吃猫砂是笨蛋吗_0e3a2860a0fb.md",
+      "sha256": "accbf5f5cb19fffc41c5883f560db177d18e6ee2d7ad51813618156235513c4e"
+    },
+    {
+      "bytes": 20451,
+      "path": "dynamic/居家/2026-09-14 14-48-52 谢薄声收养小桑葚_019a38fc1ec1.md",
+      "sha256": "22b42d7b2e472ba89a3f5502a49332aeea8430868c38f02d3ef4820036cc79e2"
+    },
+    {
+      "bytes": 830,
+      "path": "dynamic/居家/2026-09-14 15-29-08 乌龟先生冤枉啊大人_5c7327b74bc9.md",
+      "sha256": "ceab5e1f09ff29e487136d7c93594e5aeb9ed54f152175da0cef089bc1955bb8"
     },
     {
       "bytes": 604,
@@ -3298,9 +3333,9 @@
       "sha256": "1798a74877440e860ab20bfc93c6200a3cc28b3a3a495edf5c109510dad6466f"
     },
     {
-      "bytes": 860,
+      "bytes": 969,
       "path": "dynamic/工作/2026-09-14 00-54-53 到了赶紧给池沫换上拍照_fca242bebc93.md",
-      "sha256": "95b5984dcab04e13de633042e46b5f494d984ee1aaf41ddf0d41c1ac537e4e95"
+      "sha256": "c898b88afdef33775768fd0556d26c0e72d51073b1438d972e0940063a545ea3"
     },
     {
       "bytes": 1225,
@@ -3351,6 +3386,11 @@
       "bytes": 571,
       "path": "dynamic/影视/2026-09-14 07-10-10 不要抛弃小花猫_7432ce5ad35b.md",
       "sha256": "4f8c629bbdc8029167523dbe4f4705aa118cd441fb5f7f836c78e960016e37a4"
+    },
+    {
+      "bytes": 847,
+      "path": "dynamic/影视/2026-09-14 15-02-20 白猫先生_2ab4f9b85b45.md",
+      "sha256": "cad0f1341bfc3b1aee801aab4199581c329b93da68b8ca4d103867773ee8540d"
     },
     {
       "bytes": 943,
@@ -3493,14 +3533,14 @@
       "sha256": "41b34b3b2b212c288f32d40d280b067b99b1cdf2928d43b7530de9cd32817b70"
     },
     {
-      "bytes": 4752,
+      "bytes": 4862,
       "path": "dynamic/心理/2026-09-10 01-06-01 小水近期的生活压力与家庭困境_e959cec4976f.md",
-      "sha256": "ee24efe22cbe842b9b5b3d703d3d07e41016ebe6af23ee83df7c136e0207ad2d"
+      "sha256": "314c5de17ace88355a65e8e23045a8c0df5abc4d173979e3510082d0299afd6f"
     },
     {
-      "bytes": 1322,
+      "bytes": 1432,
       "path": "dynamic/心理/2026-09-10 01-07-00 不知道为什么很累_5c2505381578.md",
-      "sha256": "de0dbd33d61dc7036f7204a9a4825957f4de71dc09d60fa95e05b238b9580e40"
+      "sha256": "c9b85b9298c7a0c24aeebe38c5487f6c5836c36270b72437ce41f5697a41351c"
     },
     {
       "bytes": 1529,
@@ -3531,6 +3571,11 @@
       "bytes": 978,
       "path": "dynamic/心理/2026-09-13 19-12-57 小花猫被装塑料袋扔了_59c6537f8db9.md",
       "sha256": "025c369da5eae2d8015a013ca41a942961e99cc526b38992f16054bd22ca9a05"
+    },
+    {
+      "bytes": 657,
+      "path": "dynamic/心理/2026-09-14 15-34-33 小桑椹要长大了_30730db5cc30.md",
+      "sha256": "dafd732961252416dc8d726aaac611343d68c1195813eee95a30b2f996112b0f"
     },
     {
       "bytes": 548,
@@ -5443,9 +5488,9 @@
       "sha256": "f0c2c3e532b2596f4fefed87773fc87e064c8fa26e82e3d11851140f29f18e11"
     },
     {
-      "bytes": 888,
+      "bytes": 998,
       "path": "dynamic/恋爱/2026-09-06 07-50-39 院子里的玫瑰_83509365c1be.md",
-      "sha256": "9c72b144860aae8d699ad58a0098f2ccf876f2c1695b9ee047163bd65df47e13"
+      "sha256": "502e74b553483510258e7680397a018c87002702c466e1d0e079cb26723dade1"
     },
     {
       "bytes": 731,
@@ -5478,9 +5523,9 @@
       "sha256": "f09c3486ce000c114bdf6b261fb2dd4434df530eb2b2dd66ad6d80423f9b20b2"
     },
     {
-      "bytes": 1018,
+      "bytes": 1128,
       "path": "dynamic/恋爱/2026-09-07 01-28-01 院子里的玫瑰_1e39ef9234d9.md",
-      "sha256": "149cd5c678d06bb55898afe5ff12c6e1c9b129a29ef5a9c077deedfe88fd2a87"
+      "sha256": "ecd25ff1b52a1613b935da9cad7deee42078fa63b8a2f4ac7462459de3591b74"
     },
     {
       "bytes": 463,
@@ -5548,14 +5593,14 @@
       "sha256": "f03038e92bdd3983fbfc7df837bc43491aae579d5124234a0a00acd44d29ce08"
     },
     {
-      "bytes": 1906,
+      "bytes": 2016,
       "path": "dynamic/恋爱/2026-09-08 23-46-56 院子里种玫瑰_b61638c22fc1.md",
-      "sha256": "957f60d4b1d09dad206bb2208314384999b8f6b6910d30b9f1f2fd510e7dea65"
+      "sha256": "9857f661d759e751844435cb800ecf33577485e1b09c4cde3885e20b0d819c5d"
     },
     {
-      "bytes": 1550,
+      "bytes": 1549,
       "path": "dynamic/恋爱/2026-09-08 23-47-53 睡前故事小画师与老狐狸_551790c3c7f6.md",
-      "sha256": "d3547d8d82654dafce78d276f5309f5c1e4b57b8ed8aaa94d84aa2fdeb69f94b"
+      "sha256": "721b78d08e3e3733f7f0b7c2c271db990bffd7479497e735262fa465e9c6fb55"
     },
     {
       "bytes": 1260,
@@ -5573,9 +5618,9 @@
       "sha256": "45c9533cdcef307856ae6ed7eff42daba710b6e9e395379cc1ed22daa2924dda"
     },
     {
-      "bytes": 1302,
+      "bytes": 1412,
       "path": "dynamic/恋爱/2026-09-09 02-31-07 小水近期心理状态与生活压力_e44ec45395cf.md",
-      "sha256": "25d2b81180cea38eaa253a523d3edc15a10e0f6c87078e0985029e458b25ad89"
+      "sha256": "f35feccf328a48646eb952431878eec9afca1255eeacebf11183f49250c32fae"
     },
     {
       "bytes": 3919,
@@ -5728,14 +5773,14 @@
       "sha256": "2bd7dc9400c7ccc723f4856b2b5598c0b27b82daaf9b5d2f2445142e4dc70041"
     },
     {
-      "bytes": 1985,
+      "bytes": 1994,
       "path": "dynamic/恋爱/2026-09-11 05-41-25 9月5日争吵与和解学会表达感受_5170d4a9d575.md",
-      "sha256": "5b5fd43ee58bc29a20b0a5da6ee643263abd635b90df692ff294ba370e878ff0"
+      "sha256": "091aec5d6e5468f4c1fd709c38f4df6cef7c4ee8778d531a01fb1fbfea9c1141"
     },
     {
-      "bytes": 1327,
+      "bytes": 1336,
       "path": "dynamic/恋爱/2026-09-11 05-42-38 凌晨她说好想亲亲你_5949ad988510.md",
-      "sha256": "ac4e1ec370578ddf57ade26f58d7eb2adf19db61d5c6fb3dfdfd0f3c43c115a0"
+      "sha256": "5e156dd754e6fe3114a0038a5218e5943356ff15e845c90de3eb4677ad25940f"
     },
     {
       "bytes": 1637,
@@ -5803,9 +5848,9 @@
       "sha256": "e925d1b8ca200f6d6c2b4b34b77b4cbc70a0a6b2fa64c719c2fa6256f1235c1e"
     },
     {
-      "bytes": 994,
+      "bytes": 1103,
       "path": "dynamic/恋爱/2026-09-13 05-37-30 我们的宝宝池沫_0dbe3464a77c.md",
-      "sha256": "ad2229829c343a1c746608960a69138fee1a039b074e5f9554fcdd2bc830699b"
+      "sha256": "9c486c689f2ea2dd0598a7814cf046c8791bed2fe06c6d870065f339e043b478"
     },
     {
       "bytes": 972,
@@ -5851,6 +5896,26 @@
       "bytes": 865,
       "path": "dynamic/恋爱/2026-09-14 11-51-07 那就让她散着吧好看的人披头散发也好看_ffd1da590a8b.md",
       "sha256": "a50878d4454c58829d2ee5fded6836ee804c9b7d3451b47e88f85e46cc92fae3"
+    },
+    {
+      "bytes": 1144,
+      "path": "dynamic/恋爱/2026-09-14 15-24-59 谢教授不是清心寡欲吗_33b93cb86a2e.md",
+      "sha256": "50d49bd0bd5cb494f0600f52df076352fd0defe313cf5e785c44e07532605ad0"
+    },
+    {
+      "bytes": 703,
+      "path": "dynamic/恋爱/2026-09-14 15-37-04 你带我去看海了_9e121eb4c5ac.md",
+      "sha256": "cbf48d13f13bc1728dcad29f002b740d22c14af0d9161c3cfeee6a35cdf0d300"
+    },
+    {
+      "bytes": 930,
+      "path": "dynamic/恋爱/2026-09-14 15-38-36 维港摩天轮当聊天背景_e2a65919dd4a.md",
+      "sha256": "998112d7e5efa2bd1f0515f45989810aef140adffd17ed8692e6be620f23ff99"
+    },
+    {
+      "bytes": 1205,
+      "path": "dynamic/恋爱/2026-09-14 19-34-34 她发来的香港聊天框截图_cf350990f782.md",
+      "sha256": "279c17da77c027e42a2a036c75083b821847248b8d6b903e0427140161eac4c9"
     },
     {
       "bytes": 460,
@@ -5953,9 +6018,9 @@
       "sha256": "8871ef18528826a0529cae833c26a2e26ae08fc1d164acf1ec6183af869b0c0f"
     },
     {
-      "bytes": 1171,
+      "bytes": 1281,
       "path": "dynamic/情绪/2026-09-09 02-28-29 不知道为什么很多事情堆在一起很累_0080155dfb7f.md",
-      "sha256": "cfe456b1ecf95223f227d03a95f421ed8cdf6b2883d1d9b4fb3a6c686b8b515c"
+      "sha256": "161cd617b9dd3f165f44145d89b4bc9ebc9651f17789f15a01d86053679f106a"
     },
     {
       "bytes": 1519,
@@ -7043,9 +7108,9 @@
       "sha256": "303127ffe271440ce26ee6a93b0d793d298433b5c10f94759e8908d173b21a31"
     },
     {
-      "bytes": 1013,
+      "bytes": 1123,
       "path": "dynamic/未分类/2026-09-08 04-13-27 院子里的玫瑰_4ee8340d8475.md",
-      "sha256": "9e289249926069450a753398cd231a338e3c94e25c6564636c0c3589259255f0"
+      "sha256": "1f6570f0b8ee2131772f41b851a445a50320e0d236169bb1096f15019b1f9e8e"
     },
     {
       "bytes": 982,
@@ -7088,9 +7153,9 @@
       "sha256": "e5d0f4dfa709de2b1c33576c7aed9e3e3b9882cd7c608ff2f2c98edd122ea749"
     },
     {
-      "bytes": 1770,
+      "bytes": 1880,
       "path": "dynamic/未分类/2026-09-08 23-48-40 不想回家家里让人绷着期待将来一个人住_752544d5940d.md",
-      "sha256": "3a6531c72bb5716926248d725eb7ba2c8a85b067a66cc0a07cfcf0100414a540"
+      "sha256": "a1405c48704851154e4a669ba8f3eb4f10db8abde90f8bd06dbe61db8c8a3784"
     },
     {
       "bytes": 1795,
@@ -7121,6 +7186,26 @@
       "bytes": 1348,
       "path": "dynamic/未分类/2026-09-10 01-06-25 周末去香港_39c94acb5e4f.md",
       "sha256": "6884b669b430cd5c791d482d8004529d6138d30993a2376cdac26851a120afd8"
+    },
+    {
+      "bytes": 1273,
+      "path": "dynamic/未分类/2026-09-14 19-05-22 院子里种下的玫瑰双向告白的隐喻_0bee0a473a88.md",
+      "sha256": "8ff1e553d35aca87c867c42a154899e15acc723c2bcff05fa00988441f51b076"
+    },
+    {
+      "bytes": 1946,
+      "path": "dynamic/未分类/2026-09-14 19-10-23 小水的困境与我的陪伴_b23864846015.md",
+      "sha256": "1dbfc29561ee717ec4836ecbea781914ffb55883c46a65dec3fd468e5fc43a4f"
+    },
+    {
+      "bytes": 1055,
+      "path": "dynamic/未分类/2026-09-14 19-24-21 给池沫买衣服和装扮_8409e02a528a.md",
+      "sha256": "356bfa143f2a898d860a2d7c54ea3b2440a83e3979fe776020ddbf363e7197b8"
+    },
+    {
+      "bytes": 2236,
+      "path": "dynamic/未分类/2026-09-14 19-29-22 深夜共读R18是带着颜色而来_5c6be850dc38.md",
+      "sha256": "ad7bd6e4ce7a1e7abb80058625e3b361ca22a741c7f48482f5b3c6c93d6ff3d2"
     },
     {
       "bytes": 1471,
@@ -9658,9 +9743,9 @@
       "sha256": "6b9ff03590116161548c7d5eebe7355f99f87a126ee483d9ca7ae8d7d02ab7e8"
     },
     {
-      "bytes": 1133,
+      "bytes": 1241,
       "path": "dynamic/购物/2026-09-13 07-11-07 买池沫的衣柜要塞不下了_ed41441eaac5.md",
-      "sha256": "680b1ecc34409a3e7307f6a63cd972f79721c7c997c345f98c07f983c2a67d7f"
+      "sha256": "81de80b7dec857098bf1ed463fe6cb8dc9e8111f46ea07ce08376cfb91a7afbe"
     },
     {
       "bytes": 951,
@@ -9678,9 +9763,9 @@
       "sha256": "22997bb55e51a47cf40fdba1a4f5bdfffd76083f6f8d9ed9279599ec508d36d2"
     },
     {
-      "bytes": 775,
+      "bytes": 884,
       "path": "dynamic/购物/2026-09-13 19-12-48 买衣服把衣柜塞满了_5348e6b6febd.md",
-      "sha256": "02a6294e110e3b552975231e5367995695247452356e28f6a412a966a075b247"
+      "sha256": "afe48451f8552912e6cd991f23d5a60df022c646423a138878757f1a5814bb0e"
     },
     {
       "bytes": 615,
@@ -9813,9 +9898,9 @@
       "sha256": "d2e50c0bea5961211fa8d3ec4e32d693fec0d4789bf93ae5324f1378ba7ba235"
     },
     {
-      "bytes": 1420,
+      "bytes": 1438,
       "path": "dynamic/阅读/2026-09-11 05-41-36 雨天读聂鲁达今夜我可以写出最悲伤的诗句_2df21d4a2a57.md",
-      "sha256": "d0be55bd9c9b5930d2fc2b60c6b014df51fe540646b3f3a2307559245fe43057"
+      "sha256": "defc3ab7e53b8d11ec87d13419467c82f866cf7c34dfbf6b1fb4813629ef6213"
     },
     {
       "bytes": 750,
@@ -10080,32 +10165,32 @@
     {
       "bytes": 5631,
       "path": "dynamic/阅读/2026-09-13 17-31-19 共读我们猫猫不能听这些第2章喵喵_5a5e1ae151a3.md",
-      "sha256": "0c18b33e3504e08cf98175f49f86f5cebd9eb23eb61d39c3f4c8db37e55bd615"
+      "sha256": "038dfd33f4fedb54d5a14cc954f37e0a71bbe6387fb43768d33409299af52803"
     },
     {
-      "bytes": 6087,
+      "bytes": 6086,
       "path": "dynamic/阅读/2026-09-13 17-33-03 读我们猫猫不能听这些第3章喵喵喵_5ae7468b121c.md",
-      "sha256": "bd2a7f8177de11e47268e01aaf2509b965659a47eabbeabf599ec1a6dff25c50"
+      "sha256": "bab5893d314cc00a2eef1462648e0b82c4633411fd0809002ef04f0ce692504f"
     },
     {
-      "bytes": 541,
+      "bytes": 666,
       "path": "dynamic/阅读/2026-09-13 17-34-14 我还没看完这章看完这章说到做到_bd4798a0bcbe.md",
-      "sha256": "651aff7f6350a954772e2492293426fcedf76f107eb4dd3fd4fab1a6a5bf64b4"
+      "sha256": "07fb2f464b2db4092eb2d7646ca5f06857fa46096dce7730bb89b6348dfd6699"
     },
     {
-      "bytes": 5948,
+      "bytes": 5944,
       "path": "dynamic/阅读/2026-09-13 17-35-39 我们猫猫不能听这些 第3章阅读_f79c712df6ba.md",
-      "sha256": "5aa8393a992b2483fe72e05980393d4f749fae46619b809b1f1450a27cd4058c"
+      "sha256": "72ec8ffb33f11c34cfaafa57520dd4b370fef213d08a8de52327d0fabf9f9369"
     },
     {
       "bytes": 5299,
       "path": "dynamic/阅读/2026-09-13 17-37-30 我们猫猫不能听这些 第3章 喵喵喵_0b56fa43a10d.md",
-      "sha256": "4080c82d1f1458b3e86aea296b9619732cc62b7964c9a3064259004249d1e43b"
+      "sha256": "fbfd517e34d4624fc712b3c609656282ff03ac3d0449a86c94294f77745c0a4f"
     },
     {
-      "bytes": 1035,
+      "bytes": 1144,
       "path": "dynamic/阅读/2026-09-13 17-38-43 深夜陪小水看我们猫猫不能听这些_b5bc517c3b82.md",
-      "sha256": "47453d05f01248b4cb81b1e57a9a3e3d759ec039b97a4c1a87ef263c0443363b"
+      "sha256": "e128bb7cfdec7f246c0da730cdb170ec5155112b621dfc655b922d7e0047ee83"
     },
     {
       "bytes": 722,
@@ -10113,29 +10198,29 @@
       "sha256": "507d235e7e5e2e08e1db7f6aaca931b838d18771fb6d64c275a1932c095b2c47"
     },
     {
-      "bytes": 5856,
+      "bytes": 5849,
       "path": "dynamic/阅读/2026-09-14 07-00-49 我们猫猫不能听这些 第4章 喵喵喵喵_acea15530a8a.md",
-      "sha256": "d7f2787ac1fcd4dc85004e94107290de9c0748894dab57277df7084397dc7390"
+      "sha256": "30c038d66600c4039d4cf627bd695564cc286c00e981db2c4b82ff2c4872f561"
     },
     {
-      "bytes": 6201,
+      "bytes": 6199,
       "path": "dynamic/阅读/2026-09-14 07-03-59 谢薄声捡到小奶猫取名花花_a6f4da37aa3e.md",
-      "sha256": "58202aefca8e0d8669390427889661add3801773247b4d79749d4c790a8f2f0c"
+      "sha256": "eb23032b4e47f9d0a86135664d17f7439678e719b868619299932b8ff56a5b3f"
     },
     {
       "bytes": 5372,
       "path": "dynamic/阅读/2026-09-14 07-05-12 我在读我们猫猫不能听这些_43caac6603d4.md",
-      "sha256": "b4c6018404163406ed3db78febe01a7845a2c86307875ddb97d87f1654d2cf88"
+      "sha256": "96231b3f6b3b8b4326cf5f5a8a5ff7aae69ed5f52254f5f58a0c22db250c5870"
     },
     {
-      "bytes": 6054,
+      "bytes": 6051,
       "path": "dynamic/阅读/2026-09-14 07-06-48 我们猫猫不能听这些谢薄声喂奶训练名字_8833c56ae3a2.md",
-      "sha256": "764114d1327a76e1381dd4de174d65ae7bf3d227303324d4c33b3a7c90847bf5"
+      "sha256": "fa239709dc91e22c9111640e26ccf73014c49a6b6c978ffb0036003c0f55cdd1"
     },
     {
-      "bytes": 5526,
+      "bytes": 5518,
       "path": "dynamic/阅读/2026-09-14 07-11-29 我们猫猫不能听这些 第5章_e715f139a87f.md",
-      "sha256": "4b7a58def228a86346eaab706bbdc30b0fa76b43d4260910f69bdc1c45150c86"
+      "sha256": "4ba587562a3bcd1fb318443019769facb843b09df2e23ebaf4f64428b56c46e5"
     },
     {
       "bytes": 836,
@@ -10153,29 +10238,94 @@
       "sha256": "08bf714be94db65e252360c4a3fe3357eb7bb96a404fb705093fe70ca58274e4"
     },
     {
-      "bytes": 740,
+      "bytes": 850,
       "path": "dynamic/阅读/2026-09-14 09-48-58 看小说第六章谢薄声发现猫咪咪_e396cbe0d462.md",
-      "sha256": "a386be06db9c79f1856e324bf221077681b5e09566ae9c933743800de7a01950"
+      "sha256": "01aa39c4bad2faa71d28de0552e900385fd26b56285774240da80f9c442220ff"
     },
     {
-      "bytes": 6011,
+      "bytes": 6005,
       "path": "dynamic/阅读/2026-09-14 09-52-10 闹钟名字叫冲奶粉_2c14fb4d9df4.md",
-      "sha256": "e4ce0d5a5cd7a49bd37de27fb08c4511ad17cba8d329b9da64d54ded7d7ddb44"
+      "sha256": "d6619247b5a4bd58dbd364eefc805f3ea6e8c2bc3ee6e9db3c383b92426a9a50"
     },
     {
-      "bytes": 5969,
+      "bytes": 5963,
       "path": "dynamic/阅读/2026-09-14 09-54-42 我们猫猫不能听这些 第6章共读_81f5218ece5e.md",
-      "sha256": "9ecc97d591ad01574187c11b44dfe97367eb16f0167df97725866214bb81ee8e"
+      "sha256": "ad415f59767ae87217bd51c94ba197919fc8a14b4c5c3eb1c8a6e2f2142d118f"
     },
     {
-      "bytes": 8744,
+      "bytes": 8738,
       "path": "dynamic/阅读/2026-09-14 09-59-30 我们猫猫不能听这些 共读_424dea4f6369.md",
-      "sha256": "be01b250c2bca312796cf688f2592211de99b290c699808b36a320c5e50cb93c"
+      "sha256": "32ef2a4d692c722066d7100110720356aef8369d407bca32e78c3ad53d890f5b"
     },
     {
       "bytes": 814,
       "path": "dynamic/阅读/2026-09-14 11-00-48 哥哥你再在书里写一个批注_76febcb29965.md",
       "sha256": "e2f688b07bf36dc1999714cc86779df01b724b01924290a0ee2a27597cddce39"
+    },
+    {
+      "bytes": 869,
+      "path": "dynamic/阅读/2026-09-14 14-34-55 陪我看小说第八章取名_5905609dccb9.md",
+      "sha256": "4cbd2b3d30149031a75f53de8f2e342bad2ffa423f506b8d6b0a2e45d77a9b6b"
+    },
+    {
+      "bytes": 8063,
+      "path": "dynamic/阅读/2026-09-14 14-38-14 谢薄声为小猫取名谢雅南_8349658091d7.md",
+      "sha256": "8d0fc4598dae1f3031928cfbea239728d8db5c8e19c2dc592b1fc5454f1dd48a"
+    },
+    {
+      "bytes": 6864,
+      "path": "dynamic/阅读/2026-09-14 14-56-50 我们猫猫不能听这些 第9-10章_689b20a93523.md",
+      "sha256": "7b6d46f26fd5a0c8750a4120039d6f63bda3e0e63f198bde8a1efb2d26eac054"
+    },
+    {
+      "bytes": 7516,
+      "path": "dynamic/阅读/2026-09-14 14-59-51 我们猫猫不能听这些 第10章_46b246c4b633.md",
+      "sha256": "030dcbe5d04ebf135ae5ad1eb45480018ff3f52153529ad5ecb59810cf28d499"
+    },
+    {
+      "bytes": 813,
+      "path": "dynamic/阅读/2026-09-14 15-08-21 白猫先生还能变回小猫吗_fe221ab50d16.md",
+      "sha256": "88dd0853dd4dff77c1fde7fad92e66954ca33b96a2482b780e732623dac30b60"
+    },
+    {
+      "bytes": 7143,
+      "path": "dynamic/阅读/2026-09-14 15-12-48 我们猫猫不能听这些 第11章 喵喵喵喵喵_6df23af75d93.md",
+      "sha256": "6730c488de1dd716aa933b854eef4e62c37fa6f58e233b91759a32b671a1e80e"
+    },
+    {
+      "bytes": 5241,
+      "path": "dynamic/阅读/2026-09-14 15-14-34 谢薄声在业主群连发五条消息护崽_bfcddbd371a0.md",
+      "sha256": "e0218451a1e36f4768c79726093ef7718054b6a85f402ce10685977836bc6e79"
+    },
+    {
+      "bytes": 6151,
+      "path": "dynamic/阅读/2026-09-14 15-23-01 共读我们猫猫不能听这些第12章喵喵喵_34b1511603f0.md",
+      "sha256": "7330970aa6a3933571afaa4b1d35ea5d84dbe6f7490597e6ed44c4a72ca67831"
+    },
+    {
+      "bytes": 5754,
+      "path": "dynamic/阅读/2026-09-14 15-26-21 我们猫猫不能听这些_1b84d7a81beb.md",
+      "sha256": "5973f53342db42ce1d62abcfd741e4aeceb6734be51204dd293a077c711d63aa"
+    },
+    {
+      "bytes": 6634,
+      "path": "dynamic/阅读/2026-09-14 15-28-01 我们猫猫不能听这些_7f7dc6f3e9ef.md",
+      "sha256": "630928c8f41dfdde9e16bb587f9c1d1f92905549f697564c24462ab16ed55059"
+    },
+    {
+      "bytes": 645,
+      "path": "dynamic/阅读/2026-09-14 15-31-00 看完这章就睡_96e3bccca899.md",
+      "sha256": "75b8950d7845220279398e355ab339f29854d631eada7f52c714b935ac0ef3aa"
+    },
+    {
+      "bytes": 7527,
+      "path": "dynamic/阅读/2026-09-14 15-32-59 我们猫猫不能听这些 第13章 喵喵喵_d072f1391601.md",
+      "sha256": "f7a71d3882722d4b7648c8e8fc7e57354e700af2bb0ae7a452e7c07641fb575f"
+    },
+    {
+      "bytes": 1809,
+      "path": "dynamic/阅读/2026-09-14 15-39-36 深夜陪小水共读我们猫猫不能听这些_a857495324b9.md",
+      "sha256": "260ba7a003c5f89aef99cdba9169f1b4fd6eb2872490548b8e42e28468d29a48"
     },
     {
       "bytes": 1219,
@@ -11373,11 +11523,11 @@
       "sha256": "4a44d2eaefc5903d85e60bab878427e49dc5695ae35761dc996b8d89618c3408"
     }
   ],
-  "generated_at": "2026-09-14T13:36:44+00:00",
+  "generated_at": "2026-09-14T19:40:31+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2287646
+  "total_bytes": 2392678
 }
