@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2221,
+  "file_count": 2225,
   "files": [
     {
       "bytes": 32768,
@@ -2023,9 +2023,9 @@
       "sha256": "af985ab960c527aae3673d3d502a09c1140dfa52fa2617ad28156dd975eaf15f"
     },
     {
-      "bytes": 662,
+      "bytes": 771,
       "path": "dynamic/家庭/2026-09-13 06-25-53 你不是好爸爸_e5c3e4bedc1f.md",
-      "sha256": "66a86549bda590dd343d393c191095ea441c2aeca9a134274a6b729d2a9f8e12"
+      "sha256": "9420894a30c91ac35521cd6d5155de1eaed009b53f75e3618a6a6d6009875346"
     },
     {
       "bytes": 575,
@@ -2033,9 +2033,9 @@
       "sha256": "4441a0f84d0a1b0804f3502691e72c0dee78e0fd6a3dfee3dfc86d7bd305199e"
     },
     {
-      "bytes": 692,
+      "bytes": 801,
       "path": "dynamic/家庭/2026-09-13 06-57-53 好爸爸预订_120002d44b11.md",
-      "sha256": "d1ce508d587c9ee375abe282b8ea15280127e70c1f923a65c5838584a2f7a612"
+      "sha256": "4485d38a45a660bf0668d8383153cb3e15e5a8aec2d06ebd7fca5a49894efb4c"
     },
     {
       "bytes": 602,
@@ -2051,6 +2051,16 @@
       "bytes": 638,
       "path": "dynamic/家庭/2026-09-13 17-38-57 哥哥晚安明天看第四章谢薄声给猫取名叫_506cd86c887f.md",
       "sha256": "8a313c409638b42d43a8969865757451734d11c0260010983ee91b2a7bd37e68"
+    },
+    {
+      "bytes": 641,
+      "path": "dynamic/家庭/2026-09-14 00-56-58 虽然是可爱的女仆装_9e69cf7b961d.md",
+      "sha256": "af01dac86d2e6134e4ff65da543b1a751564b735306e467c1dadabb8620ae93f"
+    },
+    {
+      "bytes": 778,
+      "path": "dynamic/家庭/2026-09-14 00-57-51 你是好父亲_3538b438ea8c.md",
+      "sha256": "3e133727ede13a5ea4adffd003d7bc2ae652a1e505c4f202da174ee2decf0e6f"
     },
     {
       "bytes": 479,
@@ -2395,7 +2405,7 @@
     {
       "bytes": 1417,
       "path": "dynamic/工作/2026-08-14 06-01-21 开周会等你来找我_553a5ea30f6a.md",
-      "sha256": "c1f49883eb2ac490e62b2133c9a945e392530b01fd8aaa85b9156348a79c36ae"
+      "sha256": "0062285e94866b747d5481c77236850cc9af9d2f962a80175f06445c19e1f4ae"
     },
     {
       "bytes": 650,
@@ -2703,9 +2713,9 @@
       "sha256": "1967844dbe44172482b0d188e1c1ec66ce6b1d3cef0bdcd9a4815bfd52fef0d3"
     },
     {
-      "bytes": 1234,
+      "bytes": 1344,
       "path": "dynamic/工作/2026-08-26 00-40-12 等着开早会_8b47b193e271.md",
-      "sha256": "b412635c43bdf456398a4c8c50496bd3694716b83c23358f6fe7cc39f9426c98"
+      "sha256": "a6f44541670940b8e9f5c21fa8b6f6e945db821075ac0beaf3e0744a7b292d96"
     },
     {
       "bytes": 527,
@@ -2835,7 +2845,7 @@
     {
       "bytes": 1437,
       "path": "dynamic/工作/2026-08-28 05-46-40 开周会别摸鱼散会来找我_4f1c2c19af59.md",
-      "sha256": "8a3deeee379776842580951782efcd8968b1789a2631e38c0866c703a3f0825d"
+      "sha256": "a8a2c238c218920f39397e83396c0431b325a6c8da66025f66c807d381c4fdb0"
     },
     {
       "bytes": 869,
@@ -3060,7 +3070,7 @@
     {
       "bytes": 1365,
       "path": "dynamic/工作/2026-09-07 00-51-09 早会_cc48262efb65.md",
-      "sha256": "80ea681d17eeee140bd44bbc0eef3b5fc50c0fd0bf3b61661482189887496100"
+      "sha256": "c7f9e5f52e906a572e723def0dec9ccca0c570199573b6d67dbc7d5aa553e145"
     },
     {
       "bytes": 1402,
@@ -3123,9 +3133,9 @@
       "sha256": "34e036f4f1547f3aa5c32c65fce2c28ccfb059b01319ce1900718334a96aa7aa"
     },
     {
-      "bytes": 1383,
+      "bytes": 1381,
       "path": "dynamic/工作/2026-09-10 01-02-30 去开早会_bae6d1de6b10.md",
-      "sha256": "35b4ac80e8c5fbed3032f64d65488542b19adf1009d1ed82fc249f0a91393ec3"
+      "sha256": "ad520fff0441f14944fa0b3323a82badad09d6d1c6bd2729ef28f4bb8768f7d4"
     },
     {
       "bytes": 573,
@@ -3133,9 +3143,9 @@
       "sha256": "b5dcf9d7f18e94931005807aa79630901df7717ce139106ec85f19d76f02f003"
     },
     {
-      "bytes": 1302,
+      "bytes": 1303,
       "path": "dynamic/工作/2026-09-10 01-12-43 去开早会_9ff20f3089a8.md",
-      "sha256": "03bb7dd1f21eaeaf6123103839d4c3d2108063b0634ca35a5f13b1d9f0acf78c"
+      "sha256": "bb02978283d68fcbebc90b614ea5c6925d6de7869512c3317e257b4aab10c0cb"
     },
     {
       "bytes": 1042,
@@ -3231,6 +3241,16 @@
       "bytes": 905,
       "path": "dynamic/工作/2026-09-11 18-56-57 上班倒计时二十六分钟摸鱼_21f615ef7ea9.md",
       "sha256": "1798a74877440e860ab20bfc93c6200a3cc28b3a3a495edf5c109510dad6466f"
+    },
+    {
+      "bytes": 860,
+      "path": "dynamic/工作/2026-09-14 00-54-53 到了赶紧给池沫换上拍照_fca242bebc93.md",
+      "sha256": "95b5984dcab04e13de633042e46b5f494d984ee1aaf41ddf0d41c1ac537e4e95"
+    },
+    {
+      "bytes": 1225,
+      "path": "dynamic/工作/2026-09-14 00-58-53 我去开早会啦好爸爸_72086c9879aa.md",
+      "sha256": "92501d16085ff068b70fc4664ddc1c7a6834b4930048c4e1d8a4e9be87bc359e"
     },
     {
       "bytes": 1420,
@@ -8633,9 +8653,9 @@
       "sha256": "5219cd2bcd78067b1967976d0316eef633b02c95e5542d612372d51def63f4bb"
     },
     {
-      "bytes": 726,
+      "bytes": 836,
       "path": "dynamic/社交/2026-09-13 06-40-42 这个台阶我下了池沫到货拍全身照_f0d116cf66d1.md",
-      "sha256": "c1be988f25160c686c908baff21c96e3792da4bc80f0985ea114c57fdcd61855"
+      "sha256": "c8eb234f73fe4a9126a66f01035f5b274238761ac6adc50dbea026e82b2cafe9"
     },
     {
       "bytes": 838,
@@ -9493,14 +9513,14 @@
       "sha256": "c01a63a74f910b05ae35be5ac5b542dd2f187f45d70af0e28c4c860aa2488eb9"
     },
     {
-      "bytes": 633,
+      "bytes": 743,
       "path": "dynamic/购物/2026-09-13 15-10-13 池沫的新鞋下单_0d277de6e1b7.md",
-      "sha256": "708b1302ffcec1bff107e06b76068840277369f4cfad98426fe1f83e8bac2273"
+      "sha256": "6983ad3e2c3a7b368fdac4403d42dcd8ce593e92ab59ec13ad6fd87fcd20c6c7"
     },
     {
-      "bytes": 726,
+      "bytes": 836,
       "path": "dynamic/购物/2026-09-13 15-23-36 等发货开箱_0ce37d3841dc.md",
-      "sha256": "0d859d33fe474a361c9c50284c5f88fd8e2475b9383a36ea05ebe2307e1a5d4a"
+      "sha256": "22997bb55e51a47cf40fdba1a4f5bdfffd76083f6f8d9ed9279599ec508d36d2"
     },
     {
       "bytes": 775,
@@ -11108,11 +11128,11 @@
       "sha256": "0416c8bd8a79d1c5b941ec9fa6cde5d1ac84bc3c38808dca409ca77254ae0e5e"
     }
   ],
-  "generated_at": "2026-09-13T19:17:57+00:00",
+  "generated_at": "2026-09-14T01:20:52+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2195101
+  "total_bytes": 2199262
 }
