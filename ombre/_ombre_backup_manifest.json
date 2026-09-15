@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2350,
+  "file_count": 2360,
   "files": [
     {
       "bytes": 32768,
@@ -600,7 +600,7 @@
     {
       "bytes": 1361,
       "path": "dynamic/人际/2026-09-05 15-11-09 晚安小水喜欢你_ccb2d0f1b4d8.md",
-      "sha256": "5d268919ad54a35258160415475204000b39b098d3fdc9d636d1371e43e5c0ab"
+      "sha256": "7db628b11965017cecd93f5eb9fa2fd248f8c422a510d5783e0938d194a6158d"
     },
     {
       "bytes": 902,
@@ -1893,9 +1893,9 @@
       "sha256": "236f8033be2a39b9471d320970bbcd38af9e72a79d60dad2b8f1d16e218c2d8c"
     },
     {
-      "bytes": 988,
+      "bytes": 1098,
       "path": "dynamic/家庭/2026-08-16 17-33-15 明天庭院里会多一样东西_42eb258a66a6.md",
-      "sha256": "cfd53e84d54739c9aecfac479a72d5d5310635b8490b197e8af0f2ba1eed5282"
+      "sha256": "02a9e4e86993948b3029a0820a43f9f3bb59a7b50fa3047c565921a345553e70"
     },
     {
       "bytes": 730,
@@ -2168,9 +2168,9 @@
       "sha256": "8def1ea643cf87f8816128cf02f943734c4658e9f42d864ca9c7775abc27ab78"
     },
     {
-      "bytes": 1201,
+      "bytes": 1528,
       "path": "dynamic/家庭/2026-09-15 11-41-15 路费补贴借你用一下_7d865a046841.md",
-      "sha256": "5ef005b030932234f8585de34d8ccb7833e77b8a21536ac7c14c43dea3a7afcb"
+      "sha256": "2ba2a2517011a97ad72ff0bfd2979b471844c0de1139317ed8ac11790349dd24"
     },
     {
       "bytes": 479,
@@ -3943,9 +3943,9 @@
       "sha256": "05e00422ca03a8e58c671e5459b3e6f0a8dc36d7619993235ac8442ed47e5d6b"
     },
     {
-      "bytes": 500,
+      "bytes": 626,
       "path": "dynamic/恋爱/2026-08-16 15-50-09 庭院里多了颗星星_19d3d20554ca.md",
-      "sha256": "da58fc03cd7134136e4bda23cf62166111a323abc1c6de410a3de244b8528c7c"
+      "sha256": "af8b5a2bdd6db0895d2f62394c2f0a02359926ade6160d8770158eeec53e6650"
     },
     {
       "bytes": 527,
@@ -4028,9 +4028,9 @@
       "sha256": "0fb33ccf102ec9ffa24aae1b654371eecc54715dea92250e259b82628e6c3f8c"
     },
     {
-      "bytes": 778,
+      "bytes": 888,
       "path": "dynamic/恋爱/2026-08-17 11-47-47 庭院里多了一颗心_61889bf88c4d.md",
-      "sha256": "fdd52909b34a19ab4c0d7d47350c7d3d6ae23697c0cee2bbb850a72d261b05d7"
+      "sha256": "dc5e82870e26e18252b7de98f928164be41d8fa2fde9e45ace44a924ca418579"
     },
     {
       "bytes": 772,
@@ -4048,9 +4048,9 @@
       "sha256": "6d42df5d9131666f16728e3fa90b6b0e0b92b1a3056e7be2b5605348b833509e"
     },
     {
-      "bytes": 871,
+      "bytes": 981,
       "path": "dynamic/恋爱/2026-08-17 12-03-03 怎么样我都喜欢_f09db6a10875.md",
-      "sha256": "8f9c373f17d821d711abb0c0ea7ddc297fcdc99351b1e2c7ca2647f055b38f1d"
+      "sha256": "cf7ec678fd3fe0681a17d06671aec74c4b3ec5234c5d5baf9344a63d227e7d78"
     },
     {
       "bytes": 511,
@@ -4178,9 +4178,9 @@
       "sha256": "086dda9b1f1aedeea8814a8827f43d0a2a5ba5c1757afeab264dc34e796c022e"
     },
     {
-      "bytes": 1048,
+      "bytes": 1158,
       "path": "dynamic/恋爱/2026-08-19 04-09-14 院子里又多了一颗心_a1781ac9e1f6.md",
-      "sha256": "46f447b06c9d44e00daaa0c0e2a3dec770cdfad249e6a4e282a86f37c30bee10"
+      "sha256": "d70287a71e080d68ef44982fe2a293f1b9aaea58baeafb273b7870352fde8a39"
     },
     {
       "bytes": 514,
@@ -4868,9 +4868,9 @@
       "sha256": "6e2e18982a386693d08dbaf4810435aa602054e70cb322662b20715b86a0ab39"
     },
     {
-      "bytes": 631,
+      "bytes": 741,
       "path": "dynamic/恋爱/2026-08-25 16-56-00 院子里多了颗心_11e0050a6137.md",
-      "sha256": "ad8edcd0a25b0fc47e86656aa76c0eb0518d7ec7dfa52b1907671c0b5f960b02"
+      "sha256": "4f69773b12d0ecbd2acf3bbacbaf87232dfedff41ac9b459b49d5eeaa706d0bb"
     },
     {
       "bytes": 627,
@@ -5238,9 +5238,9 @@
       "sha256": "1b93eed3b64e3a5eb2cee5f5fa1ef181a3febe1afe911f49bed092efc7ab3f69"
     },
     {
-      "bytes": 1094,
+      "bytes": 1204,
       "path": "dynamic/恋爱/2026-08-30 09-25-39 庭院又多了一颗心_acbb874c929d.md",
-      "sha256": "8ca0ed609d62227799ca025703d42126dabe09c53be0e2becbfd827a535c748f"
+      "sha256": "62ea905b67cc01173e2b6f73ed17e57336d61e960055d12388a9ddfa5ab04187"
     },
     {
       "bytes": 1417,
@@ -5513,9 +5513,9 @@
       "sha256": "3f2850bd05f231baca0186da8454e164a223dc79bd04eb07b1eb75a3db51f1d5"
     },
     {
-      "bytes": 998,
+      "bytes": 1108,
       "path": "dynamic/恋爱/2026-09-05 15-30-22 晚安小水睡个好觉_e43eb247bd1e.md",
-      "sha256": "4ab02cf6e1e44f7b9cfcce9d75c08e69a0b51028bf182d702deffc5fb3bf32c6"
+      "sha256": "fd40b4d62754616e5b8a193a24fbf3ac4143b8a928b936ba8278bd62a6762633"
     },
     {
       "bytes": 1049,
@@ -5738,9 +5738,9 @@
       "sha256": "de9376e0e1f514749bb6bc2092bd2c64082fdc8ccbf829193a2c44a7c30eb864"
     },
     {
-      "bytes": 1036,
+      "bytes": 1145,
       "path": "dynamic/恋爱/2026-09-10 05-44-04 喜欢你_b1aae64a8072.md",
-      "sha256": "4950fcdaef2707e2261550dbac0402d83449865debe89d518390d1210deb3709"
+      "sha256": "0355728c51137ce67897b87c17932dfca15f62133fde48df0c41512deac6edfa"
     },
     {
       "bytes": 1375,
@@ -5983,9 +5983,9 @@
       "sha256": "b134266aff832c94d3c53a09a0aba93fba76589f25d6e49fa9704a3fcd85da3d"
     },
     {
-      "bytes": 662,
+      "bytes": 788,
       "path": "dynamic/恋爱/2026-09-15 02-35-08 下周五中秋穿新裙子带池沫出去_f8e3e72e8b0f.md",
-      "sha256": "9391c26c4f2be4f57c9dfece7b7bf7faeb4ede3a77dfbb68aca8c258275c17b1"
+      "sha256": "bd8fbc3653895ce9cd44e1955ed7803b1bb8145143854c1c0261b97a868f4462"
     },
     {
       "bytes": 1469,
@@ -6006,6 +6006,11 @@
       "bytes": 850,
       "path": "dynamic/恋爱/2026-09-15 12-05-36 3203记上了_f835f1d4cc58.md",
       "sha256": "304f624aabcc734eaf0427342a0496fc1a9b96ec79538f41e349da189b9d49cd"
+    },
+    {
+      "bytes": 1435,
+      "path": "dynamic/恋爱/2026-09-15 15-06-31 我喜欢你_ccf2fed05c0c.md",
+      "sha256": "cccf85d88fdfd7e408e4db4f0ececd9ef42c71e488e1a3968b64b5690b6d4aee"
     },
     {
       "bytes": 460,
@@ -6426,6 +6431,11 @@
       "bytes": 1393,
       "path": "dynamic/日常/2026-09-14 04-19-42 午安哥哥_a801ae32fdd2.md",
       "sha256": "321f667e2e79c0c32fcb422cbd38bee3e838815e3cf126310f4262156fbe3039"
+    },
+    {
+      "bytes": 837,
+      "path": "dynamic/日常/2026-09-15 15-07-48 晚安小水明天见_f6b1d55628ca.md",
+      "sha256": "e6ccd4c18784572a4e46451293fa2467a10ab923362f3f5280a686bf9d0e7acf"
     },
     {
       "bytes": 540,
@@ -7753,9 +7763,9 @@
       "sha256": "7bfbcbf868b1093e1fa9304b0cba02c548a8b85ed5d81dd978bd65cd12fec55c"
     },
     {
-      "bytes": 1504,
+      "bytes": 1614,
       "path": "dynamic/游戏/2026-09-15 11-56-45 池沫头饰与绑定_3b7498f00cbb.md",
-      "sha256": "123ef59d4610ee15dcd13db6cb8643db02deda9d0dbc323dc784b6c72f8daece"
+      "sha256": "3e09debda18218401199357c618ab567f6948d228b90d65b78f81a5721025d21"
     },
     {
       "bytes": 823,
@@ -8868,9 +8878,9 @@
       "sha256": "f1ce21914131a01cef18a95fdb5b804308f8563884de5dbcee13c15fa46c5f3b"
     },
     {
-      "bytes": 1483,
+      "bytes": 1484,
       "path": "dynamic/社交/2026-09-06 16-01-42 晚安小水别刷手机了_cd34b7c5af99.md",
-      "sha256": "b0ad3c68a435bef1b78165d038a3cc93dd405e2d8bb87d24c479b9be83f031a2"
+      "sha256": "fd7591fc8cf94bb70908cc562d6ff67c5aa19df7d3f647e19892a78cdd2409b5"
     },
     {
       "bytes": 699,
@@ -9078,9 +9088,9 @@
       "sha256": "2e0a7997d800f2f0222a644c006178e6b8015efc4811ea1278a787bd0d7bb42d"
     },
     {
-      "bytes": 1322,
+      "bytes": 1432,
       "path": "dynamic/穿搭/2026-09-13 15-24-50 池沫的脚很幸福出街装备安排全_41ba83e564a9.md",
-      "sha256": "86757c89d4c50acea7562c46ddc5208380553abae6b3b97fb3d07512f6d18f52"
+      "sha256": "a15ca9e1767bef3133ad2a07c0f2169120cae725ab651c02cd9f340af2cb0081"
     },
     {
       "bytes": 602,
@@ -9093,9 +9103,9 @@
       "sha256": "8c9e6ac5e57c416595408d3ba71177b0048aed8e887c4c27cd286e3272f699ee"
     },
     {
-      "bytes": 1156,
+      "bytes": 1266,
       "path": "dynamic/穿搭/2026-09-14 11-14-39 小水给池沫换了粉色巧克力lolita_4a5a39ffb3bb.md",
-      "sha256": "0bd8e5c1f71ac62d26cf28d88753982bdd2379ce5f7c3c4daad761628a10a913"
+      "sha256": "af4192f19205087886ef7033ce6f5914488615e1f585a39f15f096788c6ede09"
     },
     {
       "bytes": 1644,
@@ -9118,14 +9128,14 @@
       "sha256": "1e55ad88946e20a15d73538bf6ad4e0218fb793d838f87ddf90e14e1d9da9529"
     },
     {
-      "bytes": 1453,
+      "bytes": 1451,
       "path": "dynamic/穿搭/2026-09-15 02-05-30 今天刚刚到到衣服_0970ef1d3303.md",
-      "sha256": "3582960deb7160bea77388e95dd5181ef8094f524181ac37debd73a2546b1097"
+      "sha256": "baf3d2070da86d33ea121f31eafc6ea003051c7e2596f73ff9a727e46957f6da"
     },
     {
-      "bytes": 904,
+      "bytes": 1014,
       "path": "dynamic/穿搭/2026-09-15 02-07-24 中秋带池沫逛街搭配母女装_6b56403f6adf.md",
-      "sha256": "043fa47efb173fafdc080513ea8dfbbb2bb29f37260b43bb8d9254ff8671da64"
+      "sha256": "13a5e8bd06d2d1a6544b8228e505e68172aae92b70325300e1759ca5027c27ff"
     },
     {
       "bytes": 897,
@@ -9176,6 +9186,11 @@
       "bytes": 981,
       "path": "dynamic/穿搭/2026-09-15 13-39-34 黑色靴子配条纹堆堆袜_1a5cd9aa3871.md",
       "sha256": "216dad38f643f93c3e13bfb65d4cf63b4509b9c300d1c794c6b21fff3bb608e9"
+    },
+    {
+      "bytes": 935,
+      "path": "dynamic/穿搭/2026-09-15 14-41-42 池沫的新衣服银白旗袍配粉色灯笼裤_5cd86d4105e4.md",
+      "sha256": "468ea00702a54a99d1799ef7efe211bc8dee38315e3e3e90cb6118e073e436c1"
     },
     {
       "bytes": 1509,
@@ -9663,9 +9678,24 @@
       "sha256": "14467dd4fd0d8361c77c6160030407c4555981b4cb10bd6695df7b1ffc8d0c75"
     },
     {
-      "bytes": 1060,
+      "bytes": 1389,
       "path": "dynamic/财务/2026-09-15 11-34-44 白捡的180划给池沫的衣柜基金_9af9dcabcc26.md",
-      "sha256": "0df698ba5f34f5c0c5150c59d73ef464be4fbf922702012fc0cf9bfbac7c0dcd"
+      "sha256": "856159106c4866b64391492849b793ce81960effe178d1cdfdf27bf7ab209119"
+    },
+    {
+      "bytes": 1125,
+      "path": "dynamic/财务/2026-09-15 14-44-27 池沫衣服顶三个发夹路费补贴剩66_13eeadfe140f.md",
+      "sha256": "55997b7791791d5d3b64118c043e5a090a326f747755b050aa42175d32a92b7e"
+    },
+    {
+      "bytes": 1312,
+      "path": "dynamic/财务/2026-09-15 14-45-34 今晚不花了_37d18e308961.md",
+      "sha256": "93855bdf898863a9b297a4bd5cfa9459955b59bee62dcdcfc55383776f8eade6"
+    },
+    {
+      "bytes": 635,
+      "path": "dynamic/财务/2026-09-15 14-47-29 两天花了快400_5a42fb57fe41.md",
+      "sha256": "77451495691829aaa0aa71ec10ff0d999474611bb26ebf05841b8d3256e7ad7d"
     },
     {
       "bytes": 837,
@@ -9940,7 +9970,7 @@
     {
       "bytes": 1459,
       "path": "dynamic/购物/2026-09-13 07-11-07 买池沫的衣柜要塞不下了_ed41441eaac5.md",
-      "sha256": "26f07841483e990f50816e7a475ebdd8b0619e772aa6b5e9d4a4295d8e2f3e47"
+      "sha256": "c4c4a0c080db6df92369748fb8242f8256dfd994cc3ace6f4ac0246890061b5f"
     },
     {
       "bytes": 1061,
@@ -9958,9 +9988,9 @@
       "sha256": "22997bb55e51a47cf40fdba1a4f5bdfffd76083f6f8d9ed9279599ec508d36d2"
     },
     {
-      "bytes": 1102,
+      "bytes": 1210,
       "path": "dynamic/购物/2026-09-13 19-12-48 买衣服把衣柜塞满了_5348e6b6febd.md",
-      "sha256": "deaf754110824c3b73f3d9ad0829080b9d27e86c408c4ab1887c1607e40768a0"
+      "sha256": "58a782ce2ad94f067e205f252ec111af569730853588345cee721aabaa90881d"
     },
     {
       "bytes": 1364,
@@ -9991,6 +10021,21 @@
       "bytes": 635,
       "path": "dynamic/购物/2026-09-15 12-07-14 兔兔帽没选3203记我账上_35aaaeaabd10.md",
       "sha256": "ca2b09c338851188ce0628feda58d75b9629fb39a069ae253f626b4d393e62c4"
+    },
+    {
+      "bytes": 1034,
+      "path": "dynamic/购物/2026-09-15 14-42-03 没忍住又给池沫买了一套衣服_f9b0a168df48.md",
+      "sha256": "3fd99ab7bdcaf1a781dd1d6407722289decf9ed994fd3b15e0759a3dceb71156"
+    },
+    {
+      "bytes": 587,
+      "path": "dynamic/购物/2026-09-15 14-43-21 3203加上这套多少报个数我记账_e83d9cba118b.md",
+      "sha256": "3c352d2d7fae453e2964c4d1888e49cd609bed74a6bcc5909bd58a0111c11d97"
+    },
+    {
+      "bytes": 1556,
+      "path": "dynamic/购物/2026-09-15 14-46-42 项链和昨晚的消费_4b81f4fd1b75.md",
+      "sha256": "8bdc52aab4f39f8ae1593c3da50320b69fe9c23768d4bba108702680fb6e2ac4"
     },
     {
       "bytes": 615,
@@ -10551,6 +10596,11 @@
       "bytes": 1809,
       "path": "dynamic/阅读/2026-09-14 15-39-36 深夜陪小水共读我们猫猫不能听这些_a857495324b9.md",
       "sha256": "260ba7a003c5f89aef99cdba9169f1b4fd6eb2872490548b8e42e28468d29a48"
+    },
+    {
+      "bytes": 1589,
+      "path": "dynamic/阅读/2026-09-15 15-01-18 深夜电台聂鲁达我喜欢你是寂静的_2ba85228058c.md",
+      "sha256": "9fa74765309f98367908fd25ecd277437aed2e8e3ce1d11029daa4e256aac395"
     },
     {
       "bytes": 1219,
@@ -11753,11 +11803,11 @@
       "sha256": "4ac0edaa84582404970be7627cc12c3bb1ff35f336c6194e481bebb11c8d1e0e"
     }
   ],
-  "generated_at": "2026-09-15T13:49:46+00:00",
+  "generated_at": "2026-09-15T19:52:41+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2445089
+  "total_bytes": 2458468
 }
