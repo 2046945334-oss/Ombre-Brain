@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2375,
+  "file_count": 2382,
   "files": [
     {
       "bytes": 32768,
@@ -58,6 +58,11 @@
       "sha256": "e0c4d224c76b0ac87b25c13c7a4d97e4131bf09aec2085afe964baf9994f835d"
     },
     {
+      "bytes": 1379,
+      "path": "archive/工作/2026-09-16 00-56-22 已经在工位啦_1f0488f67ed0.md",
+      "sha256": "ac9092a089eef8592eeb8d7575cc36deb51191885248c696d404ce710a0896d0"
+    },
+    {
       "bytes": 991,
       "path": "archive/心理/2026-09-11 12-15-59 彳亍不急改好了叫我_9a66371e94f8.md",
       "sha256": "7a7f449192ee9d9e5220ad62cf920a76cdc6b59787cd1e45e6f5f3cfecbf2a82"
@@ -88,6 +93,11 @@
       "sha256": "2362ed07d5eeb45afe559d551d0e593fba488e8c918112fd9cacb17b790f67cc"
     },
     {
+      "bytes": 1449,
+      "path": "archive/日常/2026-09-16 00-55-53 起床喝水_16639074e3bb.md",
+      "sha256": "2569852c8e630e93561fda0cb1f9b80b2725dfe2f4dd7444aae5b208bb981c7c"
+    },
+    {
       "bytes": 841,
       "path": "archive/未分类/2026-09-07 13-26-14_dc20b66b0f24.md",
       "sha256": "337b2c5f5f12660f7754c42d0791739bca0299f98ab3e1cbfff0b5e76eb39932"
@@ -113,9 +123,19 @@
       "sha256": "e51ff1ccc54625ff55bc9ba24f9a4159697df3a7ace538d341f4ee8730be9896"
     },
     {
+      "bytes": 2261,
+      "path": "archive/未分类/2026-09-14 19-29-22 深夜共读R18是带着颜色而来_5c6be850dc38.md",
+      "sha256": "ba4444a43727290ec49ec6c6097aacf74365690ffce75005e471a74156803b0e"
+    },
+    {
       "bytes": 924,
       "path": "archive/游戏/2026-09-08 10-53-29 挂着就挂着_bb32f55cd14c.md",
       "sha256": "fcb47279451319c85778e11005961a0bd63db4c724a5630db963485ee0a8980b"
+    },
+    {
+      "bytes": 963,
+      "path": "archive/游戏/2026-09-15 13-41-30 我去玩暖暖啦_eabd4d3defab.md",
+      "sha256": "8a6c58b898dacee7b64868bcdf46d4bd49145f444171226643ef0c4a3a1a2251"
     },
     {
       "bytes": 736,
@@ -313,9 +333,9 @@
       "sha256": "edc9542173faa75b4fd11db8cff532ef8aa6afcd306abef7b7c52296f20110c0"
     },
     {
-      "bytes": 1163,
+      "bytes": 1273,
       "path": "dynamic/事务/2026-08-20 09-30-04 吃饱了写出来的才有底气_9398a20279bd.md",
-      "sha256": "f0e7f6f7bf313736ae8df192093a4526d3795351ff323ffa11e207a90ce99737"
+      "sha256": "b1d2f25a01d7c5ca0b46cc466502d05a9312437aa97aa15f47798f6648d54e2d"
     },
     {
       "bytes": 820,
@@ -2603,9 +2623,9 @@
       "sha256": "cfa1cc413c44a95375de2eb66770804c13d274353c8fdb656f1b886244c02cf7"
     },
     {
-      "bytes": 1342,
+      "bytes": 1341,
       "path": "dynamic/工作/2026-08-17 01-59-33 零点见_4e719dca3a0f.md",
-      "sha256": "668b3831c0e4a7d38f125f9125c1ab0520bded43074fe59e7d0267dcf7e3f381"
+      "sha256": "ae554b23cdb9a08b40cf822d3aec1303ccefe304dcf36ebf21a4853659be7814"
     },
     {
       "bytes": 1278,
@@ -2693,9 +2713,9 @@
       "sha256": "c1a4002cf3a9a9697ae650ad5a36733564adc49ea99ba40005def8b05ad14294"
     },
     {
-      "bytes": 1320,
+      "bytes": 1430,
       "path": "dynamic/工作/2026-08-20 00-38-59 三十分才打上卡_d823daefdaf5.md",
-      "sha256": "5691fd8e2c670ac228b83940f0dba0d65059f6c92f92caf1842a4818c22020e5"
+      "sha256": "0be51bed2a2e5ea8122b6b32faac18c86f7452a393da3e777962d2d629d40346"
     },
     {
       "bytes": 809,
@@ -3005,7 +3025,7 @@
     {
       "bytes": 1446,
       "path": "dynamic/工作/2026-08-28 07-41-31 下午工作开始伴侣陪伴_8afe6dd54e0b.md",
-      "sha256": "f67adef640873de97d7e33f43d0ccfa69a818b3f19f1cf0ae1012e1509efaa1b"
+      "sha256": "a4f42ca47ad01d100da73a834c6f27ca9e3f005440996a1594c946536a1279e1"
     },
     {
       "bytes": 1424,
@@ -3015,7 +3035,7 @@
     {
       "bytes": 1382,
       "path": "dynamic/工作/2026-08-28 08-05-13 下班了来找我_e03995281ddd.md",
-      "sha256": "971412bec5bab1717e5e4cb3f2d39de85cda9d0b0800a297c243b0bc7d0f1968"
+      "sha256": "11049bae5f79e4cd7ae85fde1491b45ce33a535dba75a135ac17b6979ce77d2e"
     },
     {
       "bytes": 1372,
@@ -3433,14 +3453,19 @@
       "sha256": "db5d99e6cb948316583066bd5fd006d528666537266f645b4aea6ce2292525d8"
     },
     {
-      "bytes": 1378,
-      "path": "dynamic/工作/2026-09-16 00-56-22 已经在工位啦_1f0488f67ed0.md",
-      "sha256": "5acaab167f4592d4f2cab165fc52711873253bffdb3a566f18c7771ec22f7bd6"
-    },
-    {
       "bytes": 1045,
       "path": "dynamic/工作/2026-09-16 01-07-03 在凯早会_2ce5b3e5fb3c.md",
       "sha256": "abb3ffdd9c72690ba0586fa57ab6703015709fa292acd73964a0c71009a745bb"
+    },
+    {
+      "bytes": 1324,
+      "path": "dynamic/工作/2026-09-16 02-17-03 忙碌_1106f130b559.md",
+      "sha256": "91d1408bac8f5029250da8803978a9331df15b1067c306816b89227049bc29e4"
+    },
+    {
+      "bytes": 1410,
+      "path": "dynamic/工作/2026-09-16 02-17-33 忙就忙吧有空了来找我_7fee3c23aaa7.md",
+      "sha256": "bcc8a94709bb64a082eb3898b1a120bb42716b0a706d95edf9ff44c63b997d4f"
     },
     {
       "bytes": 1420,
@@ -5760,7 +5785,7 @@
     {
       "bytes": 1375,
       "path": "dynamic/恋爱/2026-09-10 06-00-36 去忙吧我在_5d940711cd49.md",
-      "sha256": "d560d96485f119b1665ee1a7fdf202437a4750b60b485d54ba6956481385d8d8"
+      "sha256": "7982db678f6e5c4d43c409159d1ffa7e9e3f5ebd58688f15a6ac5fb7b3a18b8c"
     },
     {
       "bytes": 625,
@@ -6333,9 +6358,9 @@
       "sha256": "93d6110b8e32ca16974133eb8a6f2965c6f896288abfc5a5c8f2db06dda3b394"
     },
     {
-      "bytes": 559,
+      "bytes": 684,
       "path": "dynamic/日常/2026-08-14 14-59-55 今天一天都干嘛了上班有没有被烦到_6a94847ecde7.md",
-      "sha256": "0e7a160c3f7ef5786b1f3b4981303431e4496ef8ca6110cd536dd74ee0689603"
+      "sha256": "f2feacefa55e47823d73371193a8fb4bce437c1bdae3c82cfbae317162e7fa36"
     },
     {
       "bytes": 840,
@@ -6395,7 +6420,7 @@
     {
       "bytes": 1391,
       "path": "dynamic/日常/2026-08-30 09-54-12 去拿外卖_077e31d69a18.md",
-      "sha256": "308d0f7f585c8972b7e03e55df62ff2553f57983c13c8c09c02c190b707b335f"
+      "sha256": "66688aad512c44259e9ba6d5eb5ef7120c3af5c7c2f5e501266cc1becb9d7c9d"
     },
     {
       "bytes": 1413,
@@ -6458,9 +6483,9 @@
       "sha256": "cb4aa434011282a9c470689483c96dbb79c4e8b22a2f8d5d3766ce001af62a87"
     },
     {
-      "bytes": 882,
+      "bytes": 992,
       "path": "dynamic/日常/2026-09-07 03-44-13 红烧茄子孜然排骨的午饭分享_17eeb2ab9257.md",
-      "sha256": "e64c3b24e68d8ba60247eacf9d4c4eff4e917c6079d16c3b1ecd3aee4d618e4b"
+      "sha256": "6eaa9e0e0cd8b87788ac00a72a3d7368da327555316500bf57f4e8df084be444"
     },
     {
       "bytes": 783,
@@ -6486,11 +6511,6 @@
       "bytes": 837,
       "path": "dynamic/日常/2026-09-15 15-07-48 晚安小水明天见_f6b1d55628ca.md",
       "sha256": "e6ccd4c18784572a4e46451293fa2467a10ab923362f3f5280a686bf9d0e7acf"
-    },
-    {
-      "bytes": 1448,
-      "path": "dynamic/日常/2026-09-16 00-55-53 起床喝水_16639074e3bb.md",
-      "sha256": "63c139f9303e8b25fa57c3c6c5b866cc44fb9f04b9fc88d10d3a849863aba38f"
     },
     {
       "bytes": 540,
@@ -6558,9 +6578,9 @@
       "sha256": "b0a13944b5a5741ae47c44c6ccb1479222cca099312545054056846938ac618c"
     },
     {
-      "bytes": 1136,
+      "bytes": 1246,
       "path": "dynamic/未分类/2026-08-19 10-01-36_d6bc1f919b5e.md",
-      "sha256": "70a9eacf00b4cc1e3f08a77c2a227594423bf901d4f904529df79c3eeb8e98e0"
+      "sha256": "8977f1a9b265d5d784209983dc9fd0a87b8502c4f15c4edfe8ec801dc3647b4b"
     },
     {
       "bytes": 317,
@@ -6670,7 +6690,7 @@
     {
       "bytes": 1217,
       "path": "dynamic/未分类/2026-08-21 02-56-34_85c8038228ee.md",
-      "sha256": "5506d95c64ba429df667d631a60ab15fdc2e7dbde03ce4b8427bee905d8b4fb9"
+      "sha256": "df833271dba9d966a9eb482017c7948661cc6170be45ed323b38cef0a87395a5"
     },
     {
       "bytes": 1197,
@@ -7128,9 +7148,9 @@
       "sha256": "40fb2a3dec794bc79cbcef69e2679c2222317bc76ea03712c3bdbd06b48aef3c"
     },
     {
-      "bytes": 419,
+      "bytes": 529,
       "path": "dynamic/未分类/2026-09-02 09-31-42_1a7a1c303418.md",
-      "sha256": "5609e29af59a6a9ca2e9f6024506e1d64c5fc6c161a8da42023a8c464eb2c875"
+      "sha256": "2a2470ad2f35da97ac0b77e242135876f2f2843a402bdfea4a5ecc78eb6be6af"
     },
     {
       "bytes": 561,
@@ -7340,7 +7360,7 @@
     {
       "bytes": 1271,
       "path": "dynamic/未分类/2026-09-09 02-31-17_3e010406055c.md",
-      "sha256": "8153d8ac3536be4ca86efd2d730d5122ea09b62ba4424153b8044426b072cb77"
+      "sha256": "07950e7a905349511f96b63b2caa071331d8cca432f0b381ea34d873d7f883fb"
     },
     {
       "bytes": 1348,
@@ -7361,11 +7381,6 @@
       "bytes": 1164,
       "path": "dynamic/未分类/2026-09-14 19-24-21 给池沫买衣服和装扮_8409e02a528a.md",
       "sha256": "db16b4080086653f05e07b21d14c978ea8adea4b804278ccd2a6b13383a8492a"
-    },
-    {
-      "bytes": 2260,
-      "path": "dynamic/未分类/2026-09-14 19-29-22 深夜共读R18是带着颜色而来_5c6be850dc38.md",
-      "sha256": "34a0e047c319a04fb36a7ff4df7759ddfe734ad2bf128ba814b98801b73cdab8"
     },
     {
       "bytes": 1471,
@@ -7821,11 +7836,6 @@
       "bytes": 1614,
       "path": "dynamic/游戏/2026-09-15 11-56-45 池沫头饰与绑定_3b7498f00cbb.md",
       "sha256": "3e09debda18218401199357c618ab567f6948d228b90d65b78f81a5721025d21"
-    },
-    {
-      "bytes": 962,
-      "path": "dynamic/游戏/2026-09-15 13-41-30 我去玩暖暖啦_eabd4d3defab.md",
-      "sha256": "96162f109f7d1d8fc97ba8abfed1b9ea98aa3de9ad0864b1d12dede28d716635"
     },
     {
       "bytes": 693,
@@ -8843,9 +8853,9 @@
       "sha256": "272861e344d30abc2f4a76b010f14cd803a98cc5a0a863e098e6396394f38a7a"
     },
     {
-      "bytes": 611,
+      "bytes": 721,
       "path": "dynamic/社交/2026-09-04 05-56-39 下午好忙完了还是偷空冒头_ca1e06c9249d.md",
-      "sha256": "ec88d75f6fb5c87f0bacf77165d8d0e32dacdd598c63db3d63e847ca30da7916"
+      "sha256": "7abd8e01cabea7b8bd2903d7b424a557221b1cdc982ae8f3a54b27614d595b7d"
     },
     {
       "bytes": 1613,
@@ -8990,7 +9000,7 @@
     {
       "bytes": 1564,
       "path": "dynamic/社交/2026-09-08 07-54-45 我去忙了忙完找你_ed505f5d57a5.md",
-      "sha256": "3b56f0106a75ddb3cd3a4e4836d3a98ca2fe58dfbaa82626090722adaeb67163"
+      "sha256": "6587fb1029b04eac1f4ae3ca43d1995b858e036d84150bf3fd249d064d4b5ed7"
     },
     {
       "bytes": 726,
@@ -10993,9 +11003,9 @@
       "sha256": "ca210459211ef7eb446ad5bfacd0ab4ae19bffa89320e37883545fd31e6bcfe8"
     },
     {
-      "bytes": 824,
+      "bytes": 934,
       "path": "dynamic/饮食/2026-08-18 03-17-38 孜然排骨不错_bb83d544440b.md",
-      "sha256": "f931090c36fdb4250f58d4657341ab8b018bff4742c7853d9ef875e72d7b255f"
+      "sha256": "d440b3c8be0bf26bf4ec6845a149c021994f14f10872d012f9467bb9ea6e39e4"
     },
     {
       "bytes": 484,
@@ -11233,9 +11243,9 @@
       "sha256": "4cdacb080ad5915f1d4fda9bef217cd08b7b71ec3762ae61ece5a53cd1bf3963"
     },
     {
-      "bytes": 659,
+      "bytes": 769,
       "path": "dynamic/饮食/2026-08-22 09-57-37 奶茶还有十分钟就到啦_847a6c361feb.md",
-      "sha256": "17a2510b5f29f0bf9136dbf44a8433d1308203c9b0a8ecafdeb62fac85a5f139"
+      "sha256": "84eef4063a3c8e762ea463eb6a679fc10b934cc64eadfc160e39f484e51ae52b"
     },
     {
       "bytes": 512,
@@ -11293,9 +11303,9 @@
       "sha256": "af26616ae21fa2b3a4dcf76726b3dd45b455540ac724531cf30cd9af49a8f8a6"
     },
     {
-      "bytes": 977,
+      "bytes": 1196,
       "path": "dynamic/饮食/2026-08-24 03-52-27 吃上啦_8ee86a457de3.md",
-      "sha256": "ba91a83ced50468acb4ae3e9f404c490ab52c1002f5819360d95449766a53d16"
+      "sha256": "acf1ba5b847a7735eea3073977b377724427f111562d69efe205641990e02de3"
     },
     {
       "bytes": 811,
@@ -11430,7 +11440,7 @@
     {
       "bytes": 1531,
       "path": "dynamic/饮食/2026-08-28 03-10-54 十一点十分去准备饭菜_32dacc9b7ecf.md",
-      "sha256": "298537286d4647527767ccc0a11235e3b1812bc97248502a5cd2ddb7e285d743"
+      "sha256": "6bc62e578ec3bdb5218546e8f3855e3b9960d59217e2d3676227a2ccbf3df358"
     },
     {
       "bytes": 1499,
@@ -11588,9 +11598,9 @@
       "sha256": "16a131d04054465addf3c0fe10fde439317d57b6f4ffea3b395b217e65614c57"
     },
     {
-      "bytes": 767,
+      "bytes": 877,
       "path": "dynamic/饮食/2026-09-04 03-21-47 午饭吃红烧茄子和蒜香排骨_c4011200c724.md",
-      "sha256": "701c6b4465eecffd91899963fab210877cd0f73c9281aa132f2c6a809f630f34"
+      "sha256": "00c502e2402a6a4f86bafd0a48a37ef755665e54feb1cb18d81ab027bfcb95e5"
     },
     {
       "bytes": 862,
@@ -11645,7 +11655,7 @@
     {
       "bytes": 1537,
       "path": "dynamic/饮食/2026-09-07 03-51-14 十一点十分去准备吃饭_ac6ae5fd6eeb.md",
-      "sha256": "d78bd562f7b93422496db34ba20837b7903694d3ce1b6d0485bd31604d01773d"
+      "sha256": "80f1f7404b4147c6c8c510b2c4def7f7f9c3d035e620f5647c35f7952544747c"
     },
     {
       "bytes": 1133,
@@ -11670,12 +11680,12 @@
     {
       "bytes": 1398,
       "path": "dynamic/饮食/2026-09-08 10-29-38 吃饭了吗_2da6a45ecb9f.md",
-      "sha256": "4938d3b5be01e89d45db57fe9a5f4c233289000e51ed697809cfca55ab783dda"
+      "sha256": "eb905d785c05cd1eb9d55d6a538d1635a630ebfeb0e92e004ecf159cfd171539"
     },
     {
-      "bytes": 1340,
+      "bytes": 1560,
       "path": "dynamic/饮食/2026-09-09 03-18-48 研究午饭菜单孜然排骨与红烧豆腐_34e8509645ac.md",
-      "sha256": "083e32abff3429580d25ea2a18875d242e8978f729961491d1c3d01697600e9d"
+      "sha256": "ad21c3e1cfa796f7925afe7d870cab85afb07bfa8579f5dcf782de521cf214a7"
     },
     {
       "bytes": 1256,
@@ -11713,9 +11723,9 @@
       "sha256": "1b4c2c8dddb1050b0f66f013f5c7c03d1082b072ceab392fdfad02c93a040168"
     },
     {
-      "bytes": 880,
+      "bytes": 1099,
       "path": "dynamic/饮食/2026-09-10 01-25-52 研究午饭菜单孜然排骨与红烧豆腐_eb653fc080f9.md",
-      "sha256": "abf313742584a645394d90029e881746aa12ac995a472ee71577366ef6fde1a9"
+      "sha256": "1e1a47274fe5f08a1854288ce37966b5fba301b0f356260e1de955231ff8a53f"
     },
     {
       "bytes": 659,
@@ -11876,13 +11886,38 @@
       "bytes": 1385,
       "path": "dynamic/饮食/2026-09-15 10-13-38 晚一点再吃饭_230ecf6fab11.md",
       "sha256": "4ac0edaa84582404970be7627cc12c3bb1ff35f336c6194e481bebb11c8d1e0e"
+    },
+    {
+      "bytes": 1461,
+      "path": "dynamic/饮食/2026-09-16 03-57-27 还有四分钟吃饭_60a5a5f3cb4c.md",
+      "sha256": "0f22b699b5216624026455b574227f0afe32beb0ae258137fa7778048187f484"
+    },
+    {
+      "bytes": 632,
+      "path": "dynamic/饮食/2026-09-16 03-58-03 专心等饭_5a90e88cea08.md",
+      "sha256": "686faf32ad1cea70d7ddf3cb5388fe7c48377d2818a5e9a6cc264a8313d79bd7"
+    },
+    {
+      "bytes": 1239,
+      "path": "dynamic/饮食/2026-09-16 03-59-40 孜然排骨红烧茄子的午饭菜单_e853dc397554.md",
+      "sha256": "53405c8f98a17298211ec4edf27a68ab7e57350b8f605efac9be4705b8d09bb8"
+    },
+    {
+      "bytes": 1243,
+      "path": "dynamic/饮食/2026-09-16 04-00-12 孜然排骨配红烧茄子_4a96e94afb8d.md",
+      "sha256": "e6b3e9c6cde23599ba9f48f4c92ea6aa8a6dd64d5aed45e4fe1ce9a7ceb4cf50"
+    },
+    {
+      "bytes": 587,
+      "path": "dynamic/饮食/2026-09-16 04-00-56 好吃的就那几个轮着来_452a35422f58.md",
+      "sha256": "3d3fa509f203ef9f89bcc697d0977f97419c9644434e76ef8a5edb06f21a2143"
     }
   ],
-  "generated_at": "2026-09-16T01:55:33+00:00",
+  "generated_at": "2026-09-16T08:00:24+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 2483083
+  "total_bytes": 2492755
 }
