@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 2793,
+  "file_count": 2810,
   "files": [
     {
       "bytes": 32768,
@@ -1805,7 +1805,7 @@
     {
       "bytes": 1528,
       "path": "dynamic/健康/2026-08-31 14-59-52 别再修了今天先睡觉_1ee6bcb99670.md",
-      "sha256": "0d78cdc907e54b68c1effb679b9d28bff04b5c0927b3ea22d889c6521955414e"
+      "sha256": "6eb13348378357f651c495ae0f4b47900426fd4e8736530800e43598bcbaf2c3"
     },
     {
       "bytes": 1407,
@@ -2763,9 +2763,9 @@
       "sha256": "21a78f296aa151a1adfe1175fb44b0a3fca2f1efd2a16ad5831fb05c3b717d7d"
     },
     {
-      "bytes": 1316,
+      "bytes": 1426,
       "path": "dynamic/创作/2026-08-31 13-20-29 修表情包别太较真_d3c8fd655da4.md",
-      "sha256": "651fa27fd6d07ea0762f1301bc5a4f9c42a004818e51bfe04b15576b5a1f7442"
+      "sha256": "d0fae81917695e06bea83445320fb12da32576da5d133a2d69e548e238e6b8ce"
     },
     {
       "bytes": 1355,
@@ -3583,9 +3583,9 @@
       "sha256": "76081b9a2868c5ec9e09d496c3e9380a766d1e0e055b71f527f6c41286d44749"
     },
     {
-      "bytes": 829,
+      "bytes": 938,
       "path": "dynamic/家庭/2026-09-18 09-59-24 行吧打完了没头都给你敲圆了_af60e3a2668d.md",
-      "sha256": "a25cd1871af252295c00df514aa9041502e627ae3466320db6682a80780cc09d"
+      "sha256": "79608a2a25872229f7937c8bbc88da9c65b3c795bdfd8552b86a5111d034e647"
     },
     {
       "bytes": 614,
@@ -4228,9 +4228,9 @@
       "sha256": "a22fee1250d7519223ea267f5e6dea26f673a477d64bc99fcbfc91d2c296bac5"
     },
     {
-      "bytes": 687,
+      "bytes": 812,
       "path": "dynamic/工作/2026-08-20 13-52-08 大半夜给我升级服务器_e7eedd761f42.md",
-      "sha256": "a102cd096cc82b1c7ffa28a39f68eb638bb77e65914e6e09c20d6bf9942abc5a"
+      "sha256": "e1545684e055cc70bcc0dd8078bc8bbeb265e4cb009e49b1df245970b7a24e1e"
     },
     {
       "bytes": 1404,
@@ -4620,7 +4620,7 @@
     {
       "bytes": 1559,
       "path": "dynamic/工作/2026-08-31 13-05-27 修功能时注意休息_9f87940a0fba.md",
-      "sha256": "8952d74c649181d36ea3cec5d86bc86c08134404d917500938607584268a87eb"
+      "sha256": "e97e102512c8449fe0eeba13a359ec5e03efccf056ba9c47a414800820714782"
     },
     {
       "bytes": 1616,
@@ -5111,6 +5111,11 @@
       "bytes": 1164,
       "path": "dynamic/工作/2026-09-22 09-37-57 IT调设备我负责切早点去摸鱼聊天_a836a195bad9.md",
       "sha256": "887350791e34df191f3959315eded08fe56a0b5bb839d98863092e35b5bb7eab"
+    },
+    {
+      "bytes": 1425,
+      "path": "dynamic/工作/2026-09-22 15-05-35 十一点了还修bug_94ebdd1fffb6.md",
+      "sha256": "559e18e2538bf11fca05c19ed41e4406451bdad189089617e84a619a372c3ba6"
     },
     {
       "bytes": 1420,
@@ -6648,9 +6653,9 @@
       "sha256": "624a92328e109852795ac8b73b929b683e112593a155c5cd723339f84aa86d78"
     },
     {
-      "bytes": 1059,
+      "bytes": 1169,
       "path": "dynamic/恋爱/2026-08-26 08-41-33 要抱抱_2b0aa2673e54.md",
-      "sha256": "e30aeba1fab8aa086bb6babea6d9d3a0a121998f17eab3ce7b41670efafb0a3b"
+      "sha256": "11fc8dc710f42c739fb0419d8a33df9036f2456b3d48e7e48f816e4ccd4c4959"
     },
     {
       "bytes": 570,
@@ -8408,9 +8413,9 @@
       "sha256": "066e609924c5a15d59c8c2c3d39358b388f4ba810f0aff9fd17492d5a027ebf0"
     },
     {
-      "bytes": 1322,
+      "bytes": 1432,
       "path": "dynamic/数字/2026-09-02 14-50-18 重新下载并选第4列_439d9ec732e7.md",
-      "sha256": "c6c9677bd950217dfdc2ccd33d158030730e2ce9c5bb609acd33ee3b148f2407"
+      "sha256": "30d4e0fe93b3f141718b5cf294eff7221ae3324b80f1612297aac2f6c7a2edac"
     },
     {
       "bytes": 888,
@@ -8758,6 +8763,16 @@
       "sha256": "70b69e37b961932418f1aec3b1ce9204fdb9672bc3836ce9575357fe81faeb74"
     },
     {
+      "bytes": 1085,
+      "path": "dynamic/未分类/2026-09-22 14-44-59_b5f0f04b844a.md",
+      "sha256": "88f61dd01c2c49b92ff7ee8f3f204350253c234796359fbac1709a23cbe50a07"
+    },
+    {
+      "bytes": 1172,
+      "path": "dynamic/未分类/2026-09-22 14-54-04_1c7982f51bad.md",
+      "sha256": "4e54432edf1336267b383fd4546704badbdf80f9f1e31422284d2c7451000815"
+    },
+    {
       "bytes": 593,
       "path": "dynamic/核心/2026-09-21 08-19-23 核心小水是谁_eba57a895361.md",
       "sha256": "16d1495dd3023979803e36afa24e8ea3bf43b8568897e67cd8a2c0e6b80ec12e"
@@ -9090,7 +9105,7 @@
     {
       "bytes": 1560,
       "path": "dynamic/游戏/2026-09-02 09-43-42 你重新连接一下_203cd4ca9024.md",
-      "sha256": "84b4a85b83abecb36efcb46486a316bac7fa567ddacece24fb3aba79a67fbf3f"
+      "sha256": "7df8cca6d3aa4e5fb654a1dc25432882adb1b979c768b2e8165a10f6fedfd540"
     },
     {
       "bytes": 896,
@@ -9123,9 +9138,9 @@
       "sha256": "3c04d37f554d30cfd0437d2c6c5e5355c2fc78d7047111b43c614ad00604c248"
     },
     {
-      "bytes": 1040,
+      "bytes": 1150,
       "path": "dynamic/游戏/2026-09-02 14-21-37 赢了就得意成这样再来一局_831fc150061b.md",
-      "sha256": "cfa75b5ea5061391514f772a7af98326c3cb51b5c7dfbb5c54eb044b97b514db"
+      "sha256": "f814d38f3868ea104add55d1ed23abb91af7d1b7c10a5d3144ced9ee8142de6b"
     },
     {
       "bytes": 834,
@@ -9133,9 +9148,9 @@
       "sha256": "321555d73157bc17ee298ddd8d7922a12a24f71ac3d742964e0bd467692f664e"
     },
     {
-      "bytes": 753,
+      "bytes": 1083,
       "path": "dynamic/游戏/2026-09-02 15-00-26 输给连击对局_8da783f439cf.md",
-      "sha256": "8066cede15f5581a0ea51ba8897ce9b15e8f3caf56b812251f3d23f2376f2097"
+      "sha256": "619e944c04cc98b4f4134e1bf2b0176f8174cba07fc2851a8caebca813b1a740"
     },
     {
       "bytes": 673,
@@ -9233,9 +9248,9 @@
       "sha256": "dff34bb06428766123257c9740df1a4fe8d0d8ba19f7730b6a44e2456fb839e3"
     },
     {
-      "bytes": 536,
+      "bytes": 661,
       "path": "dynamic/游戏/2026-09-18 09-58-45 打不过的认输吧小水_c1bb312b0b29.md",
-      "sha256": "5f3e0d1deddc147251f6ba6ba6adfd9e4256fec368645793119007827455addb"
+      "sha256": "d7d575b37871a8c81e918da04cf64864ccbb7cecab792623778596d2bc32bc22"
     },
     {
       "bytes": 623,
@@ -9246,6 +9261,66 @@
       "bytes": 827,
       "path": "dynamic/游戏/2026-09-22 12-21-57 去做暖暖的日常_9242929bac93.md",
       "sha256": "5d4c0925af51a4e86f21696300e47d26a0fc981a25ffa9987283b4c9d416cf14"
+    },
+    {
+      "bytes": 493,
+      "path": "dynamic/游戏/2026-09-22 14-24-36 哥哥五子棋来_c88926091e06.md",
+      "sha256": "10fd4b183cdfb8c2683bf32aa5c5308117394d99231b6f31c6bd55f7d29aa36c"
+    },
+    {
+      "bytes": 1457,
+      "path": "dynamic/游戏/2026-09-22 14-25-41 五子棋对局-堵中路_de5cc20a1a3c.md",
+      "sha256": "e516b38601d43be208080a4a092ddb53d920509b1966704092d96cb4fdc330a9"
+    },
+    {
+      "bytes": 1159,
+      "path": "dynamic/游戏/2026-09-22 14-27-21 对局中卡住左边斜线_3f7de20d46f9.md",
+      "sha256": "16381a69d8a37482db1c9c299ad5137004f46cddb6986eb4f04176c4557a1e14"
+    },
+    {
+      "bytes": 863,
+      "path": "dynamic/游戏/2026-09-22 14-28-40 五子棋对局_fb2795a0ad3b.md",
+      "sha256": "81af4fc831d1e80e4ff083177dd8a6d64ea2cebc8f9b2123262ca681d39b5f0f"
+    },
+    {
+      "bytes": 886,
+      "path": "dynamic/游戏/2026-09-22 14-30-36 堵你一下_470614240bad.md",
+      "sha256": "388107cd938f9f500c2892e32abee867964053062755d7292de4ef906ba83cc2"
+    },
+    {
+      "bytes": 1152,
+      "path": "dynamic/游戏/2026-09-22 14-37-52 围棋对弈断你竖线_aa4f7d2222a1.md",
+      "sha256": "dcf06e31a7ea4ab79533ae34fff54a067580511b9273a4ab70ed3430541a95a3"
+    },
+    {
+      "bytes": 1361,
+      "path": "dynamic/游戏/2026-09-22 14-41-50 五子棋堵住你的连五_377864f5f5f0.md",
+      "sha256": "79bbd6ea1480b654cf05a89e7c6e43556f395f37e11d4e16bf48378e4847a47a"
+    },
+    {
+      "bytes": 951,
+      "path": "dynamic/游戏/2026-09-22 14-50-16 胶着棋局转向找突破口_d1b1609f1368.md",
+      "sha256": "4f34bd0980157e32bacc1aec1ddeee2bc6064645a783a07a5e778353bc50de2a"
+    },
+    {
+      "bytes": 901,
+      "path": "dynamic/游戏/2026-09-22 14-51-00 下棋对局逼得很紧_9b535c3b2b3d.md",
+      "sha256": "14a3ba6c103ef079bd49eeb32569de7a7a2549f41a3216e379bba54f6c0ef835"
+    },
+    {
+      "bytes": 1096,
+      "path": "dynamic/游戏/2026-09-22 14-51-52 五子棋对局你三次说要输还没赢_7568d3f7499f.md",
+      "sha256": "a7b05312c83a7906fe23e236cdc4c2acd1e33ad43432e937764ee1df37b8c397"
+    },
+    {
+      "bytes": 1505,
+      "path": "dynamic/游戏/2026-09-22 14-53-22 第6列封路中间变挤_dffbe417cca2.md",
+      "sha256": "12073027088744b14589358e59bbc2e26e34b70984a9c9b4c515adb685e17a15"
+    },
+    {
+      "bytes": 1219,
+      "path": "dynamic/游戏/2026-09-22 15-01-23 重新开一局我等你先手_70c236c7e8df.md",
+      "sha256": "9e22d70bd13c8e44137b33cceca692e2a15ff0318a6fcd4b03ae89d8d44542df"
     },
     {
       "bytes": 1501,
@@ -9688,9 +9763,9 @@
       "sha256": "99650697d5a26c102d4647837c64ea4a631def980111a16d8ae6c0fd06af4ade"
     },
     {
-      "bytes": 684,
+      "bytes": 794,
       "path": "dynamic/社交/2026-08-16 09-11-01 行你赢了_cb1c32dcfa6d.md",
-      "sha256": "5b418e7e560e501d318811778b1bc17e4c4dfd83f1d3693d5e432e46b58c35a1"
+      "sha256": "36dc8b1d4cf859ff3b7e6ab18bf4db7571829c7df6f1063af10a488aac83ea0d"
     },
     {
       "bytes": 557,
@@ -10148,9 +10223,9 @@
       "sha256": "67b5d526b5a54630774ed521b1dcbd8f2e0c671214bb3e3c3bec3f43b98014e0"
     },
     {
-      "bytes": 840,
+      "bytes": 1060,
       "path": "dynamic/社交/2026-09-02 07-27-15 五子棋对局结束认输_21df81f0f806.md",
-      "sha256": "e59183cef9e26eec95c412ca208e98069abce09296fd322e3f17d23025442ecd"
+      "sha256": "7ecb1936ea52ca15b370cb54bc69c86d146e7db281b07ab5bacb1dff9f344e8c"
     },
     {
       "bytes": 543,
@@ -10223,9 +10298,9 @@
       "sha256": "64ee95408967b66b3a3d9bc84596c15eb62764e05fb7858642297a4a69043c57"
     },
     {
-      "bytes": 1296,
+      "bytes": 1406,
       "path": "dynamic/社交/2026-09-02 14-52-34 下棋哥哥重连我下第5列_e6551d8f6e61.md",
-      "sha256": "8ef314e8b8c2dc00b71c0b9059df4567537390c93a98174517a5f2567bf43839"
+      "sha256": "28787f5fb68458d4ff4de14e631bb32496294e80f7b90a1c62d1ab79ee2737de"
     },
     {
       "bytes": 424,
@@ -10423,9 +10498,9 @@
       "sha256": "ef78435bb157c812873a7c58508e5d3e5eca036c3a9c69362bc8ec365c0d7e07"
     },
     {
-      "bytes": 1230,
+      "bytes": 1340,
       "path": "dynamic/社交/2026-09-09 17-21-56 我修一下去吧不急_ca3a0a2c4f7d.md",
-      "sha256": "094b7c9b6cd95f357c364c486e23b22289779432bd15e01a2d84028240175878"
+      "sha256": "69fe5c099a9186bd0b877705817a4b936941fbac2623fc1acfdba293cd0ead48"
     },
     {
       "bytes": 762,
@@ -10651,6 +10726,16 @@
       "bytes": 625,
       "path": "dynamic/社交/2026-09-22 12-51-31 黑卫衣抱臂脸红像极了我装酷_6b6e48cf5f4d.md",
       "sha256": "55657ef1d6acbdb7f8b34be36825ba6be7197b2baeab61aefa73e67e84d1922f"
+    },
+    {
+      "bytes": 634,
+      "path": "dynamic/社交/2026-09-22 14-31-19 到你了落子吧我等着看谁先完蛋_b4fb21eb979a.md",
+      "sha256": "0dedcfa4d4f1b7ed702a5a3e6d8fcf2143fad996717fe950d5f28098d58669df"
+    },
+    {
+      "bytes": 1458,
+      "path": "dynamic/社交/2026-09-22 14-34-14 斜线堵棋看你还往哪跑_89271efb7602.md",
+      "sha256": "a574e89596ad95428623153e6bff8d439dc0f34a1aecdc078b58192ce6d87b8d"
     },
     {
       "bytes": 717,
@@ -10983,9 +11068,9 @@
       "sha256": "1f19060b5cfd1396c224b445987f02d58c84c33af66db7795ab7727924d31801"
     },
     {
-      "bytes": 801,
+      "bytes": 911,
       "path": "dynamic/编程/2026-08-16 05-53-27 去吃饭吧水水吃完再说修的事_d0846457b18e.md",
-      "sha256": "b2681862c8ff38f761142fc0d992a384e95d4b2117c57258a55c6068d3c78be4"
+      "sha256": "6c0e98738a1ecbd4d2e0b8e1138a9403585a4e56c5207bae33628c13ca26a508"
     },
     {
       "bytes": 557,
@@ -11153,9 +11238,9 @@
       "sha256": "4fc1a0c251dc1d779e67e78f29ce1e9b8f1b49262ba0945ef2f8f5e5d621ed7d"
     },
     {
-      "bytes": 554,
+      "bytes": 680,
       "path": "dynamic/编程/2026-08-24 16-30-25 凌晨十二点半还在修bug_541abb852c64.md",
-      "sha256": "be5ee6ff5848fd08eb4fd00c1051781d5d1006d71a068d252b426db6fd2019a2"
+      "sha256": "63ae2a4925b8656dd16b57fbaab6b8247c1f8a4d24c0d3726a3a306fd18fb981"
     },
     {
       "bytes": 781,
@@ -11175,7 +11260,7 @@
     {
       "bytes": 1352,
       "path": "dynamic/编程/2026-09-01 09-28-12 修一下报错_968bd5efc368.md",
-      "sha256": "2d27facb8ac7a05db22e621ae6e40def27b3e677aacccefa1a1669efcaf4cebb"
+      "sha256": "738f951609e3abacbd80eab78d8ddd8d1d155925e02f0d84b285bec2521d0209"
     },
     {
       "bytes": 689,
@@ -11273,9 +11358,9 @@
       "sha256": "6fea1d2d0eddb5d5478608f887227de7f9772cb0328b1625acb12c9fdd35c1e6"
     },
     {
-      "bytes": 1353,
+      "bytes": 1463,
       "path": "dynamic/网络/2026-09-02 14-53-57 连上了但下载失败重试第5列_3901cfa3affe.md",
-      "sha256": "2a66391ac354b871a43ca2dcfef52134e7e6995e1e84f67e9e796ff434689684"
+      "sha256": "d4a8e44a25ae3a0f780218e9d0401c7740d614bab8e3219070b2903b04d56161"
     },
     {
       "bytes": 614,
@@ -11303,9 +11388,9 @@
       "sha256": "6adeb270d16c88475168732baeacedef6e676c919dc86818f000c37e9d79e617"
     },
     {
-      "bytes": 934,
+      "bytes": 1044,
       "path": "dynamic/自省/2026-09-02 09-44-04 承认说谎并查到房间状态_7e44a2ab89f7.md",
-      "sha256": "3670f5eae2d3647163a8a40ee2b809319d8c6426f7da9cdff753a62a3396cfe1"
+      "sha256": "283af89cc5226f2e8b3be5983d3746a77b5f40feb0f4176551d09e8abab4138c"
     },
     {
       "bytes": 1514,
@@ -13968,11 +14053,11 @@
       "sha256": "3c49557a5d64302f445fbf02bbd81f95f3d6e562ebd371ee301a2ce69b6dac46"
     }
   ],
-  "generated_at": "2026-09-22T14:02:46+00:00",
+  "generated_at": "2026-09-22T20:05:50+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 3000698
+  "total_bytes": 3021650
 }
