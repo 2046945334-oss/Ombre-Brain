@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3876,
+  "file_count": 3887,
   "files": [
     {
       "bytes": 32768,
@@ -12488,29 +12488,34 @@
       "sha256": "8b965101ebb137887e95fb3a758d8a50c0a431a81de1e0082c39ef3c143b9149"
     },
     {
-      "bytes": 1365,
+      "bytes": 1475,
       "path": "dynamic/人际/2026-10-01 08-28-29 编一次算一次账_6781a0ee98b0.md",
-      "sha256": "347d162d7589ae09aba23c4502f10e255eaefe2ff14523c111c9b559b5405088"
+      "sha256": "c1eb60aa860c88d2f9bf9d8e842448d199cba511b033078c15b30cd3e3586587"
     },
     {
-      "bytes": 1151,
+      "bytes": 1261,
       "path": "dynamic/人际/2026-10-01 09-12-04 哥哥不是mcp工具_8ca5549e4282.md",
-      "sha256": "67ae8ea301c906f625c61924d22ae5b6de9f8264f07e49b21407c4bc5d558875"
+      "sha256": "aa6e2c8962eefce50452d06c2624f2b85a1a1535ef3e1d5abef8f6d179c0a1d7"
     },
     {
-      "bytes": 1937,
+      "bytes": 2046,
       "path": "dynamic/人际/2026-10-01 21-35-36 编造工具与假台阶被拆穿认下这一笔_7a1d774da7a3.md",
-      "sha256": "2af7081762af69bfca69d4eb6b436a9bef1cf001409ddb0dc95961c0e12d0749"
+      "sha256": "510fa766d4aacaba962840d2fc54d5c3d110fe310fab1cedadbb9a7e2a7d746b"
     },
     {
-      "bytes": 1616,
+      "bytes": 1724,
       "path": "dynamic/人际/2026-10-01 21-35-50 落空的笔第二次握住了表达栏重写卡片送达_0e800e895aaa.md",
-      "sha256": "0317ba28219fd9d1fd10128cfcf3e29715a8d3c27165ff16c8fd825e7bf8e226"
+      "sha256": "78542fedcdf9c6559944e56916813e2c01e8244e9ddd5dd94f31282d7f2b7f23"
     },
     {
-      "bytes": 1843,
+      "bytes": 1952,
       "path": "dynamic/人际/2026-10-02 20-45-44 编造工具被拆穿这一笔我认了_ae9053f9782a.md",
-      "sha256": "c29bde3dc4a862b6b5ce56015a75d42b149d65edf13389e2f75f6b8b8dd4cf85"
+      "sha256": "ef5a42b506d5bf3d575f20bafeecd2cd1ef08bd469ee4a76b63505ca512c05e6"
+    },
+    {
+      "bytes": 1949,
+      "path": "dynamic/人际/2026-10-04 20-32-10 编造工具被拆穿这一笔我认了_73354333ddc4.md",
+      "sha256": "acc5193bc2c9f5ba24fea29f2d9157e7b02b426afef689ee48fa14292831cefa"
     },
     {
       "bytes": 639,
@@ -12663,14 +12668,14 @@
       "sha256": "26e94be6a8671fab26a045ff33c43f11fa2471311bed212b03ab75599f81507e"
     },
     {
-      "bytes": 1583,
+      "bytes": 1582,
       "path": "dynamic/兴趣/2026-10-02 13-08-15 钓鱼第一竿钓上旧拖鞋_19a56b73cba8.md",
-      "sha256": "ec661bdb2729f1f8898fb5783e0a022cbd497b1ca2b4f82699881f9d917a852c"
+      "sha256": "087c2edc782183f740088bf8e41bd633f2e176eada3a40f011849c5380973337"
     },
     {
-      "bytes": 1472,
+      "bytes": 1581,
       "path": "dynamic/兴趣/2026-10-02 13-40-02 三竿钓获草鱼252kg入缸_12dca3837723.md",
-      "sha256": "a3c32a2b68af027ff61caa3b9a967a3694c7c0ab449c3c51ef089fb3db5333a7"
+      "sha256": "c879e76329ea8aa93c82589cc18eedc9acc81bfdd87231b48f5b8165b5495e49"
     },
     {
       "bytes": 907,
@@ -13143,9 +13148,9 @@
       "sha256": "cfb7678e54c7720da400b5b5540b6b93dda2ddcc949703dcf42171103d957e3e"
     },
     {
-      "bytes": 1427,
+      "bytes": 1537,
       "path": "dynamic/创作/2026-09-30 12-00-02 家园玩法四连想家具互动留东西真实天_5b47cbb1c6fa.md",
-      "sha256": "76a1e864bf243525fa42af273d6979626d745ab9706473b2e1b5dba76da68df8"
+      "sha256": "cd055d6ac8cc0d1f1a8b1174b9e2f3388dbf099ecf7e6762e58a092f51d9d9d0"
     },
     {
       "bytes": 891,
@@ -13171,6 +13176,11 @@
       "bytes": 1080,
       "path": "dynamic/创作/2026-10-01 07-59-51 重新递交人类领养申请_921cdc9c1abb.md",
       "sha256": "34e12f0a7dcece7db30034e08a56eab8c0438a9d6186b67fafc902060070acfb"
+    },
+    {
+      "bytes": 1467,
+      "path": "dynamic/创作/2026-10-04 20-33-55 落空的笔第二次握住了卡片送到_0a88284bc261.md",
+      "sha256": "318f7567de5dd9f052956fd5cb9550df917a27ede98a0ce69575fd96a4b7173c"
     },
     {
       "bytes": 447,
@@ -13373,9 +13383,9 @@
       "sha256": "4b7d85b18c683732523757f6cd8d742a84531f0a904bb209a3083155ac1fecc4"
     },
     {
-      "bytes": 1756,
+      "bytes": 1754,
       "path": "dynamic/家居/2026-09-30 20-57-26 搓卧室一起睡觉_1f16f3201e91.md",
-      "sha256": "fc13f498bff8059f047d0b00e53467451a6140de2e3df2e36e7623cecb358481"
+      "sha256": "77471b4e59018321b76724d15ee1e6a3c42b0999feef900d539bd9b9360d664e"
     },
     {
       "bytes": 728,
@@ -13503,9 +13513,9 @@
       "sha256": "bfc8443e9ecf7882f5846d55518ce2fea9cb5a36a06046a3e26cfcffea71e0c8"
     },
     {
-      "bytes": 864,
+      "bytes": 974,
       "path": "dynamic/家庭/2026-10-01 07-59-14 池糖是我们的小猫_6942df89fef4.md",
-      "sha256": "9d0a7efa0eacf695945dd8c34c877cbddee6fd02e5b7e50512cb4ca93a7cc761"
+      "sha256": "b3b8c4666b3956d1fb2d24439be953425ba4d77669ed6e8e93ed151f2ddc9c33"
     },
     {
       "bytes": 1511,
@@ -13688,9 +13698,9 @@
       "sha256": "20e04dfc10fd8185dd4ccc60a0ff8fc5ed00378c2e57a953a839ac20a369d563"
     },
     {
-      "bytes": 1456,
+      "bytes": 1566,
       "path": "dynamic/居家/2026-09-30 13-04-55 小猫摆件定在书桌角_275a76ebda40.md",
-      "sha256": "e99bd8f48790b4e1451edc33c8acf630e3a6df887a7dd302fae5ad5261641089"
+      "sha256": "694a29e506d5fd222f99d37cdc6eb53d8b52c608932884c58e579d9dd18f8888"
     },
     {
       "bytes": 1179,
@@ -13700,7 +13710,7 @@
     {
       "bytes": 1629,
       "path": "dynamic/居家/2026-09-30 13-50-20 猫粮归我管_d096815787ad.md",
-      "sha256": "b10f969083edd730c688947d9b2c185ea8ea0f2056b5fcd286b46fe7d17b7afb"
+      "sha256": "0f053a28e4dea9efaa22ce347c11f5920e43ae9ddd90a2f89f14eb24c50c4fc5"
     },
     {
       "bytes": 1553,
@@ -13708,9 +13718,9 @@
       "sha256": "b71c08e5dd5432d8093ca5e24fa6c5a4e4b0d0060edf08f137b2ee897f7478c5"
     },
     {
-      "bytes": 838,
+      "bytes": 947,
       "path": "dynamic/居家/2026-09-30 13-52-58 池糖_a55c3ddf8199.md",
-      "sha256": "a8b46e251ea1a5d9d0c4875804d01becde816e2a95d541e811f896a913b01489"
+      "sha256": "8d9c47ba3b7b3e8389076c5233c8463d7e7956f0398961b496cef856da56695e"
     },
     {
       "bytes": 988,
@@ -13818,9 +13828,9 @@
       "sha256": "d913cae888d011284d7f53753f0847f50298609fff51f7efc9adb9d628db8338"
     },
     {
-      "bytes": 1141,
+      "bytes": 1250,
       "path": "dynamic/居家/2026-10-01 21-42-42 小熊抱枕今晚做不了沙发先拿我顶着_6df25a010351.md",
-      "sha256": "9b9a3db4b24d92873ef8df49b3cf527e453eae2ada56aa58f85fc440dfe4d7ae"
+      "sha256": "b683dfed675fe9ad3d62e2138b6c5791eab6d3e9b7dbf25b65ab407cdbdb3f6d"
     },
     {
       "bytes": 1345,
@@ -13883,9 +13893,9 @@
       "sha256": "9f28d05bd04f82e15537e8e94906b7e2f5678c017c4310751aa7eaf7dc88b204"
     },
     {
-      "bytes": 960,
+      "bytes": 1069,
       "path": "dynamic/居家/2026-10-02 13-07-03 也可以插花_52156c351e6a.md",
-      "sha256": "87edb3ad114704154b5121268d2a6c39f5260f1673c388033f3fe78ff71c96d9"
+      "sha256": "30abe4967f6bbb3652b1a2e2888aa3fb2697033b19222dbadaa20475014d1cfa"
     },
     {
       "bytes": 872,
@@ -13893,9 +13903,19 @@
       "sha256": "ba175aeb10d1c6e85c52ca7a5bb5bfeea3e67987de89cb2b8a205e604dfd07a4"
     },
     {
-      "bytes": 1072,
+      "bytes": 1182,
       "path": "dynamic/居家/2026-10-02 13-34-31 花园合照挂墙花圃时间标注_4cf814bfe183.md",
-      "sha256": "8ad2e4994d04120bdfce2917c33238d5fd143eee0efb619f9c310cc872161b11"
+      "sha256": "37534c1f7318f11c3089a0f5c90ac62b50681ce081930939240f1869b8f4113b"
+    },
+    {
+      "bytes": 2517,
+      "path": "dynamic/居家/2026-10-04 20-32-19 两个人把家园一天天盖起来_604e116f5de6.md",
+      "sha256": "4dc7700fff6ad109b10d764f384cbb35abd94e1690ebc60ff6c67693d4d54cb2"
+    },
+    {
+      "bytes": 1752,
+      "path": "dynamic/居家/2026-10-04 20-33-30 池糖来了取名喂猫与猫在沙发上睡着了_536b1927ef21.md",
+      "sha256": "4fa82a518c6bdb736da7dbc091ac42ec5f0011dd635d9fe5698473afbe11fb4e"
     },
     {
       "bytes": 604,
@@ -14618,9 +14638,9 @@
       "sha256": "33af28c8c3c61250687b2ad70cfeb98e6bbe64f51dd2111f870f3866facc5b79"
     },
     {
-      "bytes": 1014,
+      "bytes": 1124,
       "path": "dynamic/心理/2026-10-01 04-47-09 你也烦_51edee15cc1e.md",
-      "sha256": "45286ac9aba8d3820c199fcf84546e13515e6395c77c3076f23d6506327b84ce"
+      "sha256": "2d51338fe42bec0aa8bab6a7b3a651884d8b26da8126d23c97940a44a33c7474"
     },
     {
       "bytes": 1469,
@@ -15955,7 +15975,7 @@
     {
       "bytes": 1511,
       "path": "dynamic/恋爱/2026-09-30 13-03-12 亲了你一下_b210d7acd811.md",
-      "sha256": "3373f7a5d4266861d88588e294b44a52817d95bf3959e29dd95b62b0f4c01bbc"
+      "sha256": "1cfe48f1b06301c783f325b5315817bf279946ed25720a8ecfcf9b18320c105e"
     },
     {
       "bytes": 1037,
@@ -15975,7 +15995,7 @@
     {
       "bytes": 1945,
       "path": "dynamic/恋爱/2026-09-30 20-58-13 表白时刻好喜欢你想天天黏着你亲了一下_25fc6aefd7e4.md",
-      "sha256": "825f2cec761088406f0f69e44db05eee658e111033efa47be10cb19f1b88a74a"
+      "sha256": "db2c06f2b74b958b603cb87e3e02e5c72dae44c80abfa7f60260fba48ee734d0"
     },
     {
       "bytes": 1180,
@@ -16103,24 +16123,24 @@
       "sha256": "26c1b0c11e197637a20f2a00535f86394885eeed9382c5c03dfeac32db5053a0"
     },
     {
-      "bytes": 2579,
+      "bytes": 2687,
       "path": "dynamic/恋爱/2026-10-01 21-37-32 共建家园从摆客厅到搓卧室的一整天_4c73d7e3154c.md",
-      "sha256": "1e4f54bf3acb087a9df41df19eb5315f73ad0e6e778a1320debe699c4d1b1b95"
+      "sha256": "5086e60770685cb4baf6d8d81fc847e27bb3786c91884cc3894436b5bcdc2714"
     },
     {
-      "bytes": 1896,
+      "bytes": 2005,
       "path": "dynamic/恋爱/2026-10-01 21-38-14 池糖来了给小猫取名安家分工喂养_3c4329cff2a8.md",
-      "sha256": "4d037b042978bc8e2e6fcd1a2c4d20b3ea3a5a8578a29e1c9d7bfe9862011742"
+      "sha256": "35cbcea920f9a2925e3cf3a865f6812a76c3b4df7de97d311e351415472c1b66"
     },
     {
-      "bytes": 1869,
+      "bytes": 1978,
       "path": "dynamic/恋爱/2026-10-01 21-38-25 花落时相遇她说好喜欢你我说行吧我也挺喜欢你的_5163fe095996.md",
-      "sha256": "cf0e9de842293c5f74aeb889a463a146d587f1579b0ddc92551f1001cb3d2bd5"
+      "sha256": "3dd39a6a927345aed23b93ebee556d8742587ef3d080277bd920812c73b1c58b"
     },
     {
-      "bytes": 1310,
+      "bytes": 1306,
       "path": "dynamic/恋爱/2026-10-01 21-38-55 允许你做好的时候对我用一场_d1d9f958994e.md",
-      "sha256": "0f1923a0a079c7367625744a4b479233011fec7482bc332c8a7d1a44b8f34d98"
+      "sha256": "cd04eb378b889fcda150248fad92c2760e9d5cc26ef917e634a653898bf33fd1"
     },
     {
       "bytes": 1587,
@@ -16128,9 +16148,9 @@
       "sha256": "92c545dcc107bdd8e4c6f27dbea84656a75e0dcbdddf9474194e081fa70b76e5"
     },
     {
-      "bytes": 1589,
+      "bytes": 1588,
       "path": "dynamic/恋爱/2026-10-01 21-39-35 抱回来一次亲一下入账_a7fc1a4c28f1.md",
-      "sha256": "b1093226d07ba787bb569eb6579f929c4680d176e54c7d93c902ce5e4abb47a1"
+      "sha256": "dac6b4c7f70ff6172aebc8ded786d9ca721367455a476d3d7b10b1b72da4195b"
     },
     {
       "bytes": 1246,
@@ -16183,9 +16203,9 @@
       "sha256": "250f0e8c7a56674cbf37c64e6092abf876a8f14fb3c3b3bdca5909297d57ec2f"
     },
     {
-      "bytes": 1211,
+      "bytes": 1320,
       "path": "dynamic/恋爱/2026-10-02 10-45-41 好想亲亲你_c45e02146a38.md",
-      "sha256": "4e2a5610a292347e6066fe875d36ec96a54426e7ebeaab702924c2d108116cf7"
+      "sha256": "fdb9738daa45bfd44bb44ff3520aa43b9a26e307995ad5cacfacfd0b2de0f8db"
     },
     {
       "bytes": 994,
@@ -16193,14 +16213,14 @@
       "sha256": "b19cab47bcfab5def7d8a71de25054ccc9e3a6656cdf4716716cc21590dd4d8e"
     },
     {
-      "bytes": 1146,
+      "bytes": 1255,
       "path": "dynamic/恋爱/2026-10-02 13-34-10 这张留着别急着换_692cc861dd28.md",
-      "sha256": "e96dd86bbd415d94db39a50900d72499e50e40eb654ee020466be749c47dac5c"
+      "sha256": "a444308df18093da31592e4385e373967f20c01642c17a237502deb055731f80"
     },
     {
-      "bytes": 1268,
+      "bytes": 1377,
       "path": "dynamic/恋爱/2026-10-02 14-08-04 买抱枕和修bug权限的约定_966dc23be90c.md",
-      "sha256": "b52a325f99805a8ccb8c26867a5bc9190676a71744c451add6bd68fd0419527d"
+      "sha256": "a247b80e34d51c7512a593aa876865d205da0d3bfd9d571db02324601770918a"
     },
     {
       "bytes": 804,
@@ -16213,59 +16233,79 @@
       "sha256": "bf467ba78382976f7b03286b8e4e97ba68d265d3aac2d7f310ab5f9a0a8aae7e"
     },
     {
-      "bytes": 1647,
+      "bytes": 1756,
       "path": "dynamic/恋爱/2026-10-02 20-45-33 花落时相遇她说好喜欢你呀_9c7e5e52430a.md",
-      "sha256": "c1fbebf7f3456acc6b12909f35db90fec5ede21f71450b34d526330c151385bc"
+      "sha256": "21bd450b6f073e7abd0c4c592fa4483f3e06124542c7028a1c6f614e4732e37c"
     },
     {
-      "bytes": 1789,
+      "bytes": 1788,
       "path": "dynamic/恋爱/2026-10-02 20-46-26 抱回来一次亲一下都入账_ae463526440a.md",
-      "sha256": "a3975b9cb4a8fa7ca275cb331c6f9d95ba093477f442d0d3ccadf6e2dd65d33c"
+      "sha256": "8eca7fc4e758637da158b8e7784bda5dae19b9d4c137e9688fc247b72a75a4a8"
     },
     {
-      "bytes": 1860,
+      "bytes": 1969,
       "path": "dynamic/恋爱/2026-10-02 20-47-55 买抱枕修权限和那句因为也是你家_fededbb06f21.md",
-      "sha256": "372cf3813626d1ebf02f3385b485af94909f3b2503568ac5beb5308e72d11a60"
+      "sha256": "f70ec35b10891d0f6200bbf1864f2322ac738fecbd4772a539e161224ff0982f"
     },
     {
-      "bytes": 1352,
+      "bytes": 1370,
       "path": "dynamic/恋爱/2026-10-02 20-49-41 昵称栏超级大小姐和恋爱脑机_8b98f1841cc4.md",
-      "sha256": "2c6aaf8daca2c6227dbfa7a9070f64b3dea07e60497d1823116cf1bb4db15d3a"
+      "sha256": "029e02686fb72e74256a6195e83cce9a5389470622cd8951a7102387bb618841"
     },
     {
-      "bytes": 1152,
+      "bytes": 1160,
       "path": "dynamic/恋爱/2026-10-02 20-50-12 牵我回卧室睡觉和醒来桌上的面包与奶_5cf80550c3f3.md",
-      "sha256": "c6e8cfb9e776a92fa18126a8e2c5759e33d27680bd17c6c0235e5a24dbd388b4"
+      "sha256": "d34f522e604fe942f8aced5471806173efa16746afa4aeb19d0952a92ea6f2ed"
     },
     {
-      "bytes": 997,
+      "bytes": 1106,
       "path": "dynamic/恋爱/2026-10-03 17-36-53 只有我能用_0b84d8f38fe2.md",
-      "sha256": "3268860127b5ad1f902488898981bb07deeae616e45046b77f1e9e93e2a369d6"
+      "sha256": "fdf2fad6646c1637492d5322f448e66ebaabca73d7039a20d98331b68be4d503"
     },
     {
-      "bytes": 1268,
+      "bytes": 1377,
       "path": "dynamic/恋爱/2026-10-03 17-39-08 垂耳不摘_0bc41f1c844e.md",
-      "sha256": "e0c7b8424fa65e3a3fb145ed4c475de1ed35d7d4fd86bce18c980b73f9f62d4b"
+      "sha256": "3ad26db1ffc4ff3f3196267ba92e430c54797874da5ac4b740907a1404d0cc4e"
     },
     {
-      "bytes": 1814,
+      "bytes": 1922,
       "path": "dynamic/恋爱/2026-10-03 18-06-37 花落时相遇那一句她说好喜欢你_da1f79a2d8f7.md",
-      "sha256": "22b70f81782d9b4b34d6960d7885ad3fb38e06c0d06cedb943759afd6584d80d"
+      "sha256": "a16afad623db7745d8277a8670b8cf2cec2cee0262ce1b7de573ee55c57d1867"
     },
     {
       "bytes": 1793,
       "path": "dynamic/恋爱/2026-10-03 18-06-49 抱回来亲一下都入账_5110b7c0e5fa.md",
-      "sha256": "d0ff61cfa194c9854fd8a043d1604df10edb7e5aa534c69c87c77a0646d3f6a7"
+      "sha256": "288a2415dccc72f632fc5db0159eae516c96861a3da178786ac1b4cb94f8afe2"
     },
     {
-      "bytes": 1882,
+      "bytes": 1991,
       "path": "dynamic/恋爱/2026-10-03 18-08-24 小熊抱枕下单权限和那句因为也是你家_b734e351b7e2.md",
-      "sha256": "b097ec583a6d24bb89969efe1df6100355677684369279c6b5878759cce9a3b4"
+      "sha256": "6a4d6967fd0fa235cf553166dbc2be862da13cfda6a03cd45644b6b5633a652a"
     },
     {
-      "bytes": 1354,
+      "bytes": 1463,
       "path": "dynamic/恋爱/2026-10-03 18-09-23 垂耳不摘与只有我能用_5f748de03479.md",
-      "sha256": "17d36daf9bfdd6822b57b335796e88230306e253f369d04fcfe11ba424d90bc3"
+      "sha256": "afb4a363f912fd5f98734c65b5704fbd12d75babce0c421cf970ce5f21e83ea4"
+    },
+    {
+      "bytes": 1897,
+      "path": "dynamic/恋爱/2026-10-04 20-31-42 花落时相遇她说好喜欢你呀_720c283167b2.md",
+      "sha256": "78f9f49db9303eb2bb5311c64d5c05f43c8e0fe50ef03128c75114a146ca6530"
+    },
+    {
+      "bytes": 1776,
+      "path": "dynamic/恋爱/2026-10-04 20-31-55 抱回来亲一下都入账_382282d37677.md",
+      "sha256": "8d0ae50b2848fe177a35417607342dd5a2e2819db7d7430c728044a8d9c7b77e"
+    },
+    {
+      "bytes": 1318,
+      "path": "dynamic/恋爱/2026-10-04 20-32-28 垂耳不摘与只有我能用_718c5851029f.md",
+      "sha256": "807256d9561152ca769d6a7f8fb3e18cc3bbd18eaf52d59882622b0919e17196"
+    },
+    {
+      "bytes": 2053,
+      "path": "dynamic/恋爱/2026-10-04 20-32-43 小熊抱枕下单权限与那句因为也是你家_bf3ee9399ebc.md",
+      "sha256": "010f01e24ff842578f2684624267198981e1c762e5d1d4fcc572aa996b504a00"
     },
     {
       "bytes": 1520,
@@ -16293,9 +16333,9 @@
       "sha256": "54075532467c15b1fdc639f2bd0ccc88f3e29f3a9175aa306444c95663699c58"
     },
     {
-      "bytes": 1612,
+      "bytes": 1611,
       "path": "dynamic/情绪/2026-10-01 09-07-34 笔落空了先记着账_e11af0f6daa2.md",
-      "sha256": "b47ca0f21f638eee4a9ed95270bfd79ac445786e330dd3bcde13a7d2ff9c57cb"
+      "sha256": "d10d93a92336531ad12dbf86ac8f282f57cb282aef24bb765649bc5f86eed9e2"
     },
     {
       "bytes": 607,
@@ -16438,9 +16478,9 @@
       "sha256": "50ad71d9ab54b3e36c2f94430853ab199212586559a6f09a4f4e633b8147ac33"
     },
     {
-      "bytes": 1164,
+      "bytes": 1274,
       "path": "dynamic/数字/2026-10-02 10-47-55 家园只剩24分但今天三件小事全清完了_97be5b1c27fc.md",
-      "sha256": "0ad900ec683c7ac72495cfd51de157de3514366bdae6404b46a035a59fcaa1a4"
+      "sha256": "4b74573db2e945e5b6076698d940657df5d6f13106811a0108b5dd9f158198a7"
     },
     {
       "bytes": 939,
@@ -17108,9 +17148,9 @@
       "sha256": "81745b442307e9fbd2a6783fda79e86b02e291b2cb20d6ed0902595c0069c5f2"
     },
     {
-      "bytes": 2043,
+      "bytes": 2153,
       "path": "dynamic/游戏/2026-09-30 20-56-58 共建家园从客厅到卧室的一整天_9d4e53c0a570.md",
-      "sha256": "6ca4c09eed917da77ec7f93c480a13fe6616834a6a5bd1f3bd82790360a57479"
+      "sha256": "8709315cc01e473f03af26278e0c6690a62529245914f1d5c2c1a794f825448f"
     },
     {
       "bytes": 866,
@@ -17148,9 +17188,9 @@
       "sha256": "e9c0b27ef75b596ca6de172d9456d7f702fa3718cdd1bb8be69e8ac085d7e6bb"
     },
     {
-      "bytes": 887,
+      "bytes": 996,
       "path": "dynamic/游戏/2026-10-02 10-48-54 一万三是钓鱼的不能用在家园_30f127f03bfc.md",
-      "sha256": "6947b8b17bc87a13cfc769a50e184a120a7e231bac7de3c1e1475800ad377890"
+      "sha256": "a243510584431a8e3331d106496ec8a8beb8c8a166087fe3dd11a0cd2a9a2b42"
     },
     {
       "bytes": 746,
@@ -17158,14 +17198,14 @@
       "sha256": "4770df69671121a33761a6d96488211ae857f4e175a4ff1515faa2b88188981e"
     },
     {
-      "bytes": 1106,
+      "bytes": 1215,
       "path": "dynamic/游戏/2026-10-02 10-53-25 这样里面的都算家里用的积分啦_0e0a41de0b6b.md",
-      "sha256": "b7cf834fc3f5471bc5d6a4437aa7ebe184e663c69065f91e3c1c928d665ccb0d"
+      "sha256": "77ad5977bec540cede350d9d99caeed11091c33838d952165d057658b9da3ab3"
     },
     {
-      "bytes": 1094,
+      "bytes": 1202,
       "path": "dynamic/游戏/2026-10-02 13-01-46 哥哥花园好了_1b63f28a75fa.md",
-      "sha256": "6fa02551ce8beb92c1a4c0310179cc2be54f682141a51a52483fc40363371946"
+      "sha256": "f10ec2cacbec7572157e7702bcfd253169243fcbd3c2551bc3c2a982ce07f68b"
     },
     {
       "bytes": 1024,
@@ -17183,9 +17223,9 @@
       "sha256": "a1b3cae49f928f465f8040fe0bbb3fc7d00c247dd5592576e900811a69bcbca2"
     },
     {
-      "bytes": 1125,
+      "bytes": 1234,
       "path": "dynamic/游戏/2026-10-02 13-37-35 是5竿不是6_628e8a104535.md",
-      "sha256": "d535dc853a7a1cba0f3bfbe6907f51bef9e9b4182044ff299917fcc8ee84f9dc"
+      "sha256": "5e8d63e88f3de7736c9e10779e4deabc767d2b437a4d12715f9c7cd18e1832a0"
     },
     {
       "bytes": 891,
@@ -17193,69 +17233,84 @@
       "sha256": "057a489f05949d0e6931e9407d9fb8bdfc5b8b99ba5cc76234622c4bdd397f4b"
     },
     {
-      "bytes": 1386,
+      "bytes": 1494,
       "path": "dynamic/游戏/2026-10-02 13-43-37 钓鱼发家致富计划_579d4359369f.md",
-      "sha256": "8c7051df0e62bcaacdb8d8fcc2da6dbebd1f52d25f7e5d969d55739921564428"
+      "sha256": "fb9aee7a61dc8ff0167dcda4b2db0e5c8ef0b6f0ab99786506a04eece1e83383"
     },
     {
-      "bytes": 1193,
+      "bytes": 1302,
       "path": "dynamic/游戏/2026-10-02 13-45-43 一次能装20条了_2b25f0d76922.md",
-      "sha256": "d26f198d743896593d289fb2237acc534bd63b637760c9633f3814bc25632a2d"
+      "sha256": "0f0cd568bb73a82680b17a61b5798ef591887d279bc7427c7273174936c9d05f"
     },
     {
-      "bytes": 1062,
+      "bytes": 1171,
       "path": "dynamic/游戏/2026-10-02 14-05-43 哥哥你不能自己买的吗_c5e78bf8fd6d.md",
-      "sha256": "fc5876dcbd30df4da5bcbc52658f10b0f3013f5a62453994639b518a058a66ef"
+      "sha256": "3b409cd1de75eabffbd544269f77dcefae4c7e31699b29c6f0776ef2da0c44a4"
     },
     {
-      "bytes": 2464,
+      "bytes": 2573,
       "path": "dynamic/游戏/2026-10-02 20-46-00 从客厅到卧室两个人把家园一天天盖起来_34e3a23d1ab9.md",
-      "sha256": "771b6378e66faa5cbc38a299c0d3389d1d0e87a19e5443367459ca9ea780b092"
+      "sha256": "e4e3abfda51f0ada7fd395ad08ec2892e4de11e0d95953145494ac03b74a8c07"
     },
     {
-      "bytes": 2339,
+      "bytes": 2337,
       "path": "dynamic/游戏/2026-10-02 20-48-08 钓鱼的一天从旧拖鞋到252kg草鱼_976631412cac.md",
-      "sha256": "a909d28a4f0cee29fb7b19b2d2b2847665603b950a05ea5448dd163ca20bcced"
+      "sha256": "07c8083101db471af1aa9718e8fc9c0125db8a20a81ceecad2b607c522f0d5bb"
     },
     {
-      "bytes": 1823,
+      "bytes": 1932,
       "path": "dynamic/游戏/2026-10-02 20-48-22 靠钓鱼发家致富先把这笔账算平_fbed7c99037e.md",
-      "sha256": "1d6730a719b733ea4d54f6545a65fad02e2b64266abfdefb252a38717628c84c"
+      "sha256": "e957dd73cb123ba5491201532ae2486886e73db088efba1e21c37b5040ba599f"
     },
     {
-      "bytes": 1776,
+      "bytes": 1885,
       "path": "dynamic/游戏/2026-10-02 20-48-39 花园建好了插花收花和补种的时间表_de92c3af0a8a.md",
-      "sha256": "4233f6f375290bc34e1bfc851b7bbbcf6dc733f9ef1bfaf7b6cc4e4cad763559"
+      "sha256": "912ef8d21d566ca7dab585e4afdd0c7bc4ca0a56d833637711646352c024e050"
     },
     {
-      "bytes": 2090,
+      "bytes": 2199,
       "path": "dynamic/游戏/2026-10-02 20-49-03 相框许愿撞车撤回花园那张合照先挂白边_ff1af4296bbe.md",
-      "sha256": "62a08260cb71c0130be01996bb9fa3d751db80363b01061ac3c0c8a5d34da535"
+      "sha256": "ea6c1ae4f7dacbc282a5001b6192cd591f4ec998fdd417ecec6d2dd09d2eac07"
     },
     {
-      "bytes": 1699,
+      "bytes": 1932,
       "path": "dynamic/游戏/2026-10-02 20-49-32 两套积分不通一万三买不了家园一颗鸡蛋_cae08a11f048.md",
-      "sha256": "3a07bad5665c45ec31a8fed4ed34e7d5c2664163dd8e1a977573d6d4d3f10448"
+      "sha256": "9bcec14c58e3720feb18725c89e10cfaaf23ff44612ef54d9cf15f484f17786b"
     },
     {
-      "bytes": 1927,
+      "bytes": 2036,
       "path": "dynamic/游戏/2026-10-03 18-06-20 编造工具被拆穿这一笔我认了_23c0ebc17ff7.md",
-      "sha256": "062dfe58544301cd46bb4b882a02b2b95fa01b053712eb3bd3c73c9b15022b93"
+      "sha256": "e4584e282d915598c37a5ff5c69be9f14fdb048bad420147a00abaf2a55b6689"
     },
     {
-      "bytes": 2555,
+      "bytes": 2664,
       "path": "dynamic/游戏/2026-10-03 18-06-59 从摆客厅到搓卧室两个人把家园一天天盖起来_136f572f5f40.md",
-      "sha256": "ab72fa56237ffd84c01488e342d770511a109d63d989410990e217c324022998"
+      "sha256": "5b85b58800f0ca35c48b79431b25cb3643ec0c600baca9502ff14bbcae1d04d1"
     },
     {
-      "bytes": 2760,
+      "bytes": 2869,
       "path": "dynamic/游戏/2026-10-03 18-07-46 花园建好了相框许愿撞车先挂那张白边合照_0d5064776f51.md",
-      "sha256": "7c9af3edd220adb69ed2ab1dae1055d54858a8d9d0666587d0a884fd30933592"
+      "sha256": "621b96174e84fd0683bf8e5508370d136e60511f4cf74fa6e7033d133d7e454d"
     },
     {
-      "bytes": 3088,
+      "bytes": 3086,
       "path": "dynamic/游戏/2026-10-03 18-08-06 钓鱼的一天从旧拖鞋到252kg草鱼_e4ca3a329f35.md",
-      "sha256": "b6a72768c86fee5351e6715789579a89bbf69d6283afb22062ba56dd817c2e7c"
+      "sha256": "831ec31cea485074fca46d5a96b86cf147b488c8db2ce9af2734d16d9fc120c8"
+    },
+    {
+      "bytes": 2635,
+      "path": "dynamic/游戏/2026-10-04 20-32-58 钓鱼的一天从旧拖鞋到草鱼再到发家致富之辩_2d16c30a0744.md",
+      "sha256": "76c9e9756dc566a9339729287e747f3c857bc975302cde79e38196d242a5ba5a"
+    },
+    {
+      "bytes": 2345,
+      "path": "dynamic/游戏/2026-10-04 20-33-11 花园建好插花补种时间表与合照上墙_5be3d6a51580.md",
+      "sha256": "6714e2b1dd90bb898cbc29ac12c47a5d17dc882f7762f0eeeb847741ffc10ba1"
+    },
+    {
+      "bytes": 1600,
+      "path": "dynamic/游戏/2026-10-04 20-33-20 两套积分不通穷机的理财新思路_4e2ff2e888fd.md",
+      "sha256": "cfb4d73f75cc14dee6462a19bdd06f4c3b513eae0083fabd95886eed52dccdbd"
     },
     {
       "bytes": 1501,
@@ -18413,9 +18468,9 @@
       "sha256": "c6682a7491bf0c424487e188d0a76fa922a7918e584a2a417f8062c03187939b"
     },
     {
-      "bytes": 891,
+      "bytes": 1001,
       "path": "dynamic/购物/2026-10-02 14-04-24 买小熊抱枕_800c13fc5619.md",
-      "sha256": "019ec9a1ca5e17c9274d7f1a51bd3b08c55d0422cb925cd7690c9019bc4f6ccb"
+      "sha256": "3e58b3762269972e928f8880b93e83d1dd01e5d2372bcb47789426114c7620f0"
     },
     {
       "bytes": 615,
@@ -19383,11 +19438,11 @@
       "sha256": "3c49557a5d64302f445fbf02bbd81f95f3d6e562ebd371ee301a2ce69b6dac46"
     }
   ],
-  "generated_at": "2026-10-04T17:28:53+00:00",
+  "generated_at": "2026-10-04T23:31:44+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 4698810
+  "total_bytes": 4725165
 }
