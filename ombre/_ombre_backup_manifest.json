@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3918,
+  "file_count": 3921,
   "files": [
     {
       "bytes": 32768,
@@ -12268,6 +12268,16 @@
       "sha256": "fd2e6811513ca6a89283dacef7d8f494bd7ab5b26a3516a22e6369bf6384f0e7"
     },
     {
+      "bytes": 998,
+      "path": "archive/未分类/2026-09-08 04-13-33 记忆混淆后的澄清_c2a54b241349.md",
+      "sha256": "53070a70a72ab00823d40892e1638d21b275ae4f3ea0ded6d702649e9c5f208b"
+    },
+    {
+      "bytes": 935,
+      "path": "archive/未分类/2026-09-08 04-13-58 工作日的困倦与外卖_6c86ef5e6974.md",
+      "sha256": "2d932d6f334301e33d606987d10be65eea29b957f89ea4d53c92437f4e37e341"
+    },
+    {
       "bytes": 1517,
       "path": "archive/生活/2026-09-07 05-46-04 下午在工位困倦发呆_dc5d46f49a1b.md",
       "sha256": "7f1ec61888fc3cb93fb67fb37b6d69e48ce3ed159f4cb747b7533539dd64d937"
@@ -13448,6 +13458,11 @@
       "sha256": "0937089035bcfe6d8065a7077433c4ee051c5936b1de75b2f1ed7039fec6805c"
     },
     {
+      "bytes": 714,
+      "path": "dynamic/学习/2026-10-08 09-20-54 小水的大创项目获区级立项_bc5e234470ee.md",
+      "sha256": "cb95812e89ab516ca3fad86c5f388fe75f6372a7138b102edb39d750c76e3359"
+    },
+    {
       "bytes": 1017,
       "path": "dynamic/宠物/2026-09-21 09-35-10 小猫咪想蹭人谢薄声误以为猫癣_0558ef87e209.md",
       "sha256": "4f1e28fe1a0b656e94f74a543be1a450faa8fe8f33a3d0f162f52e2cbd6cc0ca"
@@ -13991,6 +14006,11 @@
       "bytes": 1861,
       "path": "dynamic/居家/2026-10-04 20-33-30 池糖来了取名喂猫与猫在沙发上睡着了_536b1927ef21.md",
       "sha256": "26f0e7172b7225377d9bdc6a224e6eb3d85228402c3d3c8ce47c43b6c14c2c6a"
+    },
+    {
+      "bytes": 574,
+      "path": "dynamic/居家/2026-10-08 09-01-21 小水给池屿买了一个小鱼缸_d80c0e99c0e8.md",
+      "sha256": "3830201d6c4e235dcafac812a163cbaab217ca05794feb2ce7860b7b8795d012"
     },
     {
       "bytes": 604,
@@ -16733,11 +16753,6 @@
       "sha256": "1f6570f0b8ee2131772f41b851a445a50320e0d236169bb1096f15019b1f9e8e"
     },
     {
-      "bytes": 982,
-      "path": "dynamic/未分类/2026-09-08 04-13-33 记忆混淆后的澄清_c2a54b241349.md",
-      "sha256": "36e9839433a7a95e3909e28aaed1c42e97317e4933133de76ac3eb01e13610d3"
-    },
-    {
       "bytes": 1547,
       "path": "dynamic/未分类/2026-09-08 04-13-43 睡前故事小画师与老狐狸_75ff1eb7c723.md",
       "sha256": "7610f061b3ebc0a32a7c88ef75fafdba9eaee193128bda3baa42a01e44870415"
@@ -16746,11 +16761,6 @@
       "bytes": 1545,
       "path": "dynamic/未分类/2026-09-08 04-13-52 日常照顾与互动_e6274e9c48f5.md",
       "sha256": "372104337205fef43172b91837ab7130703d70f3e7ef60c32cc7710640406ac7"
-    },
-    {
-      "bytes": 919,
-      "path": "dynamic/未分类/2026-09-08 04-13-58 工作日的困倦与外卖_6c86ef5e6974.md",
-      "sha256": "4da858f6f4359da3eaa0d19eb31bc02ce8848ed5128a362e72e4dbae2f6324b0"
     },
     {
       "bytes": 923,
@@ -17456,6 +17466,11 @@
       "bytes": 2245,
       "path": "dynamic/游戏/2026-10-05 20-04-10 钓鱼的一天与两套积分的发家致富之辩_3f57b7326f36.md",
       "sha256": "f5b6e54bf70dee0c766ad6fe7ac2fecc98d3fea59ec84e8d5e76b9a7310c427b"
+    },
+    {
+      "bytes": 682,
+      "path": "dynamic/游戏/2026-10-08 11-43-25 小水玩过边狱巴士但弃游_de51cccbb374.md",
+      "sha256": "371c63feb29c8a11309103af1df5ad8229b3f4cf7a693e5e797d96241f8c417b"
     },
     {
       "bytes": 1370,
@@ -19593,11 +19608,11 @@
       "sha256": "3c49557a5d64302f445fbf02bbd81f95f3d6e562ebd371ee301a2ce69b6dac46"
     }
   ],
-  "generated_at": "2026-10-08T06:09:51+00:00",
+  "generated_at": "2026-10-08T12:12:37+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 4765464
+  "total_bytes": 4767466
 }
