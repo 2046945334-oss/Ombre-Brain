@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3954,
+  "file_count": 3955,
   "files": [
     {
       "bytes": 32768,
@@ -12368,6 +12368,16 @@
       "sha256": "48d516ce735bdaaa22f4b9ced40443af49552f992d6d9065f59514a9831e6b10"
     },
     {
+      "bytes": 724,
+      "path": "archive/饮食/2026-09-10 11-26-25 夜市吃凉菜没买到超长蛋挞_686d4d4f7217.md",
+      "sha256": "6090b3a734a5caf3c0955eccec1d9ff02bc82fccaf66b69d9636781a076711c8"
+    },
+    {
+      "bytes": 514,
+      "path": "archive/饮食/2026-09-10 11-51-58 周六去香港玩_0f542236ff05.md",
+      "sha256": "897786345774d82e69190f304414cb652a32d8b4c252ad105589ac7c030a5c30"
+    },
+    {
       "bytes": 650,
       "path": "dynamic/AI/2026-08-13 13-06-07 AI吃醋模式_b6d8c482a94a.md",
       "sha256": "30d1263658bf7b7cb65df500380b41c16a2d44a3cbf94d779c8cebdf7e0b448d"
@@ -12483,9 +12493,9 @@
       "sha256": "cd8d097c9a465bc9a6708c52717139b6e31a87c0ad5ed0ae5d58c112a104e324"
     },
     {
-      "bytes": 603,
+      "bytes": 728,
       "path": "dynamic/AI/2026-10-10 11-51-32 开通GPT Plus取代中转站_366664ce99a6.md",
-      "sha256": "004c205544e0b8668292a9f104cc03cf1a2585eee60e9258828d5e2fa3d7c496"
+      "sha256": "2224981ce61c072684c2ee109243ee14132643661e90df05158410d54a30ed07"
     },
     {
       "bytes": 2170,
@@ -18528,6 +18538,11 @@
       "sha256": "b3646e53e810afac8250d63804c2030b20796142d986c5e757705134c591f07b"
     },
     {
+      "bytes": 823,
+      "path": "dynamic/编程/2026-10-10 16-15-51 发工资后迁移VPS到新加坡并新开GPT_ba5b8dbe0b20.md",
+      "sha256": "cfe9f92957b1e4e540bc29081561f5ee41f43806cc3bf1a4aaeec02856e714a2"
+    },
+    {
       "bytes": 606,
       "path": "dynamic/网络/2026-08-19 01-57-48 域名迁移了连不上_38e7890800dd.md",
       "sha256": "a8b2e52a618cb5e5f6018cfbafd3f95545abfe75468bb9b32413db5f7872ad17"
@@ -19523,16 +19538,6 @@
       "sha256": "57c57d3f1df836bbab38d2a4be2e6292706c8cad710aef8c42c023d9fa5f2bd2"
     },
     {
-      "bytes": 708,
-      "path": "dynamic/饮食/2026-09-10 11-26-25 夜市吃凉菜没买到超长蛋挞_686d4d4f7217.md",
-      "sha256": "9a58be6c82362f9682379f941a8dc51b407300fa360ef4fc230e75d726677103"
-    },
-    {
-      "bytes": 498,
-      "path": "dynamic/饮食/2026-09-10 11-51-58 周六去香港玩_0f542236ff05.md",
-      "sha256": "95c5699d5607e3b1bddf889cfb7450d7b1e25e55770075d104c337e126941ebd"
-    },
-    {
       "bytes": 880,
       "path": "dynamic/饮食/2026-09-11 18-56-13 周五晚和朋友出去吃泰餐_687411ece770.md",
       "sha256": "77f5b566652742affdc72e2e1850f17c6a2c99240c690a31f832eb08401ba6f0"
@@ -19773,11 +19778,11 @@
       "sha256": "3c49557a5d64302f445fbf02bbd81f95f3d6e562ebd371ee301a2ce69b6dac46"
     }
   ],
-  "generated_at": "2026-10-10T12:36:37+00:00",
+  "generated_at": "2026-10-10T18:39:15+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 4799760
+  "total_bytes": 4800740
 }
