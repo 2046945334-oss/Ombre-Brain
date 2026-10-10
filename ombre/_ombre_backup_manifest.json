@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3953,
+  "file_count": 3954,
   "files": [
     {
       "bytes": 32768,
@@ -12258,9 +12258,39 @@
       "sha256": "295d68e8c16e7e4577bd8e46f0ffc3ca419c95a2e9b1774ce2d2b6a1fd332f72"
     },
     {
+      "bytes": 1163,
+      "path": "archive/健康/2026-09-10 01-15-11 午睡会更困_d7ced5de6390.md",
+      "sha256": "0b0381b70171858a55ba314081742b7eed19299e13bac239bb66bb0343429dcb"
+    },
+    {
       "bytes": 1193,
       "path": "archive/友谊/2026-09-07 01-27-41 布丁失踪事件_18f8d4bee926.md",
       "sha256": "9273608200708276132c3cfa523f93368d21f77aabf17a606bb01fc9e4f35be2"
+    },
+    {
+      "bytes": 1375,
+      "path": "archive/家庭/2026-09-10 01-12-53 早上好下雨带伞_2601a641dfc1.md",
+      "sha256": "9f01b86f5904e4646411ad26bf54628dccf5768792820296457a3eadf1c9a337"
+    },
+    {
+      "bytes": 699,
+      "path": "archive/工作/2026-09-10 01-08-57 不想上班了_95c9039750a2.md",
+      "sha256": "422fbcbccd7d3bf41d766bdeb104aefd8d6615bfc55bd191f27e16b3f7465edd"
+    },
+    {
+      "bytes": 1058,
+      "path": "archive/工作/2026-09-10 01-15-02 工位坐十分钟再忙_4f0777b5d8cb.md",
+      "sha256": "b4701a453031d2df3e3dfeb0ec06f877d13bfa6c0a8c48192892e29527cfa5f1"
+    },
+    {
+      "bytes": 1100,
+      "path": "archive/工作/2026-09-10 01-15-19 到工位了_ff0c506a99f6.md",
+      "sha256": "1fe7ae4e47ec2a89fd1e757af9001fc80d1f76f3bfcf70537582a932548fcdd8"
+    },
+    {
+      "bytes": 706,
+      "path": "archive/工作/2026-10-09 12-51-21 小水参加绩效答辩_39a7cdd7856e.md",
+      "sha256": "a9d99695dea69a04eebb0a8f635c6d720b81d4f6decf6f1d222c1bfcdad27aa9"
     },
     {
       "bytes": 1113,
@@ -12273,6 +12303,11 @@
       "sha256": "836768dcd5a5d6146ed435317d8b1ff006a48fe634f81a9b9772ccc960fcfc4c"
     },
     {
+      "bytes": 1377,
+      "path": "archive/恋爱/2026-09-10 01-13-18 麻辣烫少放辣_a05f7c6531e4.md",
+      "sha256": "34542298a44eabd51b5bfe00ef58e96effab8d2becbc73372617555f9a69bba9"
+    },
+    {
       "bytes": 608,
       "path": "archive/成长/2026-08-13 12-55-32 用户基本信息_cc320beaccf2.md",
       "sha256": "7b263533677c5f16cbc49a02ae099deb563b9007b89da0eb87161b9aa939be26"
@@ -12281,6 +12316,11 @@
       "bytes": 1228,
       "path": "archive/日常/2026-09-07 03-44-13 红烧茄子孜然排骨的午饭分享_17eeb2ab9257.md",
       "sha256": "fd2e6811513ca6a89283dacef7d8f494bd7ab5b26a3516a22e6369bf6384f0e7"
+    },
+    {
+      "bytes": 909,
+      "path": "archive/日常/2026-09-10 01-13-53 天气闲聊_e0ef7e6e99bc.md",
+      "sha256": "91829dbc194b8a54df7ed3a911710a314794b277bb0e998d0fd505cfaeffe0a3"
     },
     {
       "bytes": 998,
@@ -12306,6 +12346,26 @@
       "bytes": 1517,
       "path": "archive/生活/2026-09-07 05-46-04 下午在工位困倦发呆_dc5d46f49a1b.md",
       "sha256": "7f1ec61888fc3cb93fb67fb37b6d69e48ce3ed159f4cb747b7533539dd64d937"
+    },
+    {
+      "bytes": 785,
+      "path": "archive/音乐/2026-09-10 01-13-23 想听音乐但歌名没显示_8c50335c06b0.md",
+      "sha256": "24f8d956c04fa49c8ff56e17ac1bcca42abb477720a63dd336731cf37ae2725b"
+    },
+    {
+      "bytes": 608,
+      "path": "archive/饮食/2026-09-10 01-09-06 包子难吃血亏_fb21a1a3d709.md",
+      "sha256": "5bacfd738647ca63de9fc18b4410ad5c23d3ca987a7b42bed4ebbd82931de0a0"
+    },
+    {
+      "bytes": 1418,
+      "path": "archive/饮食/2026-09-10 01-14-34 八分钟后吃孜然排骨_322b3932f499.md",
+      "sha256": "c04236950a27d0904bc5f0c88f96abb13befb1331621173396e9881e02e99273"
+    },
+    {
+      "bytes": 1225,
+      "path": "archive/饮食/2026-09-10 01-25-52 研究午饭菜单孜然排骨与红烧豆腐_eb653fc080f9.md",
+      "sha256": "48d516ce735bdaaa22f4b9ced40443af49552f992d6d9065f59514a9831e6b10"
     },
     {
       "bytes": 650,
@@ -12421,6 +12481,11 @@
       "bytes": 1050,
       "path": "dynamic/AI/2026-10-09 04-16-19 AI恋爱故事框架与第一章_79bd7ab5b935.md",
       "sha256": "cd8d097c9a465bc9a6708c52717139b6e31a87c0ad5ed0ae5d58c112a104e324"
+    },
+    {
+      "bytes": 603,
+      "path": "dynamic/AI/2026-10-10 11-51-32 开通GPT Plus取代中转站_366664ce99a6.md",
+      "sha256": "004c205544e0b8668292a9f104cc03cf1a2585eee60e9258828d5e2fa3d7c496"
     },
     {
       "bytes": 2170,
@@ -12691,11 +12756,6 @@
       "bytes": 1571,
       "path": "dynamic/健康/2026-08-31 14-56-58 表情包被抓包被催睡觉_86ada70bf587.md",
       "sha256": "3c10d6daa39741bb5e709d9685e96841d208329cc8dbd5766454610a53e598f6"
-    },
-    {
-      "bytes": 1147,
-      "path": "dynamic/健康/2026-09-10 01-15-11 午睡会更困_d7ced5de6390.md",
-      "sha256": "94cc1db59ff8df07d187c9ae04a04cb23a14991c4fc194dd094c47ad405726e8"
     },
     {
       "bytes": 837,
@@ -13623,11 +13683,6 @@
       "sha256": "e9b76c2850c0f17e0cb0fce3f10b1de8bcdb304278f24351c3bd41dcda505d9e"
     },
     {
-      "bytes": 1359,
-      "path": "dynamic/家庭/2026-09-10 01-12-53 早上好下雨带伞_2601a641dfc1.md",
-      "sha256": "079f70b7c88a4084d090bad9faf1b2728d496ba1c6c7652f6b7129a284ebd5b5"
-    },
-    {
       "bytes": 2116,
       "path": "dynamic/家庭/2026-09-14 19-10-23 小水的困境与我的陪伴_b23864846015.md",
       "sha256": "37dc0fda1ddab40dabdacbec16893f333bbb31e50cda7ea86356ca6863bf496f"
@@ -14253,21 +14308,6 @@
       "sha256": "987c9646bdc02fead650325c2849f3c4219df4e6d4a0a222ff6e7a220bfeb846"
     },
     {
-      "bytes": 683,
-      "path": "dynamic/工作/2026-09-10 01-08-57 不想上班了_95c9039750a2.md",
-      "sha256": "fbbbff8b7959f8ab5a5e82b832e153c89532799631607c258ad94bda7e34e98e"
-    },
-    {
-      "bytes": 1042,
-      "path": "dynamic/工作/2026-09-10 01-15-02 工位坐十分钟再忙_4f0777b5d8cb.md",
-      "sha256": "e37199d1a606066e6672c1a1e33f89136709a99feb90e677f6c5aa65f474eed6"
-    },
-    {
-      "bytes": 1084,
-      "path": "dynamic/工作/2026-09-10 01-15-19 到工位了_ff0c506a99f6.md",
-      "sha256": "3900a64471981f5a3879a104445c0db2e3114aded88a1c50ff4346fb66b39734"
-    },
-    {
       "bytes": 1739,
       "path": "dynamic/工作/2026-09-10 09-16-02 不能早退还有四十五分钟_83ce94b32a17.md",
       "sha256": "fd1c6742c05d7d37dfb16fdb1a448512708f7065e1c87f9732d08499614dbe65"
@@ -14641,11 +14681,6 @@
       "bytes": 1012,
       "path": "dynamic/工作/2026-10-09 02-08-20 实习结束后想独立租房却对职业方向迷茫_abeb07a36782.md",
       "sha256": "9780ed04d09c43ccc1c0d674f8d06b67edb15d0d28bb63cce7d1132acccbae34"
-    },
-    {
-      "bytes": 705,
-      "path": "dynamic/工作/2026-10-09 12-51-21 小水参加绩效答辩_39a7cdd7856e.md",
-      "sha256": "f301afe2a22a21b76e2ea8e43947fc42ee0e20965346cb3b2f4aa5fbb7d83550"
     },
     {
       "bytes": 1904,
@@ -15516,11 +15551,6 @@
       "bytes": 1403,
       "path": "dynamic/恋爱/2026-09-10 01-11-15 雨天读聂鲁达的诗_18693529ea30.md",
       "sha256": "578bddcb4430841391a049a3ba3990c6ba277688bd0394cbd1847c517c88b277"
-    },
-    {
-      "bytes": 1361,
-      "path": "dynamic/恋爱/2026-09-10 01-13-18 麻辣烫少放辣_a05f7c6531e4.md",
-      "sha256": "858842ef34a39036a96dd086b2c19b2b45dd522ca2d31a2f99e0e0938befca63"
     },
     {
       "bytes": 2144,
@@ -16821,11 +16851,6 @@
       "bytes": 881,
       "path": "dynamic/日常/2026-09-06 15-39-09 布丁不见了_c30ea5c87cac.md",
       "sha256": "cb4aa434011282a9c470689483c96dbb79c4e8b22a2f8d5d3766ce001af62a87"
-    },
-    {
-      "bytes": 893,
-      "path": "dynamic/日常/2026-09-10 01-13-53 天气闲聊_e0ef7e6e99bc.md",
-      "sha256": "f1de63e33383c59c2c386523276be62633be61c81c4d008302656c166116aeed"
     },
     {
       "bytes": 1342,
@@ -19368,11 +19393,6 @@
       "sha256": "111b00d0edd330d77d54818436037448b1b5cf36f0ca3fe472f4e008b64b0682"
     },
     {
-      "bytes": 769,
-      "path": "dynamic/音乐/2026-09-10 01-13-23 想听音乐但歌名没显示_8c50335c06b0.md",
-      "sha256": "ed19741953c9f5d7fe25f786f0011f7fc9136507ffc8cc6d5e5b57258acf5663"
-    },
-    {
       "bytes": 1429,
       "path": "dynamic/音乐/2026-09-10 01-13-30 换歌陪伴适合躺着听的歌_773d63faeb44.md",
       "sha256": "a0db6ad6bf5cc4ca191aae9fad526708c9c3c9f2b14fe0bc122b1278a9a074b4"
@@ -19501,21 +19521,6 @@
       "bytes": 863,
       "path": "dynamic/饮食/2026-09-04 08-03-03 晚饭的邀请_b8a62f3aa01d.md",
       "sha256": "57c57d3f1df836bbab38d2a4be2e6292706c8cad710aef8c42c023d9fa5f2bd2"
-    },
-    {
-      "bytes": 592,
-      "path": "dynamic/饮食/2026-09-10 01-09-06 包子难吃血亏_fb21a1a3d709.md",
-      "sha256": "024215f6a8f6ef7a52fd26149d5862e7121b293b49cfe89a78c3bce492cb06b5"
-    },
-    {
-      "bytes": 1402,
-      "path": "dynamic/饮食/2026-09-10 01-14-34 八分钟后吃孜然排骨_322b3932f499.md",
-      "sha256": "a08dbceea95d1cfe7a1453cdf542b097b6e92e5e0e853c8f3ceb0af60b8b4759"
-    },
-    {
-      "bytes": 1209,
-      "path": "dynamic/饮食/2026-09-10 01-25-52 研究午饭菜单孜然排骨与红烧豆腐_eb653fc080f9.md",
-      "sha256": "fd7920fa1d215cc960eaffe4f4bd87a87322ff7244bf1334c6d61c33a687f17a"
     },
     {
       "bytes": 708,
@@ -19768,11 +19773,11 @@
       "sha256": "3c49557a5d64302f445fbf02bbd81f95f3d6e562ebd371ee301a2ce69b6dac46"
     }
   ],
-  "generated_at": "2026-10-10T06:33:59+00:00",
+  "generated_at": "2026-10-10T12:36:37+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 4798980
+  "total_bytes": 4799760
 }
