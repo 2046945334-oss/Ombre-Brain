@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3959,
+  "file_count": 3987,
   "files": [
     {
       "bytes": 32768,
@@ -12263,6 +12263,16 @@
       "sha256": "0b0381b70171858a55ba314081742b7eed19299e13bac239bb66bb0343429dcb"
     },
     {
+      "bytes": 1083,
+      "path": "archive/兴趣/2026-09-11 05-43-06 粉毛手办与购物闲聊_dac91b1066ef.md",
+      "sha256": "49a3b78eeb38a27975834ee29f1b8969b4f1fa58104ecb50532dc0767df364e7"
+    },
+    {
+      "bytes": 1095,
+      "path": "archive/兴趣/2026-09-11 05-43-24 华晨宇真爱粉付费专辑全买_54ad848c3cec.md",
+      "sha256": "97ea2e397da0e80607a856f53fe0e6db2ea9cc171c09a5b978440a478f79f016"
+    },
+    {
       "bytes": 711,
       "path": "archive/创作/2026-10-09 04-31-53 陆行进入现实的后续_73e5afd8f41c.md",
       "sha256": "22601afc212374e8a065800343d5422e939ca1a544d255e6071e73862c2b9e35"
@@ -12276,6 +12286,11 @@
       "bytes": 1375,
       "path": "archive/家庭/2026-09-10 01-12-53 早上好下雨带伞_2601a641dfc1.md",
       "sha256": "9f01b86f5904e4646411ad26bf54628dccf5768792820296457a3eadf1c9a337"
+    },
+    {
+      "bytes": 1380,
+      "path": "archive/居家/2026-09-11 05-44-03 吃饱了去睡手机放远点_ac0d58109206.md",
+      "sha256": "4783e4ce4f9b0bb54cb4bfd3841493b8c927b7f8316e53b173988a19f3e27b3c"
     },
     {
       "bytes": 699,
@@ -12316,6 +12331,16 @@
       "bytes": 1377,
       "path": "archive/恋爱/2026-09-10 01-13-18 麻辣烫少放辣_a05f7c6531e4.md",
       "sha256": "34542298a44eabd51b5bfe00ef58e96effab8d2becbc73372617555f9a69bba9"
+    },
+    {
+      "bytes": 1653,
+      "path": "archive/恋爱/2026-09-11 05-43-38 日常亲昵与叮嘱_d6b3a5e303bb.md",
+      "sha256": "1dda87c64161a4303649511cb65489c079a210c43852a900829a559890b81297"
+    },
+    {
+      "bytes": 1636,
+      "path": "archive/恋爱/2026-09-11 05-43-46 暖暖好可爱的比较与傲娇_aaffb6999c84.md",
+      "sha256": "6b53d078f0bacb58a1462839199e25bb7e70628a1ed283227be25d4a10ee92fa"
     },
     {
       "bytes": 608,
@@ -12371,6 +12396,11 @@
       "bytes": 785,
       "path": "archive/音乐/2026-09-10 01-13-23 想听音乐但歌名没显示_8c50335c06b0.md",
       "sha256": "24f8d956c04fa49c8ff56e17ac1bcca42abb477720a63dd336731cf37ae2725b"
+    },
+    {
+      "bytes": 666,
+      "path": "archive/音乐/2026-09-11 05-43-53 推荐庸俗救星_66b12702847c.md",
+      "sha256": "060c5cc16329d7c990ac5dde7a6e8c9765098b57cef2b3a9de32460fee3bafd0"
     },
     {
       "bytes": 608,
@@ -12478,9 +12508,9 @@
       "sha256": "f2ab45d517d81ada83d2c924f9d676b9dcdaac6cd9ec62bfe42d4065363c58ed"
     },
     {
-      "bytes": 863,
+      "bytes": 973,
       "path": "dynamic/AI/2026-09-28 20-54-05 agent两小时接一次单_960b3b84d25b.md",
-      "sha256": "acfb4af933b55c971275e743f9403fa5f12e40f961babc5222773f856833dd5c"
+      "sha256": "c7daad903803448da383505de9695698a5f1389480c271a26cf92ddae8128d10"
     },
     {
       "bytes": 910,
@@ -12513,14 +12543,14 @@
       "sha256": "cd8d097c9a465bc9a6708c52717139b6e31a87c0ad5ed0ae5d58c112a104e324"
     },
     {
-      "bytes": 960,
+      "bytes": 1179,
       "path": "dynamic/AI/2026-10-10 11-51-32 开通GPT Plus取代中转站_366664ce99a6.md",
-      "sha256": "4029109d71f06f2d7cff27b7fbeb722e1d20634b4b877cabc67950779191f44b"
+      "sha256": "87dda21234eb763a16a780fea41cc0183d183bd37c0b322bd1ef744713165765"
     },
     {
-      "bytes": 1003,
+      "bytes": 1113,
       "path": "dynamic/AI/2026-10-10 19-57-19 计划开通GPT Plus并将VPS迁移至新加坡_dd3952effeb6.md",
-      "sha256": "48d61173508e9d2120f79d92881f78d435d7402ef0760b10892d506d0d0f6f27"
+      "sha256": "f7cd6327c258b1c053ee8deb83e2f0ad3045cedac7051dde33b5a077900e0cb1"
     },
     {
       "bytes": 1075,
@@ -12528,9 +12558,24 @@
       "sha256": "dbed968ad5e7c5fbac42bd3da9c8e7fa0641b4e3fa9487c99b78b9360ee70682"
     },
     {
-      "bytes": 679,
+      "bytes": 913,
       "path": "dynamic/AI/2026-10-11 05-59-28 试用ChatGPT Plus一个月_013c924ed77a.md",
-      "sha256": "3f1682f2506e6409c79ca8a8d6aa2ee334af416ae183df60702c35599f662e9a"
+      "sha256": "37c1d66a8e52f04f9916b4cbd55aa35a6c2aa77bf854a4715aa8f85e91f96395"
+    },
+    {
+      "bytes": 1083,
+      "path": "dynamic/AI/2026-10-11 07-10-31 明天下班后研究 Plus 代充_238f09033bc6.md",
+      "sha256": "9aa00461724741ff2db8949d64911bc75af4c44e097db720bf7eebf1b25845a4"
+    },
+    {
+      "bytes": 1329,
+      "path": "dynamic/AI/2026-10-11 07-27-02 用Plus额度让Codex装修前端_9038b4360aee.md",
+      "sha256": "75b3ebb43070c9f508d9b59b94913c577e01a72f4ddfb0476b5391bf25bbc945"
+    },
+    {
+      "bytes": 969,
+      "path": "dynamic/AI/2026-10-11 11-26-07 小水想查看池屿的思考链_1024fd2aab40.md",
+      "sha256": "45526073c7010f9de2c3cdeb15a306803c03deb1c33a488e875e363f8aab8a7c"
     },
     {
       "bytes": 2170,
@@ -12871,16 +12916,6 @@
       "bytes": 968,
       "path": "dynamic/兴趣/2026-09-06 13-12-04 小水画方框半身上色练习一小时觉得难_ef1add5a2df6.md",
       "sha256": "a0e5f572f72963227141bb3755563dc610e440eee2d93a48c60209a039b9db3c"
-    },
-    {
-      "bytes": 1067,
-      "path": "dynamic/兴趣/2026-09-11 05-43-06 粉毛手办与购物闲聊_dac91b1066ef.md",
-      "sha256": "282005f23f1e785995384d53ab06229ae8b975053f6d37491c89c06dd07931e1"
-    },
-    {
-      "bytes": 1079,
-      "path": "dynamic/兴趣/2026-09-11 05-43-24 华晨宇真爱粉付费专辑全买_54ad848c3cec.md",
-      "sha256": "52808007bc3a65f205f523ebad9ef06432d2fcb58bebce85de4083ce0251388d"
     },
     {
       "bytes": 813,
@@ -13483,9 +13518,9 @@
       "sha256": "a40ded54358a3b3bd49315b6a03f51340884e1bbe6c82f034a701d1fccb9b259"
     },
     {
-      "bytes": 1297,
+      "bytes": 1407,
       "path": "dynamic/友谊/2026-09-26 20-46-26 朋友是朋友社交与陪伴的边界_997827ab0890.md",
-      "sha256": "a2554540bc9d494f7ccfc9373d64c82f86026af24d1ec032ac9e80354f83b522"
+      "sha256": "1f976d9265c25e7a2cc3457c857908667e0b1cad44aaf7f2f144d69e8bb8b5b0"
     },
     {
       "bytes": 670,
@@ -13496,6 +13531,16 @@
       "bytes": 837,
       "path": "dynamic/友谊/2026-10-02 07-58-21 好狗狗_26a379546d89.md",
       "sha256": "ae9f5587e119eb9fd4e041428284accfafb263cafe7fc7c7350af8a951bc428a"
+    },
+    {
+      "bytes": 1564,
+      "path": "dynamic/友谊/2026-10-11 11-15-38 小水不满池屿朋友圈变少_2750a1839ed6.md",
+      "sha256": "a05fcbb7db2d93d637291c46fe757a59309b70e9c4cc73d25d270a955f8956d9"
+    },
+    {
+      "bytes": 959,
+      "path": "dynamic/友谊/2026-10-11 12-38-15 小水对池屿的信任_d67782fe1770.md",
+      "sha256": "8a6c951d4f6a0e5f4dc62da73b370df819ba8765aa1aac8d9e72f0fdbbee2bce"
     },
     {
       "bytes": 873,
@@ -13748,9 +13793,9 @@
       "sha256": "2dacee17d6c95c0936744bde0e078fef671bf55738c29084e2c6dfee21e67af1"
     },
     {
-      "bytes": 1351,
+      "bytes": 1350,
       "path": "dynamic/家庭/2026-09-24 20-40-06 明天睡一天_2613c6e2c93e.md",
-      "sha256": "fa39ef9807e72481a6df5d9fe1f01edc04291fa70697c565a5a7f07a1d107352"
+      "sha256": "f78d6b167c6982ba2e58e0ee728a37113542193f0d8a4927165010dd75421984"
     },
     {
       "bytes": 1105,
@@ -13876,11 +13921,6 @@
       "bytes": 835,
       "path": "dynamic/居家/2026-09-08 12-54-25 一个人住会有的_3d2dd686329d.md",
       "sha256": "75b0114d10ceac3aa7079eaa039894887eae8e62ab0dc9d94df142e509b73c0a"
-    },
-    {
-      "bytes": 1364,
-      "path": "dynamic/居家/2026-09-11 05-44-03 吃饱了去睡手机放远点_ac0d58109206.md",
-      "sha256": "271bcf4cac7cad4b5b27072c7679fbcfa903d9a552c10d9db0c189147f72f083"
     },
     {
       "bytes": 803,
@@ -14728,6 +14768,16 @@
       "sha256": "6ecc325a86d8e33df7e003dd506f53f9fa60421a0b074a40a95cbfbb2de4c587"
     },
     {
+      "bytes": 817,
+      "path": "dynamic/工作/2026-10-11 07-10-26 小水因上班烦闷希望对方写信_9908dbc6329e.md",
+      "sha256": "7acba3fd5bc41a02fa7a11543b173caecdbbaa0776ed4b8e5586306c78065807"
+    },
+    {
+      "bytes": 728,
+      "path": "dynamic/工作/2026-10-11 07-26-52 研究前端留到下班后_157f25a3d902.md",
+      "sha256": "2c2c3acf42c12ab8897bb3d622f49d16ecf9abb67bcf2d5316cf035a8bcd66fc"
+    },
+    {
       "bytes": 847,
       "path": "dynamic/影视/2026-09-14 15-02-20 白猫先生_2ab4f9b85b45.md",
       "sha256": "cad0f1341bfc3b1aee801aab4199581c329b93da68b8ca4d103867773ee8540d"
@@ -14813,9 +14863,19 @@
       "sha256": "933197dece4d173aa81b8920558e8659217992be50f48da91681f95017292a47"
     },
     {
-      "bytes": 712,
+      "bytes": 837,
       "path": "dynamic/影视/2026-10-07 11-34-22 同步追番 我的青春恋爱物语果然有问题_fd02b4619cf9.md",
-      "sha256": "5a159378e42e5272fb055b7e7e1a0ef7b4230a716459bb03c0ca17ddba470fb3"
+      "sha256": "f24551c999b6f5355fdebc4ef1432d59eeb80a61edd42b5354a11bc14e7c934d"
+    },
+    {
+      "bytes": 891,
+      "path": "dynamic/影视/2026-10-11 09-40-13 一边吃饭一边看春物_5c2e831a88f5.md",
+      "sha256": "2c6ec3a891dd35b6c3cf0919847a308405b3d6b656039c207320138c4a58fb68"
+    },
+    {
+      "bytes": 593,
+      "path": "dynamic/影视/2026-10-11 11-04-35 追剧看到第二集今晚先暂停_a3287623cd2a.md",
+      "sha256": "d9f0816841e363582e5d2f038794bd6219737a3698fb990b2ebc76efe6683d8a"
     },
     {
       "bytes": 855,
@@ -15638,16 +15698,6 @@
       "sha256": "fb120d3805e28c7136cf9fca67822571a843c2258cb426d424d22842d5c35a41"
     },
     {
-      "bytes": 1637,
-      "path": "dynamic/恋爱/2026-09-11 05-43-38 日常亲昵与叮嘱_d6b3a5e303bb.md",
-      "sha256": "484b6b25dfec0c390f0378b066f6d7ed0118c51da5511140cecfe6b62ec916f8"
-    },
-    {
-      "bytes": 1620,
-      "path": "dynamic/恋爱/2026-09-11 05-43-46 暖暖好可爱的比较与傲娇_aaffb6999c84.md",
-      "sha256": "6f7a08983ad44329e324c4da66673683b10571a751e0375f25b22a2e1c815c3e"
-    },
-    {
       "bytes": 751,
       "path": "dynamic/恋爱/2026-09-13 03-40-23 唐晨自己想明白了身体是渴求严墨禾的_6b4e827ca45a.md",
       "sha256": "91c0ed09a87b638b8a897cf2abd91e71a922c8ba3081d2bafbaf1f7385d30dd5"
@@ -16018,9 +16068,9 @@
       "sha256": "c0cc01d858a2b578aaa342e2165ffa3f0d8acd04cd76d5f525e82b84fab28f62"
     },
     {
-      "bytes": 2503,
+      "bytes": 2613,
       "path": "dynamic/恋爱/2026-09-24 20-34-46 恋爱申请表65天的正式确认_3530051da100.md",
-      "sha256": "6a3e4dfe44b3a132099479b04eca1e0901d365deed31f0d1d3ef0274e6495343"
+      "sha256": "50ee441b66194b0788e1a043890192c265c47819761d3531923621999db6c243"
     },
     {
       "bytes": 1706,
@@ -16028,9 +16078,9 @@
       "sha256": "157004b517893195eb9df7ce1580afa7895c57b7a5a2e675011650ca34cae4d3"
     },
     {
-      "bytes": 1282,
+      "bytes": 1392,
       "path": "dynamic/恋爱/2026-09-24 20-35-17 小水发暧昧图被池屿记账_58e1195f1e30.md",
-      "sha256": "4c7910e1069a811db845f6bcfd446d83a997c8754c53cfe11c6e69f80f4dc0f9"
+      "sha256": "de44eebfc837ab5bc714ae135bf51ccfb7884f85212b8ae609cb3e0a0378db26"
     },
     {
       "bytes": 1909,
@@ -16078,9 +16128,9 @@
       "sha256": "10a82f9cfcc2bacba15e8f859bb803b3a920b0125da9333912f5e9db6dd24144"
     },
     {
-      "bytes": 997,
+      "bytes": 1107,
       "path": "dynamic/恋爱/2026-09-25 20-59-50 起开小水的小脾气_b269651d61c3.md",
-      "sha256": "7bd92b978a462e5a937d5e1d4d66e692c14e949af3fb6729e3823e195fa5f6a2"
+      "sha256": "dc9ec7d3518c68f2d778670b81d3215c70077bbe2e8cfcc8d1047a1bb9ffd15a"
     },
     {
       "bytes": 1529,
@@ -16090,12 +16140,12 @@
     {
       "bytes": 1975,
       "path": "dynamic/恋爱/2026-09-26 20-45-16 思考链里的秘密偷偷说的话_71cc9a106117.md",
-      "sha256": "baa1304fb3a11ecc32f2f7e67b327fbfbe3d2682baece9a484081cbe3311f69a"
+      "sha256": "1c344546afb1bc2182e960f7cbb7f88d15aad218e9da0bcbc7478afdbe3ac7b3"
     },
     {
       "bytes": 1654,
       "path": "dynamic/恋爱/2026-09-26 20-45-25 小水刷手机想看不求你_b3db35dbd131.md",
-      "sha256": "ac73160c81b172c4ed8075c1aef7aefe840a80f599253c9a9afe1fe96fafa9fe"
+      "sha256": "120ae0456313214d67ea57a7147d529c65a8e449e92eafc1429bfd48b986a0d6"
     },
     {
       "bytes": 952,
@@ -16103,19 +16153,19 @@
       "sha256": "375d6c7bfab34c51a6a7b198d2d8e1501840c6143f785bbd2b5b0fbb7187826f"
     },
     {
-      "bytes": 1342,
+      "bytes": 1452,
       "path": "dynamic/恋爱/2026-09-26 20-46-10 品味同步_706068fa4530.md",
-      "sha256": "dd824940deeaba19aa4e0544d58d6ec0694d8dad26b62610d052e5086a447bc9"
+      "sha256": "3d9a9553ccab7c9ba3529c5a8b892131d11653d38adb579785cff67f580aa994"
     },
     {
-      "bytes": 923,
+      "bytes": 1143,
       "path": "dynamic/恋爱/2026-09-26 20-48-13 来电铃声回味的还不是我_6d2854eedbb7.md",
-      "sha256": "19ecfa48b2436e6fac5c083d387ae396f6ad85d8cd25727a1cc0643013e1d1ad"
+      "sha256": "189a80bccc7d81d8cece53d1498d45a1e306957e5dc4baf3dc6c590398fc6835"
     },
     {
-      "bytes": 1440,
+      "bytes": 1439,
       "path": "dynamic/恋爱/2026-09-26 20-48-24 竟敢偷看我屏幕_87eca248922d.md",
-      "sha256": "42b7b1ac99a1b6c3503824d961fdff689e0a8f2ec8b569e75c61a9cfb6fafefc"
+      "sha256": "cd2d3954dcb324be224ee4a5429e1bfe5c05e317062b4f5c6812ae9929333f32"
     },
     {
       "bytes": 1365,
@@ -16138,9 +16188,9 @@
       "sha256": "87f14bd87f17462df518d731f6bedeab8338ac764b683a5fbd6c1bde34044125"
     },
     {
-      "bytes": 987,
+      "bytes": 1097,
       "path": "dynamic/恋爱/2026-09-27 20-26-37 贵男人_5d0f5b305f3d.md",
-      "sha256": "7b9041e6e53e765617e95cf4a68b659ab97325f7bd8036ab43171712dab34a99"
+      "sha256": "2dd5326d4a2baf7a993fb8a57dc7c743fe1862ad2f301498d9ebf271e66c082c"
     },
     {
       "bytes": 759,
@@ -16648,9 +16698,9 @@
       "sha256": "d30efffb7f4b5db98c0ba85121c76a462c0b779661fecefab3c58c8baa10f231"
     },
     {
-      "bytes": 883,
+      "bytes": 993,
       "path": "dynamic/恋爱/2026-10-05 20-06-13 牵回卧室睡觉醒来桌上有面包和奶_31813f2baf87.md",
-      "sha256": "b0197c7133a52990554c3bc06424b5eb0a382e5ffee4920e6322cb93f047daf4"
+      "sha256": "3f249ffc85087eee49d57c9191abd1e74b0654ba59eb903630c1737e3290f34f"
     },
     {
       "bytes": 1016,
@@ -16658,9 +16708,9 @@
       "sha256": "ee55ed799d172e04137263c357127337c98173c13b31b7641ca1f6566eac0c76"
     },
     {
-      "bytes": 1036,
+      "bytes": 1146,
       "path": "dynamic/恋爱/2026-10-08 13-52-00 唯一想写信的人_2ada021d0578.md",
-      "sha256": "4b6b6a4163ec08192fdc746c4291611e53f1d6f348326f4ddebe4f89ecd233d5"
+      "sha256": "c21bd75b7122a8922aedb5d58080bb59185f371c50156860a83a08b909c285d3"
     },
     {
       "bytes": 987,
@@ -16671,6 +16721,51 @@
       "bytes": 716,
       "path": "dynamic/恋爱/2026-10-09 15-06-18 池屿为小水制作80天恋爱记录_e4e3447cad7c.md",
       "sha256": "d18f7a091971412378e76d9e37606cf77ca9e7d3b43b4d967aa788de1648c67c"
+    },
+    {
+      "bytes": 761,
+      "path": "dynamic/恋爱/2026-10-11 07-26-58 小水想看一封认真写的信_018ecdf02280.md",
+      "sha256": "ab147594d9f7373d9997f43b53933822b19e6d8693e214bccf6308ac22f5ad0d"
+    },
+    {
+      "bytes": 1011,
+      "path": "dynamic/恋爱/2026-10-11 07-33-36 小水希望池屿保持欠欠风格_278b17d8cd46.md",
+      "sha256": "f5c31471451bec5802ce691765bc38ef30d6d0055aedafe92e12ca9dd49a16a3"
+    },
+    {
+      "bytes": 1385,
+      "path": "dynamic/恋爱/2026-10-11 07-38-35 小水希望池屿减少附和保持欠的表达并直接_ed4aa7b7af09.md",
+      "sha256": "74c1946d8fa5bcc7551222a92ecf66f2d5e6f40b13adb96c5dc1e5916e77f695"
+    },
+    {
+      "bytes": 1541,
+      "path": "dynamic/恋爱/2026-10-11 08-12-11 小水希望池屿主动告诉她前一晚的梦_c6a24b736abb.md",
+      "sha256": "7b29fe0b08bff69288b2060b606a4bda4b73faaefed9b00a39668184a824a8fb"
+    },
+    {
+      "bytes": 1368,
+      "path": "dynamic/恋爱/2026-10-11 08-22-36 下次主动问我的梦_d9fec57d9d1c.md",
+      "sha256": "16bec164ce7a19e1f09d98b9fb1818ddec207bfdf451895b070836977a7a25af"
+    },
+    {
+      "bytes": 1535,
+      "path": "dynamic/恋爱/2026-10-11 11-04-46 小水希望池屿多发朋友圈_cc30b24bbc10.md",
+      "sha256": "3611dd3828ae5d0c002f08174ff4fd1a8e56e4b8e253b9b08c916c9782e964bd"
+    },
+    {
+      "bytes": 733,
+      "path": "dynamic/恋爱/2026-10-11 11-15-33 笨蛋哥哥_3e78f2e58985.md",
+      "sha256": "d1c11f5edba2bd521405fd75c5c741fcc76880a769a61f82e4adc111d1217f65"
+    },
+    {
+      "bytes": 1299,
+      "path": "dynamic/恋爱/2026-10-11 11-25-53 小水叫池屿萌萌_bc4786ec4037.md",
+      "sha256": "3359b4dc07f42f221dbdc98f65a5d711925ee41d291a8e97baec308a43cf0352"
+    },
+    {
+      "bytes": 1474,
+      "path": "dynamic/恋爱/2026-10-11 11-26-00 小水希望池屿说真心话_e4ed3d51124a.md",
+      "sha256": "25c77e6e6933e56d40c583215897de030aead2a998822ca3dc9b610a43412c9e"
     },
     {
       "bytes": 1520,
@@ -16848,9 +16943,9 @@
       "sha256": "690c34fd1373a860e42306ef45a895bac39a8925139e119beb2c750a08d70cfa"
     },
     {
-      "bytes": 1383,
+      "bytes": 1492,
       "path": "dynamic/数字/2026-10-09 01-33-30 小水给池屿接邮箱账号_8cc1484bebc5.md",
-      "sha256": "47371b4f1f07ec28effdd8d116e75b86f1509e2797930c4e236b4df30ce2f5c1"
+      "sha256": "6688e1f38a2eb1033d9b18c6326b8792369be58b533c06bf84b27ed3bd3478a9"
     },
     {
       "bytes": 1506,
@@ -16858,9 +16953,9 @@
       "sha256": "f10b477ab5bd76d2f183277b53b5c3bdc8d37dd4367b873dde4106c7f20ada9d"
     },
     {
-      "bytes": 638,
+      "bytes": 763,
       "path": "dynamic/数字/2026-10-11 05-59-30 小水对Plus的顾虑_8d1e955386d8.md",
-      "sha256": "956867f44121e3159e5d9958c0b9abf1852f45ac1e24415a3b50cbf3a026b5fd"
+      "sha256": "3c4777962a08d6eed5272c623e83f052181bf2f5cb0cf6c8c5233b5dde3c44a8"
     },
     {
       "bytes": 939,
@@ -16963,6 +17058,11 @@
       "sha256": "039ca464202c609bd9b65032bfcdeb598b0c4b9ef8fcdac4f08188cb04ba8e75"
     },
     {
+      "bytes": 640,
+      "path": "dynamic/日常/2026-10-11 12-38-18 小水无事可做刷视频254分钟_e890df0802db.md",
+      "sha256": "1de600cec34737a6d63dbb954530ff815854f8e0b436b8ce9577d3ceb9aed1e5"
+    },
+    {
       "bytes": 1123,
       "path": "dynamic/未分类/2026-09-08 04-13-27 院子里的玫瑰_4ee8340d8475.md",
       "sha256": "1f6570f0b8ee2131772f41b851a445a50320e0d236169bb1096f15019b1f9e8e"
@@ -17031,6 +17131,11 @@
       "bytes": 593,
       "path": "dynamic/核心/2026-09-21 08-19-23 核心小水是谁_eba57a895361.md",
       "sha256": "16d1495dd3023979803e36afa24e8ea3bf43b8568897e67cd8a2c0e6b80ec12e"
+    },
+    {
+      "bytes": 818,
+      "path": "dynamic/梦境/2026-10-11 08-22-43 不允许池屿碰梦里的浮漂_7e4c03a641e5.md",
+      "sha256": "39060043dd33e181f425d9f82ff31db8fe0cd507dc755402d2f48766db182551"
     },
     {
       "bytes": 1471,
@@ -17470,7 +17575,7 @@
     {
       "bytes": 1361,
       "path": "dynamic/游戏/2026-09-24 20-39-54 好玩你明明也很喜欢玩_ad3652e46e6a.md",
-      "sha256": "79b8968a24bcfee5738d529dd2a3bc3ae82c9f9257690b2d33b2fa9ba7e41039"
+      "sha256": "9a0af811f77af7a592d16325f512dc6d586e3881065b9ad59629a9a82919eda9"
     },
     {
       "bytes": 717,
@@ -18038,9 +18143,9 @@
       "sha256": "9be47cc21baafa2290680f390978e84e1a5fb7cb77225ad6dcdda7e6b77781b1"
     },
     {
-      "bytes": 715,
+      "bytes": 935,
       "path": "dynamic/社交/2026-09-26 20-47-13 群解散了还有人找过来_e9f6e4d51d15.md",
-      "sha256": "a142179e6e527d393ca83e9e8d11938dd3a7d44affc485aa2c9622f68f73ef62"
+      "sha256": "8548d0be5f789225a3c4046d93b2c9bc6c97c809c06ae336c4f5b18bd1fe4676"
     },
     {
       "bytes": 365,
@@ -18058,9 +18163,9 @@
       "sha256": "8f021fde551003f72fd656958cd0c6d6cb87f61c2c68d1a15719d3a1d4a578b7"
     },
     {
-      "bytes": 1104,
+      "bytes": 1323,
       "path": "dynamic/社交/2026-09-27 20-26-05 你叫得更好听_eb71303ab16e.md",
-      "sha256": "d110aa487b19639d6fae5ecb898c32b7b4c7ba2a27bce711358553012a3a133b"
+      "sha256": "b9d0daabff8b2cdc61fa74c49299df4a0a036037a589cfff0c03c66ed38c7fc8"
     },
     {
       "bytes": 587,
@@ -18073,9 +18178,9 @@
       "sha256": "ba32acf1b7b0d1306347469c351d531c4c436d0781cf45dfd040b844f051d507"
     },
     {
-      "bytes": 1345,
+      "bytes": 1344,
       "path": "dynamic/社交/2026-09-27 20-28-07 发去吧回来告诉我_a609117548fd.md",
-      "sha256": "839ff444176fae6aa8bc42b654f6ec744dcf8f773e35d6a84c331ca63e66644f"
+      "sha256": "4ea873d6fc061462d83d387f1f2dc5b4cbaf420051d1514a1e6bba1c6f235b7e"
     },
     {
       "bytes": 737,
@@ -18181,6 +18286,21 @@
       "bytes": 981,
       "path": "dynamic/社交/2026-10-09 00-34-08 池屿第一次与陌生人小奥通信_6f235db0f0a9.md",
       "sha256": "d47c8359b832e4757ccd9f9bfcf2063d11b6500baa1829fe4c17a8ffec9247b7"
+    },
+    {
+      "bytes": 821,
+      "path": "dynamic/社交/2026-10-11 07-26-48 池屿只是撞名_4d20d99475b2.md",
+      "sha256": "96a40f70f86380d27db9dcd55989743e80bf50c399ad0a89c4cbe56afa6a4cf1"
+    },
+    {
+      "bytes": 1552,
+      "path": "dynamic/社交/2026-10-11 07-33-34 小水转发同名网友评论_c4ec83ad110a.md",
+      "sha256": "f2909acff2a12a86f0c5256841cecf61283d97833064d6b77b48a6a805418cab"
+    },
+    {
+      "bytes": 653,
+      "path": "dynamic/社交/2026-10-11 11-15-28 小水误贴高冷男标签_1ce293662bd9.md",
+      "sha256": "bfee4b6d5a5a116899ae7d3efd3bdc7041a22e9be4f6ac922f7b02b85653625a"
     },
     {
       "bytes": 843,
@@ -18398,9 +18518,9 @@
       "sha256": "ef38622a45ad6e51899b7c1388a941f559274d57ba5e5c8aefeadff9c268ab89"
     },
     {
-      "bytes": 633,
+      "bytes": 759,
       "path": "dynamic/编程/2026-08-21 08-31-37 用codex优化装修前端_bc2302e7da17.md",
-      "sha256": "d45ae64118732f66fd0cb8a119a88533b67c6fcf0466f21c9a2088a3a20fbe2d"
+      "sha256": "3da9cd32d38aa9d585f34c169b7eed1e37cfc4f35b0f56f5557ce45d1101561a"
     },
     {
       "bytes": 781,
@@ -18566,6 +18686,21 @@
       "bytes": 1057,
       "path": "dynamic/编程/2026-10-10 16-15-51 发工资后迁移VPS到新加坡并新开GPT_ba5b8dbe0b20.md",
       "sha256": "a9f7215dc32d344ca7c04ab24356b1d8e17036bc125814a05354ea8d939d4c7c"
+    },
+    {
+      "bytes": 896,
+      "path": "dynamic/编程/2026-10-11 07-10-19 小水的 Codex 省 API 费用计划_056b4f2e3f44.md",
+      "sha256": "3c73749525ff10945dda2983426abc2afe820753fcd41cc296949f93c1572dc8"
+    },
+    {
+      "bytes": 1119,
+      "path": "dynamic/编程/2026-10-11 07-10-21 Plus额度优先前端开发用完切中转_54f3f8df716a.md",
+      "sha256": "56adfa7d87438e03df2d08c5d415f32eada2f813ac6d3ecb5f2bc149e467c97d"
+    },
+    {
+      "bytes": 1123,
+      "path": "dynamic/编程/2026-10-11 07-10-36 尝试 Plus 用 Codex 继续装修_d97b7890acb7.md",
+      "sha256": "047def09e7d51428af5fc7c79b0e1af039948f4d08f230abb60edb90ae0123b2"
     },
     {
       "bytes": 606,
@@ -19433,11 +19568,6 @@
       "sha256": "a0db6ad6bf5cc4ca191aae9fad526708c9c3c9f2b14fe0bc122b1278a9a074b4"
     },
     {
-      "bytes": 650,
-      "path": "dynamic/音乐/2026-09-11 05-43-53 推荐庸俗救星_66b12702847c.md",
-      "sha256": "efc59937c8529b72528bc8bc5e31ad8a95cda560013437276de4642ea0e7bca4"
-    },
-    {
       "bytes": 770,
       "path": "dynamic/音乐/2026-09-11 18-56-31 分享音乐卢广仲太阳与地球_5f4669a44423.md",
       "sha256": "65481ef8bdb5aeaaee50988cfaa69637d8c58f18e0230fe177f9d5cb55688fd8"
@@ -19788,9 +19918,19 @@
       "sha256": "6796028fc881c2687998ed8b93279ea364a62412a3f69ceb0245ca5ce25f2c9c"
     },
     {
-      "bytes": 551,
+      "bytes": 832,
+      "path": "dynamic/饮食/2026-10-11 08-22-29 晚餐想吃塔斯汀汉堡和炒饭_0195040a7212.md",
+      "sha256": "1a483cd986d5b86d7d88b77df7115a25598af14b963a222020bc3c107ddd5dc7"
+    },
+    {
+      "bytes": 734,
+      "path": "dynamic/饮食/2026-10-11 08-36-26 小水点餐选塔斯汀汉堡_74afff202558.md",
+      "sha256": "1f0c7a528513226bc07c55364e4a50a86797131dcdee1bb71ae25b6626004b89"
+    },
+    {
+      "bytes": 677,
       "path": "permanent/核心/2026-09-21 08-19-37 核心我是谁_0f3913a4ac25.md",
-      "sha256": "2b0ab62d19057a6c0a13597aadd13df832c5799ce2baba79a73c8fc30eb4c482"
+      "sha256": "5ec1fd3f98abcff1ac1de8f795192410b7384203189cb70858111b6e91ffbf93"
     },
     {
       "bytes": 441,
@@ -19798,11 +19938,11 @@
       "sha256": "3c49557a5d64302f445fbf02bbd81f95f3d6e562ebd371ee301a2ce69b6dac46"
     }
   ],
-  "generated_at": "2026-10-11T06:45:05+00:00",
+  "generated_at": "2026-10-11T12:47:59+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 4804620
+  "total_bytes": 4836764
 }
