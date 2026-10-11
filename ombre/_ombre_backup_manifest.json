@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3956,
+  "file_count": 3959,
   "files": [
     {
       "bytes": 32768,
@@ -12263,6 +12263,11 @@
       "sha256": "0b0381b70171858a55ba314081742b7eed19299e13bac239bb66bb0343429dcb"
     },
     {
+      "bytes": 711,
+      "path": "archive/创作/2026-10-09 04-31-53 陆行进入现实的后续_73e5afd8f41c.md",
+      "sha256": "22601afc212374e8a065800343d5422e939ca1a544d255e6071e73862c2b9e35"
+    },
+    {
       "bytes": 1193,
       "path": "archive/友谊/2026-09-07 01-27-41 布丁失踪事件_18f8d4bee926.md",
       "sha256": "9273608200708276132c3cfa523f93368d21f77aabf17a606bb01fc9e4f35be2"
@@ -12291,6 +12296,11 @@
       "bytes": 706,
       "path": "archive/工作/2026-10-09 12-51-21 小水参加绩效答辩_39a7cdd7856e.md",
       "sha256": "a9d99695dea69a04eebb0a8f635c6d720b81d4f6decf6f1d222c1bfcdad27aa9"
+    },
+    {
+      "bytes": 677,
+      "path": "archive/心理/2026-08-13 12-55-57 用户偏好_8e8c62244fc2.md",
+      "sha256": "c3b660f65fa6bb8d4dd17604c8eddcd7c2c98ffa975eb6527d903d25b25339e8"
     },
     {
       "bytes": 1113,
@@ -12351,6 +12361,11 @@
       "bytes": 1517,
       "path": "archive/生活/2026-09-07 05-46-04 下午在工位困倦发呆_dc5d46f49a1b.md",
       "sha256": "7f1ec61888fc3cb93fb67fb37b6d69e48ce3ed159f4cb747b7533539dd64d937"
+    },
+    {
+      "bytes": 616,
+      "path": "archive/身心/2026-08-13 12-57-53 用户性格_c0d9ef0baa9b.md",
+      "sha256": "53227163563e4c9ddb0554ebc848d8ae1ed10601a113da2ada6a74a74acbf0c2"
     },
     {
       "bytes": 785,
@@ -12498,14 +12513,24 @@
       "sha256": "cd8d097c9a465bc9a6708c52717139b6e31a87c0ad5ed0ae5d58c112a104e324"
     },
     {
-      "bytes": 852,
+      "bytes": 960,
       "path": "dynamic/AI/2026-10-10 11-51-32 开通GPT Plus取代中转站_366664ce99a6.md",
-      "sha256": "33cac79d73cafe954ec670c29391f431f1acd1f13ea451b6bd0301aa3f9868ff"
+      "sha256": "4029109d71f06f2d7cff27b7fbeb722e1d20634b4b877cabc67950779191f44b"
     },
     {
-      "bytes": 893,
+      "bytes": 1003,
       "path": "dynamic/AI/2026-10-10 19-57-19 计划开通GPT Plus并将VPS迁移至新加坡_dd3952effeb6.md",
-      "sha256": "45e9a0eb5c27f783353f4f6409761673cf80c000ee09431ccc39669157950aa7"
+      "sha256": "48d61173508e9d2120f79d92881f78d435d7402ef0760b10892d506d0d0f6f27"
+    },
+    {
+      "bytes": 1075,
+      "path": "dynamic/AI/2026-10-11 01-52-56 VPS迁移新加坡并开通GPT Plus_b79742d1cab9.md",
+      "sha256": "dbed968ad5e7c5fbac42bd3da9c8e7fa0641b4e3fa9487c99b78b9360ee70682"
+    },
+    {
+      "bytes": 679,
+      "path": "dynamic/AI/2026-10-11 05-59-28 试用ChatGPT Plus一个月_013c924ed77a.md",
+      "sha256": "3f1682f2506e6409c79ca8a8d6aa2ee334af416ae183df60702c35599f662e9a"
     },
     {
       "bytes": 2170,
@@ -13421,11 +13446,6 @@
       "bytes": 1055,
       "path": "dynamic/创作/2026-10-09 04-31-43 住在屏幕里的人_9b0edd5b272d.md",
       "sha256": "ff12c340d58951cdf03be9589c809a3b789f92634ac12e149c3ed397bccc749f"
-    },
-    {
-      "bytes": 710,
-      "path": "dynamic/创作/2026-10-09 04-31-53 陆行进入现实的后续_73e5afd8f41c.md",
-      "sha256": "b455c366ca9c8b55867ce87d62ed54c296bc347b481bdde57872a178f71d9e60"
     },
     {
       "bytes": 1186,
@@ -14796,11 +14816,6 @@
       "bytes": 712,
       "path": "dynamic/影视/2026-10-07 11-34-22 同步追番 我的青春恋爱物语果然有问题_fd02b4619cf9.md",
       "sha256": "5a159378e42e5272fb055b7e7e1a0ef7b4230a716459bb03c0ca17ddba470fb3"
-    },
-    {
-      "bytes": 676,
-      "path": "dynamic/心理/2026-08-13 12-55-57 用户偏好_8e8c62244fc2.md",
-      "sha256": "7bd3eed01bcefa8080ebef6bccbdb1184cd3f567196cbc7715f4733c7292ac4c"
     },
     {
       "bytes": 855,
@@ -16843,6 +16858,11 @@
       "sha256": "f10b477ab5bd76d2f183277b53b5c3bdc8d37dd4367b873dde4106c7f20ada9d"
     },
     {
+      "bytes": 638,
+      "path": "dynamic/数字/2026-10-11 05-59-30 小水对Plus的顾虑_8d1e955386d8.md",
+      "sha256": "956867f44121e3159e5d9958c0b9abf1852f45ac1e24415a3b50cbf3a026b5fd"
+    },
+    {
       "bytes": 939,
       "path": "dynamic/数码/2026-09-30 09-56-25 明早假期不弹提醒_4707de13dabb.md",
       "sha256": "76fcbdac527692edbe9e657462d5f87ae351fc5a8e4df28909ea728a7bde5212"
@@ -18543,9 +18563,9 @@
       "sha256": "b3646e53e810afac8250d63804c2030b20796142d986c5e757705134c591f07b"
     },
     {
-      "bytes": 948,
+      "bytes": 1057,
       "path": "dynamic/编程/2026-10-10 16-15-51 发工资后迁移VPS到新加坡并新开GPT_ba5b8dbe0b20.md",
-      "sha256": "2d9b58cd707bdb32fdc2f90fdf26776cab5d3aa910e86a0ad4230a37407b3888"
+      "sha256": "a9f7215dc32d344ca7c04ab24356b1d8e17036bc125814a05354ea8d939d4c7c"
     },
     {
       "bytes": 606,
@@ -18841,11 +18861,6 @@
       "bytes": 1001,
       "path": "dynamic/购物/2026-10-02 14-04-24 买小熊抱枕_800c13fc5619.md",
       "sha256": "3e58b3762269972e928f8880b93e83d1dd01e5d2372bcb47789426114c7620f0"
-    },
-    {
-      "bytes": 615,
-      "path": "dynamic/身心/2026-08-13 12-57-53 用户性格_c0d9ef0baa9b.md",
-      "sha256": "e71766fe83fec46c6d0c6760c1ac46ce4f73034d987ed6f703ab19fe8ee682ab"
     },
     {
       "bytes": 1087,
@@ -19783,11 +19798,11 @@
       "sha256": "3c49557a5d64302f445fbf02bbd81f95f3d6e562ebd371ee301a2ce69b6dac46"
     }
   ],
-  "generated_at": "2026-10-11T00:42:17+00:00",
+  "generated_at": "2026-10-11T06:45:05+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 4801898
+  "total_bytes": 4804620
 }
