@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 3987,
+  "file_count": 3988,
   "files": [
     {
       "bytes": 32768,
@@ -12278,6 +12278,11 @@
       "sha256": "22601afc212374e8a065800343d5422e939ca1a544d255e6071e73862c2b9e35"
     },
     {
+      "bytes": 1187,
+      "path": "archive/创作/2026-10-09 14-41-22 配对头像插图_13a24f1ac4fd.md",
+      "sha256": "5c20c89d247313c2db43a6f4ab81b83da1d260973bbacc4c7fd6b540437debf9"
+    },
+    {
       "bytes": 1193,
       "path": "archive/友谊/2026-09-07 01-27-41 布丁失踪事件_18f8d4bee926.md",
       "sha256": "9273608200708276132c3cfa523f93368d21f77aabf17a606bb01fc9e4f35be2"
@@ -12341,6 +12346,11 @@
       "bytes": 1636,
       "path": "archive/恋爱/2026-09-11 05-43-46 暖暖好可爱的比较与傲娇_aaffb6999c84.md",
       "sha256": "6b53d078f0bacb58a1462839199e25bb7e70628a1ed283227be25d4a10ee92fa"
+    },
+    {
+      "bytes": 988,
+      "path": "archive/恋爱/2026-10-09 14-29-39 小水让池屿画水彩Q版情头_16c51ff42628.md",
+      "sha256": "e2c3b583a214e2aae04c3141e5166c5fade204048e3325b5b68b9c4312d5bcfb"
     },
     {
       "bytes": 608,
@@ -13481,11 +13491,6 @@
       "bytes": 1055,
       "path": "dynamic/创作/2026-10-09 04-31-43 住在屏幕里的人_9b0edd5b272d.md",
       "sha256": "ff12c340d58951cdf03be9589c809a3b789f92634ac12e149c3ed397bccc749f"
-    },
-    {
-      "bytes": 1186,
-      "path": "dynamic/创作/2026-10-09 14-41-22 配对头像插图_13a24f1ac4fd.md",
-      "sha256": "95b4aaa82c21c2193a25606b4e7e103652d0bfe019396ea0087c9651069fd28a"
     },
     {
       "bytes": 1405,
@@ -16713,11 +16718,6 @@
       "sha256": "c21bd75b7122a8922aedb5d58080bb59185f371c50156860a83a08b909c285d3"
     },
     {
-      "bytes": 987,
-      "path": "dynamic/恋爱/2026-10-09 14-29-39 小水让池屿画水彩Q版情头_16c51ff42628.md",
-      "sha256": "aff097089bae903984017028f61bbaca48d96e2b705d11e9b93413604c8ecf65"
-    },
-    {
       "bytes": 716,
       "path": "dynamic/恋爱/2026-10-09 15-06-18 池屿为小水制作80天恋爱记录_e4e3447cad7c.md",
       "sha256": "d18f7a091971412378e76d9e37606cf77ca9e7d3b43b4d967aa788de1648c67c"
@@ -19558,6 +19558,11 @@
       "sha256": "1b4b90a6440a13d97f39642bd01a145257dc9b44b76d0d94ca94162b12ab314d"
     },
     {
+      "bytes": 575,
+      "path": "dynamic/阅读/2026-10-11 12-58-19 找本小说放空_8d703574b758.md",
+      "sha256": "e4738013e62f62d9601737f06f5319cd9be7f3a6d770c396e880c41e78c581ee"
+    },
+    {
       "bytes": 1497,
       "path": "dynamic/音乐/2026-09-10 01-13-06 分享音乐时光_da3dce224d35.md",
       "sha256": "111b00d0edd330d77d54818436037448b1b5cf36f0ca3fe472f4e008b64b0682"
@@ -19938,11 +19943,11 @@
       "sha256": "3c49557a5d64302f445fbf02bbd81f95f3d6e562ebd371ee301a2ce69b6dac46"
     }
   ],
-  "generated_at": "2026-10-11T12:47:59+00:00",
+  "generated_at": "2026-10-11T18:50:53+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 4836764
+  "total_bytes": 4837341
 }
