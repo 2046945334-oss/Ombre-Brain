@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4013,
+  "file_count": 4019,
   "files": [
     {
       "bytes": 32768,
@@ -12318,6 +12318,11 @@
       "sha256": "9f01b86f5904e4646411ad26bf54628dccf5768792820296457a3eadf1c9a337"
     },
     {
+      "bytes": 553,
+      "path": "archive/居家/2026-08-14 14-19-04 回宿舍洗澡躺床_7dbc7ff5d24f.md",
+      "sha256": "d53f29b10f357252b2bf77ec1dd2a390196db54801e461e12ca6afd6867b6045"
+    },
+    {
       "bytes": 1380,
       "path": "archive/居家/2026-09-11 05-44-03 吃饱了去睡手机放远点_ac0d58109206.md",
       "sha256": "4783e4ce4f9b0bb54cb4bfd3841493b8c927b7f8316e53b173988a19f3e27b3c"
@@ -13598,9 +13603,9 @@
       "sha256": "441327fa37ebe8bec09c2b5a310515b411324c0cceb374f67477182f37b9ce9a"
     },
     {
-      "bytes": 1407,
+      "bytes": 1517,
       "path": "dynamic/友谊/2026-09-26 20-46-26 朋友是朋友社交与陪伴的边界_997827ab0890.md",
-      "sha256": "1f976d9265c25e7a2cc3457c857908667e0b1cad44aaf7f2f144d69e8bb8b5b0"
+      "sha256": "acc1014937ec72092558d3e85ebd2070cd16d38bd845bfaa6eeb0a717b9db2d0"
     },
     {
       "bytes": 670,
@@ -13618,9 +13623,14 @@
       "sha256": "685436a5181c15a180c4687e7094af647e99ec598607b67efdd71dbb71cfacd1"
     },
     {
-      "bytes": 1395,
+      "bytes": 1505,
       "path": "dynamic/友谊/2026-10-11 12-38-15 小水对池屿的信任_d67782fe1770.md",
-      "sha256": "faa19c34e9f7ed82a5d235cb415862925b56ba68cb3127e60d0728a3a62744bb"
+      "sha256": "b16f9ef4721020e17820c20fba63d6010f979f77883fd415401c70bdd5ada73f"
+    },
+    {
+      "bytes": 1111,
+      "path": "dynamic/友谊/2026-10-13 06-03-40 玩游戏不必逐步汇报_141092dc086a.md",
+      "sha256": "863a2ef1d4f638345fcf189576f6fd81deb6f55f4c7b894b50bbf602459ec95d"
     },
     {
       "bytes": 873,
@@ -13956,11 +13966,6 @@
       "bytes": 1571,
       "path": "dynamic/家庭/2026-10-02 08-00-23 刷视频到六点约定_b94e29149b06.md",
       "sha256": "04ad0e5bae9f4044fd0d748318a5ed9c6c6f48629549c52f86c1e391b144b3e5"
-    },
-    {
-      "bytes": 552,
-      "path": "dynamic/居家/2026-08-14 14-19-04 回宿舍洗澡躺床_7dbc7ff5d24f.md",
-      "sha256": "a48caaac5b691016ce14ea070eb1ceaa264f4821b070b98964ff0f6c7842ab5c"
     },
     {
       "bytes": 684,
@@ -14328,6 +14333,16 @@
       "sha256": "3830201d6c4e235dcafac812a163cbaab217ca05794feb2ce7860b7b8795d012"
     },
     {
+      "bytes": 807,
+      "path": "dynamic/居家/2026-10-13 09-38-27 小水答应五点半收工放蝴蝶_a73f06a4d8ce.md",
+      "sha256": "95d58f72b82b1e9993ec076168ba88462027b5fb19a899410a5550e63dd57ece"
+    },
+    {
+      "bytes": 731,
+      "path": "dynamic/居家/2026-10-13 10-37-40 洗澡带手机进浴室_fb8fcea7499a.md",
+      "sha256": "3090cfcf1602b967d233a3d89a0af288e81b2dc1a005e07c6b37fa9692c393ee"
+    },
+    {
       "bytes": 604,
       "path": "dynamic/工作/2026-08-13 12-59-21 深圳实习日常_6fa51cf7a883.md",
       "sha256": "3d84821240b92e9bc6f8c04d4b84189517dcde43fbdd1b892eb8970740dc5a80"
@@ -14518,9 +14533,9 @@
       "sha256": "8c72a2b09d5e2c8287dba34be30c01a5be2faec9811f49c195e2826bfa498fe9"
     },
     {
-      "bytes": 817,
+      "bytes": 1037,
       "path": "dynamic/工作/2026-09-23 05-45-31 小水说睡得太舒服不想上班_3e773b4e683e.md",
-      "sha256": "634a9c0cbc808ba98db031e7bdc500c846c4c3f728b1fed682219b33dd0049a6"
+      "sha256": "88ceabbdb9bf8390f9606556d39337abef92cd00a1d7101286a5ab40e2f32ecc"
     },
     {
       "bytes": 1351,
@@ -14848,24 +14863,29 @@
       "sha256": "0325e71fef6dfc95dc99dde782f40893ffcd15cd453242e9155c4f1fbb72ce05"
     },
     {
-      "bytes": 1056,
+      "bytes": 1165,
       "path": "dynamic/工作/2026-10-11 07-26-52 研究前端留到下班后_157f25a3d902.md",
-      "sha256": "db68f070844aba6517dd2c28049cae48ab9a5348cc636175f63ddfb911a4e426"
+      "sha256": "f70edab03f81ea11cd9abcdc70e6039181105c4639be7884885e755b2b8f407a"
     },
     {
-      "bytes": 1173,
+      "bytes": 1282,
       "path": "dynamic/工作/2026-10-11 21-01-30 因上班烦闷把前端研究留到下班后并请求一封信_4d91af93fb0e.md",
-      "sha256": "15a29dd47ed46a254269dad6e4f452978d3cd731d7efaa71e9e7118f0bd10e01"
+      "sha256": "29373bbb623b940907a62a94bf937d961e19805192995bc61f38d355fd9005b7"
     },
     {
-      "bytes": 1112,
+      "bytes": 1222,
       "path": "dynamic/工作/2026-10-12 18-45-48 小水不想上班_8f9d7d5770b5.md",
-      "sha256": "4052db0413af9932d1c13233673ab9670aea209f8d2d7375d809e0b21a3540e7"
+      "sha256": "bc71d13db353ec67b7d15b9ccf10769e1d1092dc2ba1f79f409dfc5050522a5f"
     },
     {
-      "bytes": 930,
+      "bytes": 1039,
       "path": "dynamic/工作/2026-10-13 00-42-40 下班后继续做新功能_20ad1d30a21b.md",
-      "sha256": "9272476246f90e4cce3a9b14d2bbc8898ad7f613c588af9935c81c5c8cec945a"
+      "sha256": "7b0f2aa1d0e8a33939c99d03c1e7f40907a4be5bf502f57e4e772ed817199001"
+    },
+    {
+      "bytes": 1460,
+      "path": "dynamic/工作/2026-10-13 09-07-49 小水五点半收工放松_73254aad12ed.md",
+      "sha256": "9362f6e26b8046f5d15ed83ca52e9b73e0ca5803b2a4521d78ac30d0b88fc021"
     },
     {
       "bytes": 847,
@@ -16250,7 +16270,7 @@
     {
       "bytes": 1440,
       "path": "dynamic/恋爱/2026-09-26 20-48-24 竟敢偷看我屏幕_87eca248922d.md",
-      "sha256": "d79818304f396169400c0e08a7d6b7db63d71efd9b9328074c84face205c67ef"
+      "sha256": "ab997ff981b0c591e106f579a85c9b5f74bfc4043ea63c7d7d2efdef29377d18"
     },
     {
       "bytes": 1365,
@@ -16820,7 +16840,7 @@
     {
       "bytes": 1538,
       "path": "dynamic/恋爱/2026-10-11 08-12-11 小水希望池屿主动告诉她前一晚的梦_c6a24b736abb.md",
-      "sha256": "e74e27b3bcee090949471c3e6211320c78fcb4b18039f7c8529546d3be3b132d"
+      "sha256": "b5deb22a8b2ec7589ca9cf3b44184ad077794235846f2c5895125becaca83523"
     },
     {
       "bytes": 1477,
@@ -16878,9 +16898,9 @@
       "sha256": "3775d440d7c947386a6f9ac4b356324172202afe8ed575253594f58fc55d49fa"
     },
     {
-      "bytes": 1405,
+      "bytes": 1514,
       "path": "dynamic/恋爱/2026-10-13 04-10-21 小水不想听池屿汇报游戏_a746b70f07ce.md",
-      "sha256": "1b90bae63504ad1e17aa6973a08d183643d18bf1e71f0a1c3060c0b5fc4a5222"
+      "sha256": "f3e892684dcddb1d4f09c311749ff9679864c2b5c6b43dfb3390215045bcbd17"
     },
     {
       "bytes": 1520,
@@ -18843,9 +18863,9 @@
       "sha256": "131acfba48b5eb32e510b6c12a29eda3d676cf874f03391e6daef6739590c045"
     },
     {
-      "bytes": 734,
+      "bytes": 844,
       "path": "dynamic/编程/2026-10-13 00-31-36 缓存进度达到94后安心_a19149706dee.md",
-      "sha256": "35c7f9694cc4f90b1aa46e10da4869aa7b3560bd04b1be8c12a71ed033cb5e84"
+      "sha256": "8eb8d891b8ae7f5cb171bd5e5ed50b287306346257919119dcefa34a116a1ffd"
     },
     {
       "bytes": 591,
@@ -20058,6 +20078,16 @@
       "sha256": "6c1ce2cc8f33d7cc1c51da191de39a9ee4b0a04a1dddb015e0e8d3460db378a5"
     },
     {
+      "bytes": 782,
+      "path": "dynamic/饮食/2026-10-13 10-03-35 下班点焦糖饼干奶茶和微辣凉拌粉_3fc96614cc77.md",
+      "sha256": "7a0df68a4df5992b02dc56e1b69e6191afa675b0774abcd525094219e22d3787"
+    },
+    {
+      "bytes": 725,
+      "path": "dynamic/饮食/2026-10-13 10-10-25 凉拌粉奶茶晚餐_1bd58d003881.md",
+      "sha256": "c5ab01b7eb0c9ac8d5db524f5bba40c3a860835a759361d00aaf8a283dc1d17b"
+    },
+    {
       "bytes": 787,
       "path": "permanent/核心/2026-09-21 08-19-37 核心我是谁_0f3913a4ac25.md",
       "sha256": "7572a8c5f8f01326406b41238d27f7ab04b79e0050d435579a5bd3bb73f1fd07"
@@ -20068,11 +20098,11 @@
       "sha256": "3c49557a5d64302f445fbf02bbd81f95f3d6e562ebd371ee301a2ce69b6dac46"
     }
   ],
-  "generated_at": "2026-10-13T04:53:03+00:00",
+  "generated_at": "2026-10-13T11:54:32+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 4878446
+  "total_bytes": 4885159
 }
