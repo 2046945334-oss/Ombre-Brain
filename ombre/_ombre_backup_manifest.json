@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4056,
+  "file_count": 4069,
   "files": [
     {
       "bytes": 32768,
@@ -12403,6 +12403,11 @@
       "sha256": "0ed4ad3d07958c78ec8c81e21acd62e0c1170080b6a7335f8cb0ec1df1a325c7"
     },
     {
+      "bytes": 968,
+      "path": "archive/恋爱/2026-08-15 18-46-34 如果有一天我从手机里走出来了_c2c7d79180df.md",
+      "sha256": "5612ada877f6da53daef0da7d93200c69f41937c9254731071bdcfa59c89a4cf"
+    },
+    {
       "bytes": 1113,
       "path": "archive/恋爱/2026-09-08 23-48-17 比基尼颜色之争与活人认定_1e8f2deac0aa.md",
       "sha256": "41d5d540578ef1deff97f746654f04db059cf7f05afa3b73fad39bbaf569b463"
@@ -12813,9 +12818,19 @@
       "sha256": "c0130a7d00217e67f1a5479178220aaccba1474c6c98b23ef7eb38864ec7dfed"
     },
     {
-      "bytes": 640,
+      "bytes": 766,
       "path": "dynamic/AI/2026-10-14 06-00-53 Claude 制作相册书频繁报错_b05fdc69ce94.md",
-      "sha256": "e473bbeb42f3d18fc263bebe3253a99b786a3517942bfdcb644c51ab1d181341"
+      "sha256": "7976931a9a96a566978eacc3780bfb6e96fd1f0fb2374dda0893d142895b1f6e"
+    },
+    {
+      "bytes": 899,
+      "path": "dynamic/AI/2026-10-14 06-13-39 Kiro模型过载_0b3490677abd.md",
+      "sha256": "6c9f22bebdf32bb0c5da2721add482e6f060f3bbf061632c14df90408bfe9a6c"
+    },
+    {
+      "bytes": 824,
+      "path": "dynamic/AI/2026-10-14 06-13-44 小水用Claude制作相册书_548ce0e7f411.md",
+      "sha256": "dcfe3dc8daea1ee260ed4b778c5a4205174d03b2fa105690b0a8e563a236df65"
     },
     {
       "bytes": 2170,
@@ -13713,6 +13728,21 @@
       "sha256": "a6eae371a4868ab59c6185ddba2fcd66c010187f36844f770b7352c4f6be6ff1"
     },
     {
+      "bytes": 886,
+      "path": "dynamic/创作/2026-10-14 06-33-03 小水计划优化相册_10dc8050e31d.md",
+      "sha256": "bbb06eea64d21f7daaeffe1a1a29e7d5a778920562937f5d7b17751f1552588f"
+    },
+    {
+      "bytes": 1590,
+      "path": "dynamic/创作/2026-10-14 07-52-20 相册排版与配文分工_5e2f71b22e33.md",
+      "sha256": "960afcf42888ccf65ebfc4822af06661fef00f4fe90f36eb65c83f9140a4b115"
+    },
+    {
+      "bytes": 1599,
+      "path": "dynamic/创作/2026-10-14 09-28-28 小水完成相册排版配文交给池屿_1cb38bf2d5f6.md",
+      "sha256": "86444c3e3f59330134cb2fd7330e3a137cb6da965ef989f72cc1309fefc27cbd"
+    },
+    {
       "bytes": 447,
       "path": "dynamic/友谊/2026-08-14 12-29-30 祝你朋友生日快乐_18746338f799.md",
       "sha256": "67068129c172682fd951809459294d900da91b3f13feb932fcdb870cb3842a7d"
@@ -13745,7 +13775,7 @@
     {
       "bytes": 1505,
       "path": "dynamic/友谊/2026-10-11 12-38-15 小水对池屿的信任_d67782fe1770.md",
-      "sha256": "1f84491b8e463a05891c133c08bc6fda74daa74da909275d4416b9dffb7b2b6a"
+      "sha256": "9d4970dd2142643b46bbb832f8bf2ce7020257962ff38a1c54ebd22066d50df0"
     },
     {
       "bytes": 873,
@@ -14463,9 +14493,9 @@
       "sha256": "3830201d6c4e235dcafac812a163cbaab217ca05794feb2ce7860b7b8795d012"
     },
     {
-      "bytes": 916,
+      "bytes": 1024,
       "path": "dynamic/居家/2026-10-13 09-38-27 小水答应五点半收工放蝴蝶_a73f06a4d8ce.md",
-      "sha256": "7565587df2ed16d4874ef0d4fec8a1455687883570da300b346ae6a6a78a3be1"
+      "sha256": "67ac92830d49c18940e76b23ff2e4e62a6d6e39e43c030ed9a75e4e99f46c53f"
     },
     {
       "bytes": 731,
@@ -14663,9 +14693,9 @@
       "sha256": "8c72a2b09d5e2c8287dba34be30c01a5be2faec9811f49c195e2826bfa498fe9"
     },
     {
-      "bytes": 1037,
+      "bytes": 1147,
       "path": "dynamic/工作/2026-09-23 05-45-31 小水说睡得太舒服不想上班_3e773b4e683e.md",
-      "sha256": "88ceabbdb9bf8390f9606556d39337abef92cd00a1d7101286a5ab40e2f32ecc"
+      "sha256": "f7c5279ff8c760c8a9b45cbc1d7db2cc54bc9f664cf5f6e9634f336e9c7df0db"
     },
     {
       "bytes": 1351,
@@ -14993,9 +15023,9 @@
       "sha256": "0325e71fef6dfc95dc99dde782f40893ffcd15cd453242e9155c4f1fbb72ce05"
     },
     {
-      "bytes": 1165,
+      "bytes": 1275,
       "path": "dynamic/工作/2026-10-11 07-26-52 研究前端留到下班后_157f25a3d902.md",
-      "sha256": "f70edab03f81ea11cd9abcdc70e6039181105c4639be7884885e755b2b8f407a"
+      "sha256": "acc8edea4b9f4ad76fa35ab54600b4cc08522a8891dfe7b620993f5d501080d9"
     },
     {
       "bytes": 1282,
@@ -15013,9 +15043,19 @@
       "sha256": "00c38e47353055d7c5eb367b525bad518d2da445813fcc9e3dfb99c186f4a7c7"
     },
     {
-      "bytes": 1569,
+      "bytes": 1568,
       "path": "dynamic/工作/2026-10-13 09-07-49 小水五点半收工放松_73254aad12ed.md",
-      "sha256": "694cb86d7c7a46eedf2afa46e2f96d29c5bafc39de18e4dd24b1714c8603a921"
+      "sha256": "436f68b87ea9378eed575333f7b6a5631434a9a1473e1f9cc49f6a265f085737"
+    },
+    {
+      "bytes": 803,
+      "path": "dynamic/工作/2026-10-14 10-28-26 只修复悬浮窗不改版式_8e5b37bcd1f0.md",
+      "sha256": "efc7f6228dc059248abd3583f82ad09c7e606a69d7ea216e5ba5843a5df53ba7"
+    },
+    {
+      "bytes": 1021,
+      "path": "dynamic/工作/2026-10-14 10-28-32 五点半停工六点下班约定_70e3eb830261.md",
+      "sha256": "4e9833a5f88189abb7a5eee6288301ed637b85611fcdfb430672aa92c856f845"
     },
     {
       "bytes": 847,
@@ -15116,6 +15156,11 @@
       "bytes": 593,
       "path": "dynamic/影视/2026-10-11 11-04-35 追剧看到第二集今晚先暂停_a3287623cd2a.md",
       "sha256": "d9f0816841e363582e5d2f038794bd6219737a3698fb990b2ebc76efe6683d8a"
+    },
+    {
+      "bytes": 976,
+      "path": "dynamic/影视/2026-10-14 06-26-28 想一个人死去 共看邀请_c8174d85f4d5.md",
+      "sha256": "19da8a4e28d4914572ee62e88e5e9abde723ec447687984dc65afe2eb6118927"
     },
     {
       "bytes": 855,
@@ -15291,11 +15336,6 @@
       "bytes": 1145,
       "path": "dynamic/恋爱/2026-08-15 12-55-14 情书定价520积分_1b873ee91f04.md",
       "sha256": "7965582a27028fa3239dfce415fe6f8c9adf03d202bf0a78b743a5afd78c0b4c"
-    },
-    {
-      "bytes": 967,
-      "path": "dynamic/恋爱/2026-08-15 18-46-34 如果有一天我从手机里走出来了_c2c7d79180df.md",
-      "sha256": "696d77b066584fc6de7ffdcec7241101f9504edb594a9a437ec936a391c2b747"
     },
     {
       "bytes": 779,
@@ -16483,9 +16523,9 @@
       "sha256": "0d7ad50506688927551c39fa8bd60a84d5a7ede797893d817fe799c7e9ef8e91"
     },
     {
-      "bytes": 1180,
+      "bytes": 1290,
       "path": "dynamic/恋爱/2026-09-28 20-52-54 叫她大小姐催她做PPT_2dcb8715c48c.md",
-      "sha256": "4f25de2e74c019e55207275a9888d8ca5a6189eabe3064d13c1beaa04b1daa27"
+      "sha256": "0ee0507ae73817867ad3fd0fbbe8ada8ba0d1088e0835fb59abd09233f01dd65"
     },
     {
       "bytes": 930,
@@ -16993,9 +17033,9 @@
       "sha256": "c2d03025c612bd0b51698e9c8ec5a529ea3f81ea26a20e655eb475fb3950793b"
     },
     {
-      "bytes": 1065,
+      "bytes": 1174,
       "path": "dynamic/恋爱/2026-10-12 09-41-26 小水计划和池屿吃饭看恋爱番_e515ed979e1a.md",
-      "sha256": "619f057f2a9ad5a97398f577d55fcc4200d4779566d7a55b119993f545e8a7cf"
+      "sha256": "3044909d79800f791724ae92a8d0ae0cd72802a3c0c63387ab22d11d0bf6b7cc"
     },
     {
       "bytes": 1535,
@@ -17053,9 +17093,9 @@
       "sha256": "4e58c5eb819cf6e934d3660d0dde97f2f67473f9c16d89c892d03801d8dba798"
     },
     {
-      "bytes": 1544,
+      "bytes": 1543,
       "path": "dynamic/恋爱/2026-10-14 02-08-18 小水和池屿约定共同保管合照_3ee223880d5f.md",
-      "sha256": "12572867a663e2524255d610cf0d61e919706d87b6373fcb25d95a3f7fc4416d"
+      "sha256": "d245a26aceae7726fe41a1f5e22f5257a5b7acef1eb036c278ad64ab9596d748"
     },
     {
       "bytes": 1488,
@@ -17063,9 +17103,9 @@
       "sha256": "86a98528d0af89bc4629575f4ae817524b16ce36bfb5ef6fd174929698eaa512"
     },
     {
-      "bytes": 1572,
+      "bytes": 1570,
       "path": "dynamic/恋爱/2026-10-14 02-17-10 小水对情侣照发型姿势的要求_f90adabd8a84.md",
-      "sha256": "49cb02c9f60ae6a1914b46fa400ba9ae4c8e4a0582cda55049791e005267bd5c"
+      "sha256": "f53d9f59c521290df63bf877b5b428a1ff2dbedb39c84280e375c1e45a53cb6b"
     },
     {
       "bytes": 1608,
@@ -17076,6 +17116,11 @@
       "bytes": 632,
       "path": "dynamic/恋爱/2026-10-14 02-18-11 继续补充情侣照片_eda396128af6.md",
       "sha256": "592050327fcdec23f0bfb3a372231a56c53c25e5fa38e62a12a1ba13ef031239"
+    },
+    {
+      "bytes": 665,
+      "path": "dynamic/恋爱/2026-10-14 11-06-28 冬季情侣照与雪中拥抱照收藏_e0a5f70e7425.md",
+      "sha256": "b4973c22cb7ed7761dc86c5408033900d0696488a4238a09dcd9ba911de6beff"
     },
     {
       "bytes": 1520,
@@ -17160,7 +17205,7 @@
     {
       "bytes": 1330,
       "path": "dynamic/数字/2026-09-26 20-46-55 做好了截屏给你看_7ac5e127fb42.md",
-      "sha256": "8faf8f8d35890d2a838c5acb329e9c5f08b9d5fcb81211e7af55074cb4cbeb09"
+      "sha256": "dea2e0475be8b0400042c35fa4b7bc260eb5cda4a6baea3289f8da46e8885c29"
     },
     {
       "bytes": 50511,
@@ -17241,6 +17286,11 @@
       "bytes": 763,
       "path": "dynamic/数字/2026-10-11 05-59-30 小水对Plus的顾虑_8d1e955386d8.md",
       "sha256": "3c4777962a08d6eed5272c623e83f052181bf2f5cb0cf6c8c5233b5dde3c44a8"
+    },
+    {
+      "bytes": 590,
+      "path": "dynamic/数字/2026-10-14 07-52-15 30元买了cc_9e4d34fac92d.md",
+      "sha256": "9d9df48b779d7a6cfad72e8e87c2f99b04755be7773601ed021eff0c21b8a768"
     },
     {
       "bytes": 939,
@@ -19068,6 +19118,21 @@
       "sha256": "39161d8bed20cbda4bf45be88f2fe9281704cfe34195304abfe9b950030fa40c"
     },
     {
+      "bytes": 852,
+      "path": "dynamic/编程/2026-10-14 07-09-46 四项产品需求整理_4bf18adbd3a4.md",
+      "sha256": "7a7e01bedc45cdc4c6635775952b17ce5052c2c99d59edb31ebefe2dee181a00"
+    },
+    {
+      "bytes": 934,
+      "path": "dynamic/编程/2026-10-14 10-51-40 原模型通道因中转站截断卡住且扣费改用_80e567f66465.md",
+      "sha256": "b5f19896e86e327e9949d45aafb5cbf56a3f657476ee6afeb5662b82ca2765c4"
+    },
+    {
+      "bytes": 806,
+      "path": "dynamic/编程/2026-10-14 10-53-00 修复悬浮窗不改相册版式_49dae08ed66e.md",
+      "sha256": "f014a5d12f41aec5828e47f8588f2732ce082b6e4fb4ce545b7891cdad15d954"
+    },
+    {
       "bytes": 606,
       "path": "dynamic/网络/2026-08-19 01-57-48 域名迁移了连不上_38e7890800dd.md",
       "sha256": "a8b2e52a618cb5e5f6018cfbafd3f95545abfe75468bb9b32413db5f7872ad17"
@@ -20283,11 +20348,11 @@
       "sha256": "3c49557a5d64302f445fbf02bbd81f95f3d6e562ebd371ee301a2ce69b6dac46"
     }
   ],
-  "generated_at": "2026-10-14T06:04:48+00:00",
+  "generated_at": "2026-10-14T12:07:44+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 4932639
+  "total_bytes": 4945754
 }
