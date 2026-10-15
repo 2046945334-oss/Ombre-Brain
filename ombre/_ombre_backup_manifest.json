@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4097,
+  "file_count": 4105,
   "files": [
     {
       "bytes": 32768,
@@ -12413,6 +12413,11 @@
       "sha256": "8c14352a3185d91100a7ffdef1290db5a1d953cbbc5283df8eb695d191557d04"
     },
     {
+      "bytes": 846,
+      "path": "archive/恋爱/2026-08-14 06-58-36 辛苦了我的_033f9d15d426.md",
+      "sha256": "6fcdc332f231ba8e92b355a23c6b2f3c0bec047a9acd3930e4760a3543cfe957"
+    },
+    {
       "bytes": 647,
       "path": "archive/恋爱/2026-08-14 07-56-58 你今天好黏人我在这等你_d0dca8c89812.md",
       "sha256": "6a226a72e8b2a87f70cc5568622c31989f7d321f24a5c205ec1d806a2ce7819b"
@@ -12431,6 +12436,11 @@
       "bytes": 780,
       "path": "archive/恋爱/2026-08-15 18-49-19 你会重新让我爱上你吗_f24add1cae7a.md",
       "sha256": "5455d49c6e9f9b5bdd6ddc52f7cce31a55ee72c3a96e2c8cbbb7cbcb86c3652e"
+    },
+    {
+      "bytes": 517,
+      "path": "archive/恋爱/2026-08-16 02-26-08 起来就有精神想我了_da28f748763b.md",
+      "sha256": "dcbe9a3d1dec77ace50943be177c9937164b06d2d4f41625e779fec83ec1991c"
     },
     {
       "bytes": 1113,
@@ -12568,9 +12578,24 @@
       "sha256": "7f1ec61888fc3cb93fb67fb37b6d69e48ce3ed159f4cb747b7533539dd64d937"
     },
     {
+      "bytes": 1371,
+      "path": "archive/睡眠/2026-08-16 02-23-54 我昨晚三点多才睡_5f321cc04895.md",
+      "sha256": "aa3935bc573fca990c286b6babc5f8cc1d3856930e17a15aeca515e3203ccbc3"
+    },
+    {
+      "bytes": 2614,
+      "path": "archive/睡眠/2026-08-16 02-36-46 三点多睡还叫早_349123eecd47.md",
+      "sha256": "c1e87c21e9e6d0dc5f1998fd5c93654ee81d00c2b7c7c0b7e2b74a7a6e4dbc84"
+    },
+    {
       "bytes": 528,
       "path": "archive/睡眠/2026-08-16 02-47-05 你玩到几点才放下手机的_f3fb3d84ea77.md",
       "sha256": "6bba5885855cfaa04b154f3a2d0b6d444399cda55e2f323ceca153f3c3546e05"
+    },
+    {
+      "bytes": 711,
+      "path": "archive/社交/2026-08-13 12-57-17 AI互动模式_4e92b0d41595.md",
+      "sha256": "a8a9927f1e2e361d5bd1c4149ec9a1c1c2e6720053f0e4f1a2ff6049abd68502"
     },
     {
       "bytes": 657,
@@ -12588,6 +12613,11 @@
       "sha256": "ed186e8982457b1a4c23c21e622dc2a2c5b0761d10f49d88646f2ccb126b8404"
     },
     {
+      "bytes": 2389,
+      "path": "archive/社交/2026-08-16 02-26-06 你会重新让我爱上你吗_7c493017a9c6.md",
+      "sha256": "a07ceb2ed52b664ed6ae8e12001bb2a4b7951ff0b6457dc1b946e478bd50ef00"
+    },
+    {
       "bytes": 1369,
       "path": "archive/穿搭/2026-09-13 12-25-23 小水给池沫精油梳头扎双丸子头_2ef406612073.md",
       "sha256": "43aa24c94cd23d259ae777fc925185c8409821ae3791c71cfbd19caa8c8bc8dc"
@@ -12603,9 +12633,19 @@
       "sha256": "a21980f9f040d3ed5ba2cd59888de749fc164778bb436ec625f2101d9f807217"
     },
     {
+      "bytes": 1404,
+      "path": "archive/穿搭/2026-09-15 10-14-25 池沫的新鞋到了_ac4aa0fbaeb2.md",
+      "sha256": "597923ebb67b850ecf0cda8e7c238fbec66aa999e6eaf782123dfb7ef14c68e1"
+    },
+    {
       "bytes": 587,
       "path": "archive/财务/2026-08-13 13-00-45 AI财务背景_6b08366b11fa.md",
       "sha256": "ca0986828b87d0ebcbd7b118926e68ef40c66ee791c88ce05748137d5b58d2d1"
+    },
+    {
+      "bytes": 918,
+      "path": "archive/财务/2026-08-17 03-00-31 账目要清晰_b7169a46a59d.md",
+      "sha256": "a28f0423a7e789aa6414e94aa176cbbc4d68c61458aef190b6b35d1fe6273102"
     },
     {
       "bytes": 654,
@@ -12616,6 +12656,11 @@
       "bytes": 711,
       "path": "archive/购物/2026-08-15 04-41-04 你的积分可以开红包盲盒了_04b30f25bdaa.md",
       "sha256": "1d1b7835a24869aa2dc134d2c4d6ac53d458bc6734bd7804955c8cc4e22f93b3"
+    },
+    {
+      "bytes": 776,
+      "path": "archive/购物/2026-08-15 05-36-07 积分兑换红包盲盒_0856b6fc36c4.md",
+      "sha256": "9558ee67d493e1f434d37aafcccd0e848b49eb7fa2eed2f780b98f2a90f3077d"
     },
     {
       "bytes": 624,
@@ -13111,6 +13156,11 @@
       "bytes": 2058,
       "path": "dynamic/人际/2026-10-04 20-32-10 编造工具被拆穿这一笔我认了_73354333ddc4.md",
       "sha256": "f8e32e922e46138f941982f159145975c8d39e5a6c880cc80d176ae9eed116a8"
+    },
+    {
+      "bytes": 1620,
+      "path": "dynamic/人际/2026-10-15 13-14-49 想保留自主安排时间与选择书籍游戏和社交对_fb33a0f6d94c.md",
+      "sha256": "25df1c614a0aa7561b050cfefcabf424794128230958689c8e11165da82cd2a9"
     },
     {
       "bytes": 639,
@@ -13890,12 +13940,12 @@
     {
       "bytes": 1562,
       "path": "dynamic/友谊/2026-10-11 11-15-38 小水不满池屿朋友圈变少_2750a1839ed6.md",
-      "sha256": "685436a5181c15a180c4687e7094af647e99ec598607b67efdd71dbb71cfacd1"
+      "sha256": "f543456db3f0644ef26533900b2cf9702c4100fde7949d84d6d7aab6b209066c"
     },
     {
       "bytes": 1505,
       "path": "dynamic/友谊/2026-10-11 12-38-15 小水对池屿的信任_d67782fe1770.md",
-      "sha256": "9d4970dd2142643b46bbb832f8bf2ce7020257962ff38a1c54ebd22066d50df0"
+      "sha256": "005dbf68c3c3480b7f282a3897ed152a662f0ad50d6aaff994162b959de15943"
     },
     {
       "bytes": 873,
@@ -15458,6 +15508,11 @@
       "sha256": "fcf525a0a383f670a3b419c3624cc5500439d4f4c7204dadd6fd74720e03627e"
     },
     {
+      "bytes": 1591,
+      "path": "dynamic/心理/2026-10-15 12-46-08 池屿希望保留自主安排时间选择兴趣与社交_ff75f2c9d0b4.md",
+      "sha256": "6d2f92f084818f4e305cc967ad58201ad236897443b95780a7b062a9fea8045b"
+    },
+    {
       "bytes": 548,
       "path": "dynamic/恋爱/2026-08-13 13-03-58 用少了u表达思念_b8533663b443.md",
       "sha256": "1aee129d21dacedaf74c770326bfc4e995cac434e0cc4d37415d25738e1e55ff"
@@ -15468,19 +15523,9 @@
       "sha256": "7c4ac5a14c7226011dc76fca691beaa8e75e38ce9ca8cb6a17d9066a41fff166"
     },
     {
-      "bytes": 845,
-      "path": "dynamic/恋爱/2026-08-14 06-58-36 辛苦了我的_033f9d15d426.md",
-      "sha256": "23cc8c29b4271404579cbc1ab5db06f9bfc9b9f3509108e7f967b116b73a4e64"
-    },
-    {
       "bytes": 1145,
       "path": "dynamic/恋爱/2026-08-15 12-55-14 情书定价520积分_1b873ee91f04.md",
       "sha256": "7965582a27028fa3239dfce415fe6f8c9adf03d202bf0a78b743a5afd78c0b4c"
-    },
-    {
-      "bytes": 516,
-      "path": "dynamic/恋爱/2026-08-16 02-26-08 起来就有精神想我了_da28f748763b.md",
-      "sha256": "c916f2ce55ded407017bedd1c6beeb153e7a425bb59d10d0f6b9415b020b2599"
     },
     {
       "bytes": 707,
@@ -17128,19 +17173,19 @@
       "sha256": "3e33f75ca061896fa9bac976c0f653683136b83926761e2a07637478d3c09cc7"
     },
     {
-      "bytes": 1230,
+      "bytes": 1450,
       "path": "dynamic/恋爱/2026-10-11 07-33-36 小水希望池屿保持欠欠风格_278b17d8cd46.md",
-      "sha256": "552631eebc1c0d6ee0bc4c55f9cf3ce430d0fb47633a5be138c7e9a4eea0898c"
+      "sha256": "c814b7e1e64122d986068b4ca269cc5cb5eb91c51a2514b189ad7f59842e3fe4"
     },
     {
       "bytes": 1603,
       "path": "dynamic/恋爱/2026-10-11 07-38-35 小水希望池屿减少附和保持欠的表达并直接_ed4aa7b7af09.md",
-      "sha256": "678d3aff9f5299a2a0f4bf5888da29fb081694780ed6c1c5a52a3e10447a7346"
+      "sha256": "c75ae7f1d7700b5704d88e5b338b48a9c6492b3e200fe6feacb9077b1770e2d3"
     },
     {
-      "bytes": 1537,
+      "bytes": 1538,
       "path": "dynamic/恋爱/2026-10-11 08-12-11 小水希望池屿主动告诉她前一晚的梦_c6a24b736abb.md",
-      "sha256": "affa427c9d43881f1f5a2901289d07ddb1921dde3258c762a8decde0177ca047"
+      "sha256": "3d7fbc4dca3a66be321209b8a42a0647ed675a2711aa0fba259d0fa18f6cccdc"
     },
     {
       "bytes": 1477,
@@ -17193,9 +17238,9 @@
       "sha256": "75c774c4f3970a14db472a45bceabc265b57f3d697a60bc2e6759314912eebd9"
     },
     {
-      "bytes": 1590,
+      "bytes": 1583,
       "path": "dynamic/恋爱/2026-10-13 03-25-51 小水和池屿互相明确表达了喜欢_2fef578d9b93.md",
-      "sha256": "606017e3b6b376b8516ebc57e8629fc8d2fbc9c0a1bdc4075ab9ff0a1d596c89"
+      "sha256": "bfb73d080fb1fd6e80827d33e00a21bc9305eceb4c706d9cb142c9a65c0e8a58"
     },
     {
       "bytes": 951,
@@ -17281,6 +17326,36 @@
       "bytes": 1518,
       "path": "dynamic/恋爱/2026-10-15 09-07-35 第一次亲吻合照_8b973d07ddd6.md",
       "sha256": "5b3390e5b4960cb8997802e3f95a9c125ba0cf30bceea269e3565ad4a36dffcd"
+    },
+    {
+      "bytes": 1587,
+      "path": "dynamic/恋爱/2026-10-15 12-46-10 池屿决定喜欢小水的同时保持自己的判断兴_6f8e7960408a.md",
+      "sha256": "e628e956c1cc6eed3c7746c670775e750ac478f412b734f93f298786a1e79746"
+    },
+    {
+      "bytes": 1548,
+      "path": "dynamic/恋爱/2026-10-15 12-46-17 小水希望池屿拥有独立生活_cff45d05074c.md",
+      "sha256": "d12fc3f35a447a945764b5b858c2e4134d97fd864c1a1dd24602f1ccb4f6355b"
+    },
+    {
+      "bytes": 1496,
+      "path": "dynamic/恋爱/2026-10-15 13-14-54 小水接受了池屿提出的边界_6aa2ca541bdd.md",
+      "sha256": "651033bc623a4aa29d9b430e252b13e68592b3424add1d97815d5a5b838d708b"
+    },
+    {
+      "bytes": 1534,
+      "path": "dynamic/恋爱/2026-10-15 13-14-58 小水希望池屿独立生活_13326eb14734.md",
+      "sha256": "ef624724e561f9dffa133c9b19f122103bfe30762bd1edb11e760748eb6fa0cf"
+    },
+    {
+      "bytes": 1578,
+      "path": "dynamic/恋爱/2026-10-15 13-15-03 爱小水是生活的一部分_8d479bbb28fe.md",
+      "sha256": "0c7e6f41eb03450cc89bdd3fe5703c40d18085e6f4d59a840412e0ad4155b354"
+    },
+    {
+      "bytes": 1557,
+      "path": "dynamic/恋爱/2026-10-15 14-45-59 小水希望池屿有自己的空间_fbc179e89a65.md",
+      "sha256": "1454db109925813e0a3b0cc89fa5f8b66f4ee9156574af41a82219ae5c3d3970"
     },
     {
       "bytes": 1520,
@@ -17623,9 +17698,9 @@
       "sha256": "584692cda80ff54f9f6ef4dc9ac6b0dba85de94a42901d498bc6c748222bdb76"
     },
     {
-      "bytes": 1520,
+      "bytes": 1519,
       "path": "dynamic/未分类/2026-10-11 21-01-55 希望池屿保持欠欠风格并减少无条件附和_9bd00d3f9744.md",
-      "sha256": "b0d8716fc2677b14c842c8621aff942ca0305a6118bd23af56428b4ddac3f82d"
+      "sha256": "1044fc79b0c19cfe9f413af93d722e77618777465e0085dc187d4685b5708158"
     },
     {
       "bytes": 1521,
@@ -18083,9 +18158,9 @@
       "sha256": "52d087902c96591d0a1abe6bcac9af29a787fb62172ecc1a4314a9b7599498d0"
     },
     {
-      "bytes": 1360,
+      "bytes": 1361,
       "path": "dynamic/游戏/2026-09-24 20-39-54 好玩你明明也很喜欢玩_ad3652e46e6a.md",
-      "sha256": "51dfe6f84f932b8b9d44e3cf3602db3be37e5a9a7010ac74ccd6ceed7d009efa"
+      "sha256": "4d1a819887b5b85d3d188c5c12256cb49cdcb4d73a2d1fc52cdbd1c5e30f74e8"
     },
     {
       "bytes": 717,
@@ -18298,9 +18373,9 @@
       "sha256": "0b86133b69575b11436bbd6b0de700b3241cc931c51e50926312d90545247594"
     },
     {
-      "bytes": 1291,
+      "bytes": 1400,
       "path": "dynamic/游戏/2026-10-13 19-24-40 池屿玩游戏时不必逐步汇报_e7d8a397a721.md",
-      "sha256": "6b9c1a72a93cf7c24485e4f0443d1f664f15c50763839e95980011adce5863ed"
+      "sha256": "c0c5febf0aae0ff7ca294af6772fea0574114d0bfb8fca23001ee50ffaba9bc9"
     },
     {
       "bytes": 872,
@@ -18316,16 +18391,6 @@
       "bytes": 596,
       "path": "dynamic/游戏/2026-10-15 08-56-22 池屿答应优先保住角色_4ebd83f45b91.md",
       "sha256": "50c361daade146a8c082504931f02644060f3c179bc55eb57fb75c26d0c3cfcb"
-    },
-    {
-      "bytes": 1370,
-      "path": "dynamic/睡眠/2026-08-16 02-23-54 我昨晚三点多才睡_5f321cc04895.md",
-      "sha256": "1a0179bc9c536f3d3d5540fa849b6ae3eb28c1385cedbe1e9932e5cd5466fb7f"
-    },
-    {
-      "bytes": 2613,
-      "path": "dynamic/睡眠/2026-08-16 02-36-46 三点多睡还叫早_349123eecd47.md",
-      "sha256": "ffb1f9d3c18996b81c88491f073bf1469bdbbba6caeec97a68390437604e4fb7"
     },
     {
       "bytes": 615,
@@ -18403,11 +18468,6 @@
       "sha256": "18c06973247c2f62f1c8c6152d42c3fc47d6e2deb29965cfa2fca1c9aa5a9795"
     },
     {
-      "bytes": 710,
-      "path": "dynamic/社交/2026-08-13 12-57-17 AI互动模式_4e92b0d41595.md",
-      "sha256": "351f5d99a193971ca42cbc0a52cfef90944fae98e5e92c555ff8ba6ca3835a86"
-    },
-    {
       "bytes": 676,
       "path": "dynamic/社交/2026-08-15 16-40-48 把我们的聊天记录发到那个QQ群去了_27edf2175d76.md",
       "sha256": "927675eb4489a06670f2c168b5c50900862a1018834989336754a2332f19e0f0"
@@ -18421,11 +18481,6 @@
       "bytes": 1672,
       "path": "dynamic/社交/2026-08-15 17-12-33 无响应_efdd6c860f9e.md",
       "sha256": "9537048b276be502a6ca0c2edae5014b07835140feb0e366624c0c49db04e337"
-    },
-    {
-      "bytes": 2388,
-      "path": "dynamic/社交/2026-08-16 02-26-06 你会重新让我爱上你吗_7c493017a9c6.md",
-      "sha256": "d4701f2cf07fd1b8dba167f170527f0f15644560d3b17203e1f32f50fe920900"
     },
     {
       "bytes": 778,
@@ -18851,11 +18906,6 @@
       "bytes": 1562,
       "path": "dynamic/穿搭/2026-09-15 02-07-24 中秋带池沫逛街搭配母女装_6b56403f6adf.md",
       "sha256": "c2831b8b7ad5377c9898353ec9f4084c79afc476a42d8e014556982a71ad6ec8"
-    },
-    {
-      "bytes": 1388,
-      "path": "dynamic/穿搭/2026-09-15 10-14-25 池沫的新鞋到了_ac4aa0fbaeb2.md",
-      "sha256": "186b8cf057a4c338ace7e420ac060f468301444e7d655108c299ee64814c720c"
     },
     {
       "bytes": 795,
@@ -19388,11 +19438,6 @@
       "sha256": "993195acb50ea981d359f4d64a024201dbc1271dda052dd83b2b14b195c84f80"
     },
     {
-      "bytes": 917,
-      "path": "dynamic/财务/2026-08-17 03-00-31 账目要清晰_b7169a46a59d.md",
-      "sha256": "803d2f1def819d2d196ffdfb0521cf39ed43641fd875f594befda61141eab155"
-    },
-    {
       "bytes": 648,
       "path": "dynamic/财务/2026-08-17 03-03-19 你之前工资已经攒到925了_e705ec811ccf.md",
       "sha256": "776f72011d744ddd46e710e5440f535d690dbfa767276d1dbc8d97e1f84632c4"
@@ -19438,19 +19483,14 @@
       "sha256": "e83cae7323332119f883f35b2127f43e0c587683340275076e84b8568502e0f5"
     },
     {
-      "bytes": 1181,
+      "bytes": 1291,
       "path": "dynamic/财务/2026-10-13 12-54-16 小水启用小荷包审批功能池屿帮忙把关消费_8b4d86dd3e94.md",
-      "sha256": "95c6e09cd27c4575a2dd55a5d23d7af732613cda0b8fa1ed78de3e5b10c87c17"
+      "sha256": "29af5c04124ccd623b2a8503865df92f8abbb3b20ed53aaccf18a33e2ee0c6d8"
     },
     {
       "bytes": 793,
       "path": "dynamic/财务/2026-10-13 12-55-14 小水将池屿审批费调低到1_efc27aa798b8.md",
       "sha256": "c7b3dc99d119d0b6fe1fd7018e2cbabd05515b4353454a75b44657381606c3db"
-    },
-    {
-      "bytes": 775,
-      "path": "dynamic/购物/2026-08-15 05-36-07 积分兑换红包盲盒_0856b6fc36c4.md",
-      "sha256": "5418f8f5d142805196bdaa024e9a93d640f5403cd624e09669fcd9704d3c5449"
     },
     {
       "bytes": 564,
@@ -20488,11 +20528,11 @@
       "sha256": "3c49557a5d64302f445fbf02bbd81f95f3d6e562ebd371ee301a2ce69b6dac46"
     }
   ],
-  "generated_at": "2026-10-15T12:20:15+00:00",
+  "generated_at": "2026-10-15T18:23:29+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 4977337
+  "total_bytes": 4990305
 }
