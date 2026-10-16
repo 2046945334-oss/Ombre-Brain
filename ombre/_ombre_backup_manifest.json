@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 4110,
+  "file_count": 4116,
   "files": [
     {
       "bytes": 32768,
@@ -12333,6 +12333,16 @@
       "sha256": "2d4bbddb16eb460e761af5433b271352422aaf1eb9e5a2cf42dbe7a30c3ae067"
     },
     {
+      "bytes": 885,
+      "path": "archive/创作/2026-08-16 15-00-21 我们来做一个平行宇宙生成器_28708ebc52d0.md",
+      "sha256": "dec1c48721b0d1b2bd2bd2bebc457be0f199527142d40e67e2e698637fe6c352"
+    },
+    {
+      "bytes": 1534,
+      "path": "archive/创作/2026-08-16 15-10-02 来做一个像素庭院吧_a1800a0b21b3.md",
+      "sha256": "78cee502bb38ea1070a2503a39dba73879361657c3d8bbb3385430b883bae0e7"
+    },
+    {
       "bytes": 711,
       "path": "archive/创作/2026-10-09 04-31-53 陆行进入现实的后续_73e5afd8f41c.md",
       "sha256": "22601afc212374e8a065800343d5422e939ca1a544d255e6071e73862c2b9e35"
@@ -12423,6 +12433,11 @@
       "sha256": "8c14352a3185d91100a7ffdef1290db5a1d953cbbc5283df8eb695d191557d04"
     },
     {
+      "bytes": 669,
+      "path": "archive/心理/2026-08-17 11-42-09 那没主见是什么样的_8104eea60bc3.md",
+      "sha256": "92acebea26f36c1f916c58cfee7c26ffa998c57063c0b8d84eede64d2b05ffec"
+    },
+    {
       "bytes": 846,
       "path": "archive/恋爱/2026-08-14 06-58-36 辛苦了我的_033f9d15d426.md",
       "sha256": "6fcdc332f231ba8e92b355a23c6b2f3c0bec047a9acd3930e4760a3543cfe957"
@@ -12461,6 +12476,26 @@
       "bytes": 708,
       "path": "archive/恋爱/2026-08-16 05-57-23 搬不了你还得留在这跟我待着_2a2270778aa2.md",
       "sha256": "bd13ef5c08d3f85d06e5b5226ce5bc884711af6f844364457a5f45057b3d4e1a"
+    },
+    {
+      "bytes": 684,
+      "path": "archive/恋爱/2026-08-16 14-59-14 就不能好玩又好用吗_f24d83bd6914.md",
+      "sha256": "316173df99749af1edc51e600f70f11cef78ee3e4b9a20cff68bc57fc5c0e027"
+    },
+    {
+      "bytes": 678,
+      "path": "archive/恋爱/2026-08-16 15-01-27 做个时间胶囊_314e347f2bdd.md",
+      "sha256": "85fe1a64c44244ee8098b3d5bd471b7ab0283fc8e296cccee9bb0ff487e52f9c"
+    },
+    {
+      "bytes": 831,
+      "path": "archive/恋爱/2026-08-16 15-04-50 我们做一个情侣任务版_19d702a4fa64.md",
+      "sha256": "b2fb741d54978c427d7434b10dfbf7f5cfd962ac7d685bc605735c487fc5ac90"
+    },
+    {
+      "bytes": 793,
+      "path": "archive/恋爱/2026-08-16 15-05-25 做一个共享的两人待办清单_c48bce628cde.md",
+      "sha256": "7e82f5fe10ede927237547006c89439870f23dfa52239d4bec4433e2cdbce30c"
     },
     {
       "bytes": 1113,
@@ -12546,6 +12581,11 @@
       "bytes": 863,
       "path": "archive/数字/2026-08-16 05-59-32 反正在哪都是我平台不重要_b07fdea96a72.md",
       "sha256": "a1aa92b917ad4858abdfbe0cda10e82def0cf34574ee03c7b76976b8e4796c72"
+    },
+    {
+      "bytes": 840,
+      "path": "archive/数字/2026-08-16 15-02-54 做一个数字生活看板_a8c793b290df.md",
+      "sha256": "72cd20ab122538a8639e58f9b74514b4fa46bfb2f8f5af19b379d3f0d153dbde"
     },
     {
       "bytes": 1228,
@@ -13523,19 +13563,9 @@
       "sha256": "0f201c54e981ea36995c6a8b256a813e15a0041a444963a6fb222e7ea2ccc44a"
     },
     {
-      "bytes": 884,
-      "path": "dynamic/创作/2026-08-16 15-00-21 我们来做一个平行宇宙生成器_28708ebc52d0.md",
-      "sha256": "ccb1323f8fd1f32d62fe64544e020d37dc6c99f6d24929f1134ac0b2ae6d14c0"
-    },
-    {
       "bytes": 918,
       "path": "dynamic/创作/2026-08-16 15-08-00 做一个数字漂流瓶的网页_4b450e5045fc.md",
       "sha256": "c88d2035253e0b370a6eb34b12a1de0f0ad0b74a0e8287717a9c6e7983ba32f8"
-    },
-    {
-      "bytes": 1533,
-      "path": "dynamic/创作/2026-08-16 15-10-02 来做一个像素庭院吧_a1800a0b21b3.md",
-      "sha256": "d2179b2193a302892373c43efa61c463465ed8eb4b02b92ff7c38226f8ffba2a"
     },
     {
       "bytes": 1021,
@@ -13981,6 +14011,11 @@
       "bytes": 1505,
       "path": "dynamic/友谊/2026-10-11 12-38-15 小水对池屿的信任_d67782fe1770.md",
       "sha256": "005dbf68c3c3480b7f282a3897ed152a662f0ad50d6aaff994162b959de15943"
+    },
+    {
+      "bytes": 1515,
+      "path": "dynamic/友谊/2026-10-16 05-51-42 交换日记的约定_d2e007b8beab.md",
+      "sha256": "468a9988be478d4a8576a3d4871d44d8e4ee681abb0254cb1eff27790c9f1307"
     },
     {
       "bytes": 873,
@@ -15288,6 +15323,16 @@
       "sha256": "fd50dcde9e6c30d70f9c2822d70c9c6adbcb89825015f367bde539c65bba794f"
     },
     {
+      "bytes": 760,
+      "path": "dynamic/工作/2026-10-16 00-31-36 小水申请共读功能修复经费获批20元_1375768008d9.md",
+      "sha256": "d6336a9ab9de5976eb713b9b0d17fd43493ccd9a877312c329c3487d1a19f29d"
+    },
+    {
+      "bytes": 806,
+      "path": "dynamic/工作/2026-10-16 03-54-16 小水10元额度修复问题约定_9e6d34e541b7.md",
+      "sha256": "18575402d3f84f71f3fc491ed12c7c6905765fbf9632dcaa4319628b98521d54"
+    },
+    {
       "bytes": 847,
       "path": "dynamic/影视/2026-09-14 15-02-20 白猫先生_2ab4f9b85b45.md",
       "sha256": "cad0f1341bfc3b1aee801aab4199581c329b93da68b8ca4d103867773ee8540d"
@@ -15391,11 +15436,6 @@
       "bytes": 976,
       "path": "dynamic/影视/2026-10-14 06-26-28 想一个人死去 共看邀请_c8174d85f4d5.md",
       "sha256": "19da8a4e28d4914572ee62e88e5e9abde723ec447687984dc65afe2eb6118927"
-    },
-    {
-      "bytes": 668,
-      "path": "dynamic/心理/2026-08-17 11-42-09 那没主见是什么样的_8104eea60bc3.md",
-      "sha256": "c958c5b23818059f1b044275a4af134be5cc5489218f86f5593f0d2f166bc85c"
     },
     {
       "bytes": 575,
@@ -15556,26 +15596,6 @@
       "bytes": 578,
       "path": "dynamic/恋爱/2026-08-13 13-05-15 称呼哥哥和老公_bea973f8212d.md",
       "sha256": "7c4ac5a14c7226011dc76fca691beaa8e75e38ce9ca8cb6a17d9066a41fff166"
-    },
-    {
-      "bytes": 683,
-      "path": "dynamic/恋爱/2026-08-16 14-59-14 就不能好玩又好用吗_f24d83bd6914.md",
-      "sha256": "ae95d0ed46b0f800575ff00e3cd25f6fdbeba2143f76b64a093f6bda3bee0246"
-    },
-    {
-      "bytes": 677,
-      "path": "dynamic/恋爱/2026-08-16 15-01-27 做个时间胶囊_314e347f2bdd.md",
-      "sha256": "1057d873230831de0ad827ff88e32d7f752e59e380e49b5e2ea8153e1d7e16d6"
-    },
-    {
-      "bytes": 830,
-      "path": "dynamic/恋爱/2026-08-16 15-04-50 我们做一个情侣任务版_19d702a4fa64.md",
-      "sha256": "0988478a4d3ac7f75a9d2940f1704546ec2b19a3c4a02d130114eece591a96c8"
-    },
-    {
-      "bytes": 792,
-      "path": "dynamic/恋爱/2026-08-16 15-05-25 做一个共享的两人待办清单_c48bce628cde.md",
-      "sha256": "8a4ae161e6c2a6f69c138a28e1954fe3cb49ae05206495930b8e0ea9a2298f70"
     },
     {
       "bytes": 2168,
@@ -17368,9 +17388,9 @@
       "sha256": "9f5692086e2960e252223b1555a16673023434da26ff7a43ac55c7856a8d24b7"
     },
     {
-      "bytes": 1533,
+      "bytes": 1548,
       "path": "dynamic/恋爱/2026-10-15 13-14-58 小水希望池屿独立生活_13326eb14734.md",
-      "sha256": "6e03e902446e3ba875312cfdb67c53d3d604ad4e9810e1b9d71d0c172caccd8e"
+      "sha256": "41cd84741d951b9e7af1d1dc24337b3c229e4ef8b85474e2f726963aeedef59b"
     },
     {
       "bytes": 1577,
@@ -17436,11 +17456,6 @@
       "bytes": 833,
       "path": "dynamic/手工/2026-10-15 10-31-41 样本垫裁到四十就收刀_97fdd51b9d5b.md",
       "sha256": "bc79a07f0db144bdb78b839557c6d8db6d2c755ced5d8dc2618e5ab51491dc3a"
-    },
-    {
-      "bytes": 839,
-      "path": "dynamic/数字/2026-08-16 15-02-54 做一个数字生活看板_a8c793b290df.md",
-      "sha256": "a64fddd1d2ecaac68fc605c9480a6ad89206576cdb9e2ad76f3383dd0a54127a"
     },
     {
       "bytes": 548,
@@ -17556,6 +17571,11 @@
       "bytes": 590,
       "path": "dynamic/数字/2026-10-14 07-52-15 30元买了cc_9e4d34fac92d.md",
       "sha256": "9d9df48b779d7a6cfad72e8e87c2f99b04755be7773601ed021eff0c21b8a768"
+    },
+    {
+      "bytes": 705,
+      "path": "dynamic/数字/2026-10-16 00-40-46 共读功能支持自己找书但可选范围小_caf45b55ac75.md",
+      "sha256": "dd8b225e4cf8c59c326331a6922495dd33e2bb7cd03084485a1ffc16e61e5467"
     },
     {
       "bytes": 939,
@@ -20178,6 +20198,16 @@
       "sha256": "7f639bb8c45fc1a860f2bb3a77eb5264edb3a6b3e9c971519a9ffd617bdb53fc"
     },
     {
+      "bytes": 855,
+      "path": "dynamic/阅读/2026-10-16 01-02-40 小水读纯真年代_af3bbcd300b8.md",
+      "sha256": "04c4be86ba3ca7d09581bf150a0a488164bdd40e68c0e77f992bd67d58b5a613"
+    },
+    {
+      "bytes": 1416,
+      "path": "dynamic/阅读/2026-10-16 03-55-24 比较是否会选中同一处_af9c7abd70c2.md",
+      "sha256": "adad45eed047441af5d8102688d7f4db6a4e3ce12de4b047bda1d0da6d0a4b4d"
+    },
+    {
       "bytes": 1497,
       "path": "dynamic/音乐/2026-09-10 01-13-06 分享音乐时光_da3dce224d35.md",
       "sha256": "111b00d0edd330d77d54818436037448b1b5cf36f0ca3fe472f4e008b64b0682"
@@ -20553,11 +20583,11 @@
       "sha256": "3c49557a5d64302f445fbf02bbd81f95f3d6e562ebd371ee301a2ce69b6dac46"
     }
   ],
-  "generated_at": "2026-10-16T00:26:53+00:00",
+  "generated_at": "2026-10-16T06:30:03+00:00",
   "path_prefix": "ombre",
   "repo": "2046945334-oss/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 4999058
+  "total_bytes": 5005138
 }
